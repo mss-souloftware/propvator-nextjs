@@ -1,0 +1,14 @@
+.brnadSelector {
+    text-align: center;
+    border-radius: 8px;
+    padding: 8px 5px;
+}
+
+.brnadSelector img{
+    margin: auto;
+}
+
+.brnadSelector span {
+    font-size: 12px;
+    color: #fff;
+}
