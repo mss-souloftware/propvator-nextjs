@@ -2,6 +2,7 @@ import React from 'react'
 import styles from './Hero.module.css';
 import CompareBox from './CompareBox/CompareBox';
 import Brands from '../Filters/Brands/Brands';
+import Instruments from '../Instruments/Instruments';
 
 
 export default function Hero() {
@@ -12,6 +13,7 @@ export default function Hero() {
                 <CompareBox />
 
                 <Brands />
+                <Instruments />
             </div>
         </section>
     )

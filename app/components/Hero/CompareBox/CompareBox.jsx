@@ -39,6 +39,11 @@ export default function CompareBox() {
         <BTNClicks title="3 Steps" />
         <BTNClicks title="4 Steps" />
       </div>
+
+      <button type="button" className={styles.searchBtn}>
+        Search
+      </button>
+
     </div>
   )
 }
