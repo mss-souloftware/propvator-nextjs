@@ -9,7 +9,7 @@ export default function Home() {
     <NextUIProvider>
       <Header />
       <Hero />
-      {/* <RangeBox /> */}
+      <RangeBox />
     </NextUIProvider>
   );
 }

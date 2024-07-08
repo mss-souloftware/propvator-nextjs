@@ -20,20 +20,34 @@ export default function RangeBox() {
   };
 
   return (
-    <div className='relative'>
-      <p>Price range</p>
-      <div className="numberPanel">
-        <label htmlFor="minPrice">Min</label>
-        <input
-          type="number"
-          name="minPrice"
-          id="minPrice"
-          value={value[0]}
-          onChange={handleMinChange}
-          placeholder='34'
-        />
+    <div className='relative flex'>
+      <div className="inputWrapper self-stretch">
+        <div className="numberPanel">
+          <label htmlFor="maxPrice">Max</label>
+          <br></br>
+          <input
+            type="number"
+            name="maxPrice"
+            id="maxPrice"
+            value={value[1]}
+            onChange={handleMaxChange}
+            placeholder='400'
+          />
+        </div>
+        <div className="numberPanel">
+          <label htmlFor="minPrice">Min</label>
+          <br></br>
+          <input
+            type="number"
+            name="minPrice"
+            id="minPrice"
+            value={value[0]}
+            onChange={handleMinChange}
+            placeholder='34'
+          />
+        </div>
       </div>
-      <div className="flex flex-col gap-2 w-full h-[348px] max-w-md items-start justify-center">
+      <div className="flex flex-col gap-2 w-5 h-[348px] max-w-md items-start justify-center">
         <Slider
           label="Select a budget"
           formatOptions={{ style: "currency", currency: "USD" }}
@@ -44,20 +58,6 @@ export default function RangeBox() {
           value={value}
           onChange={setValue}
           className="max-w-md"
-        />
-        <p className="text-default-500 font-medium text-small">
-          Selected budget: {Array.isArray(value) && value.map((b) => `$${b}`).join(" – ")}
-        </p>
-      </div>
-      <div className="numberPanel">
-        <label htmlFor="maxPrice">Max</label>
-        <input
-          type="number"
-          name="maxPrice"
-          id="maxPrice"
-          value={value[1]}
-          onChange={handleMaxChange}
-          placeholder='400'
         />
       </div>
     </div>
