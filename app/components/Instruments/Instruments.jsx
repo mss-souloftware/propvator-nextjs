@@ -6,7 +6,7 @@ export default function Instruments() {
     return (
         <div className={styles.instrumentBox}>
             <h2>Select Instruments:</h2>
-            <select id="countries">
+            <select className={styles.instrument} id="countries">
                 <option selected value="forex">Forex</option>
                 <option value="indices">Indices</option>
                 <option value="commodities">Commodities</option>

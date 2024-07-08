@@ -24,3 +24,7 @@
 .instrumentBox select:focus{
     outline: none;
 }
+
+.instrument option {
+    color: black;
+}
