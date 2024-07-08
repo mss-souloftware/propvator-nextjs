@@ -10,8 +10,12 @@ export default function Home() {
     <NextUIProvider>
       <Header />
       <Hero />
+<<<<<<< HEAD
       {/* <RangeBox /> */}
       <Platforms/>
+=======
+      <RangeBox />
+>>>>>>> 809416ac77aadbd3ae805abd1d78b7662f97e10c
     </NextUIProvider>
   );
 }
