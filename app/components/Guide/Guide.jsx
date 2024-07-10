@@ -1,4 +1,3 @@
-;
 import styles from './Guide.module.css'
 import DetailBox from './DetailBox';
 

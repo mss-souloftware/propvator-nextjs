@@ -1,0 +1,40 @@
+.newsletterWrapper {
+    margin-top: 50px;
+    padding: 50px 30px;
+    border-radius: 8px;
+    background: rgb(125, 227, 250);
+    background: linear-gradient(360deg, rgba(125, 227, 250, 0.2) 16%, rgba(89, 146, 252, 0.2) 44%, rgba(51, 59, 255, 0.2) 74%);
+}
+
+.Newsheading {
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    line-height: 52px;
+    font-size: 40px;
+}
+
+.newsletterWrapper input {
+    background: #212460;
+    color: #fff;
+    padding: 15px;
+    width: 85%;
+    border-radius: 50px;
+}
+
+.newsletterWrapper input:focus {
+    outline: none;
+}
+
+.newsletterWrapper input::placeholder {
+    color: #fff;
+}
+
+.newsletterWrapper button {
+    width: 15%;
+    background: linear-gradient(90deg, rgb(125, 227, 250) 16%, rgb(89, 146, 252) 44%, rgb(51, 59, 255) 74%);
+    cursor: pointer;
+    color: #fff;
+    border-radius: 50px;
+    margin-left: -30px;
+}

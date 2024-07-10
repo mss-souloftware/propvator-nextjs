@@ -7,6 +7,7 @@ import Features from "./components/Features/Features";
 import Guide from "./components/Guide/Guide";
 import AdvanceFilter from "./components/AdvanceFilter/AdvanceFilter";
 import Footer from "./components/Footer/Footer";
+import Newsletter from "./components/Newsletter/Newsletter";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <Platforms />
       <Features />
       <Guide />
+      <Newsletter />
       <Footer />
     </NextUIProvider>
   );
