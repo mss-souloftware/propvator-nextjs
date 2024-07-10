@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import React from 'react'
+
 import styles from './Accounts.module.css';
 
 export default function Accounts() {

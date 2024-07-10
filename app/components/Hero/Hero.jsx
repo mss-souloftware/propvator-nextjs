@@ -1,4 +1,4 @@
-import React from 'react'
+
 import styles from './Hero.module.css';
 import CompareBox from './CompareBox/CompareBox';
 import Brands from '../Filters/Brands/Brands';

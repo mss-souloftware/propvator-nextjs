@@ -1,4 +1,4 @@
-import React from 'react'
+
 import RangeBox from './RangeBox'
 import styles from './RangWrapper.module.css'
 

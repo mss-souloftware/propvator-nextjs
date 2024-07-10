@@ -1,11 +1,11 @@
-import React from 'react'
 import Logo from '../Header/Logo'
 import Copyright from './Copyright'
 import styles from './Footer.module.css'
+import Menus from './Menus'
 
 export default function Footer() {
     return (
-        <footer className='pt-10'>
+        <footer className='pt-10 bg-[#0F0F0F]'>
             <div className="container mx-auto">
                 <div className="text-center mx-auto text-white">
                     <Logo />
@@ -15,6 +15,7 @@ export default function Footer() {
                     </p>
                     <div className='bg-[#1C2069] h-[1px] my-8'></div>
                 </div>
+                <Menus />
             </div>
             <Copyright />
         </footer>
