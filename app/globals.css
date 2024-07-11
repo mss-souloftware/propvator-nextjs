@@ -2,6 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
-body{
+body {
   background: #1A1A1A;
+}
+
+/* the slides */
+.slick-slide {
+  margin-left: 60px;
+}
+
+/* the parent */
+.slick-list {
+  margin-left: -60px;
 }
