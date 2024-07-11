@@ -9,6 +9,7 @@ import AdvanceFilter from "./components/AdvanceFilter/AdvanceFilter";
 import Footer from "./components/Footer/Footer";
 import Newsletter from "./components/Newsletter/Newsletter";
 import Testimonials from "./components/Testimonials/Testimonials";
+import FeatureTable from "./components/FeatureTable/FeatureTable";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <Hero />
       <AdvanceFilter />
       <Platforms />
+      <FeatureTable />
       <Features />
       <Guide />
       <Testimonials />

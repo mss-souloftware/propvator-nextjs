@@ -10,6 +10,7 @@
 
 .titleBg span {
     position: relative;
+    z-index: 1;
 }
 
 .titleBg span::after {
