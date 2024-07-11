@@ -453,10 +453,10 @@ export default function FeatureTable() {
                                                         <span></span>
                                                     </div>
                                                     <svg xmlns="http://www.w3.org/2000/svg" width="17" height="16" viewBox="0 0 17 16" fill="none">
-                                                        <path d="M7.46659 4.47998L4.98657 2L2.50659 4.47998" stroke="#A4A4A4" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                        <path d="M4.98657 14V2" stroke="#A4A4A4" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                        <path d="M9.5332 11.52L12.0132 14L14.4932 11.52" stroke="#A4A4A4" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                        <path d="M12.0132 2V14" stroke="#A4A4A4" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M7.46659 4.47998L4.98657 2L2.50659 4.47998" stroke="#2032FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M4.98657 14V2" stroke="#2032FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M9.5332 11.52L12.0132 14L14.4932 11.52" stroke="#2032FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        <path d="M12.0132 2V14" stroke="#2032FF" stroke-linecap="round" stroke-linejoin="round"></path>
                                                     </svg>
                                                 </th>
                                             );
