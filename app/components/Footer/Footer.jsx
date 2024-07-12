@@ -11,7 +11,12 @@ export default function Footer() {
                     <Logo />
                     <h4 className={styles.gradientHDNG}>Disclaimer</h4>
                     <p>
-                        The information provided is intended for general use and informational purposes only. Users are advised to proceed at their own risk and exercise due diligence before making any decisions based on the information provided. It is crucial to understand that our business offers information and does not endorse or recommend any specific proprietary trading firms. Users should independently evaluate and verify the suitability of any such entities before engaging with them. We do not assume responsibility for any consequences or losses arising from the use of the information provided. Thank you for your understanding and discretion.
+                        This website is provided for general use and informational purposes only. Nothing provided on our website shall constitute financial advice, suggestion or recommendation. You must always seek the advice of your financial advisor or other qualified financial service provider regarding financial advice and investing. Never disregard professional financial advice or delay in seeking it because of something you have read on our website. Users should independently evaluate and verify the suitability of any such listed entities before engaging with them. We are not responsible for any
+                        losses (whether that be direct or indirect) which you may incur as a result of your connection to this
+                        website. The content on this website is not intended to be relied upon for financial or information
+                        purposes, nor is it meant to be complete or exhaustive. No financial-customer relationship is
+                        created by this website or its use. For more information, visit our Terms & Conditions page.
+
                     </p>
                     <div className='bg-[#1C2069] h-[1px] my-8'></div>
                 </div>

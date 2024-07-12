@@ -9,10 +9,6 @@ export default function Header() {
             <div className="container mx-auto">
                 <div className={`${styles.header} flex justify-between items-center rounded-xl`}>
                     <Logo />
-                    <div className="flex justify-between items-center">
-                        <Accounts />
-                        <Hamburger />
-                    </div>
                 </div>
             </div>
         </header>

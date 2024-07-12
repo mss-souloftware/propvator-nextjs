@@ -3,7 +3,7 @@
     padding: 50px 30px;
     border-radius: 8px;
     background: rgb(125, 227, 250);
-    background: linear-gradient(360deg, rgba(125, 227, 250, 0.2) 16%, rgba(89, 146, 252, 0.2) 44%, rgba(51, 59, 255, 0.2) 74%);
+    background: linear-gradient(180deg, #333aff27 16%, #333aff1d 44%, #333aff0b 74%);
 }
 
 .Newsheading {
@@ -32,7 +32,7 @@
 
 .newsletterWrapper button {
     width: 15%;
-    background: linear-gradient(90deg, rgb(125, 227, 250) 16%, rgb(89, 146, 252) 44%, rgb(51, 59, 255) 74%);
+    background: linear-gradient(180deg, rgb(125, 227, 250) 16%, rgb(89, 146, 252) 44%, rgb(51, 59, 255) 74%);
     cursor: pointer;
     color: #fff;
     border-radius: 50px;

@@ -17,9 +17,7 @@ export default function Home() {
       <Header />
       <Hero />
       <AdvanceFilter />
-      <Platforms />
       <FeatureTable />
-      <Features />
       <Guide />
       <Testimonials />
       <Newsletter />

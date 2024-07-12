@@ -11,7 +11,7 @@ export default function CompareBox() {
         <BTNClicks title="Stocks" />
         <BTNClicks title="Indices" />
         <BTNClicks title="Crypto" />
-        <BTNClicks title="Future" />
+        <BTNClicks title="Futures" />
         <BTNClicks title="Crypto" />
         <BTNClicks title="Commodities" />
       </div>
@@ -19,17 +19,10 @@ export default function CompareBox() {
       <div className={`flex gap-3 ${styles.slectionWrapper}`}>
         <BTNClicks title="5k" />
         <BTNClicks title="10k" />
-        <BTNClicks title="15k" />
-        <BTNClicks title="30k" />
-        <BTNClicks title="40k" />
+        <BTNClicks title="25k" />
         <BTNClicks title="50k" />
-        <BTNClicks title="60k" />
-        <BTNClicks title="2M" />
-        <BTNClicks title="10K" />
-        <BTNClicks title="120K" />
-        <BTNClicks title="150K" />
-        <BTNClicks title="200K" />
-        <BTNClicks title="600K" />
+        <BTNClicks title="100k" />
+        <BTNClicks title="2000k" />
       </div>
       <p>Select number of step</p>
       <div className={`flex gap-3 ${styles.slectionWrapper}`}>
@@ -37,7 +30,6 @@ export default function CompareBox() {
         <BTNClicks title="1 Steps" />
         <BTNClicks title="2 Steps" />
         <BTNClicks title="3 Steps" />
-        <BTNClicks title="4 Steps" />
       </div>
 
       <button type="button" className={styles.searchBtn}>
