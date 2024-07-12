@@ -6,7 +6,7 @@ export default function Copyright() {
             <div className="container mx-auto">
                 <div className="coprightSec flex flex-wrap justify-center sm:justify-between">
                     <p className='text-sm sm:w-6/12 w-full'>© 2024 Prop Firm Match. All rights reserved.</p>
-                    <ul className='m-0 p-0 flex text-sm sm:w-6/12 w-full sm:mt-0 mt-2'>
+                    <ul className='m-0 p-0 flex text-sm sm:w-6/12 w-full sm:mt-0 mt-2 justify-center md:justify-end'>
                         <li className='mr-10'>
                             <Link href="#" className='underline'>Terms and Conditions</Link>
                         </li>
