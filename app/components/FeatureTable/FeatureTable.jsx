@@ -434,7 +434,7 @@ const tableHead = [
 
 export default function FeatureTable() {
     return (
-        <div className="container mx-auto">
+        <div className="container mx-auto md:px-0 px-3">
             <section className='comparison--table--area'>
                 <div className="ml-auto text-white text-right my-5">
                     Showing <span className='text-[#2A3BFF]'>519</span> result

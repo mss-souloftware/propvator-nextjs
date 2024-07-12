@@ -25,3 +25,15 @@
     z-index: -1;
     border-radius: 8px;
 }
+
+@media(max-width:991px) {
+    .heroSection {
+        padding: 200px 0 100px;
+    }
+}
+
+@media(max-width:768px) {
+    .heroSection {
+        padding: 200px 12px 100px;
+    }
+}

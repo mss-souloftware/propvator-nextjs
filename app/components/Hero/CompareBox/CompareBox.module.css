@@ -34,3 +34,18 @@
     color: #fff;
     border-radius: 8px;
 }
+
+@media(max-width:768px) {
+    .compareBox {
+        margin-top: 30px;
+    }
+
+    .compareBox h2 {
+        font-size: 20px;
+        line-height: 1;
+    }
+
+    .compareBox p {
+        font-size: 16px;
+    }
+}

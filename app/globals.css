@@ -367,3 +367,32 @@ body {
   font-weight: 400;
   line-height: 26.24px;
 }
+
+@media(max-width:991px) {
+
+  /* the slides */
+  .slick-slide {
+    margin-left: 30px;
+  }
+
+  /* the parent */
+  .slick-list {
+    margin-left: -30px;
+  }
+
+}
+
+
+@media(max-width:991px) {
+
+  /* the slides */
+  .slick-slide {
+    margin-left: 20px;
+  }
+
+  /* the parent */
+  .slick-list {
+    margin-left: -20px;
+  }
+
+}

@@ -6,7 +6,7 @@ export default function CompareBox() {
     <div className={styles.compareBox}>
       <h2>What plan do you want to compare?</h2>
       <p>Select Asset Type</p>
-      <div className={`flex gap-3 ${styles.slectionWrapper}`}>
+      <div className={`flex gap-3 flex-wrap ${styles.slectionWrapper}`}>
         <BTNClicks title="Forex" />
         <BTNClicks title="Stocks" />
         <BTNClicks title="Indices" />
@@ -16,7 +16,7 @@ export default function CompareBox() {
         <BTNClicks title="Commodities" />
       </div>
       <p>Select your account size</p>
-      <div className={`flex gap-3 ${styles.slectionWrapper}`}>
+      <div className={`flex gap-3 flex-wrap ${styles.slectionWrapper}`}>
         <BTNClicks title="5k" />
         <BTNClicks title="10k" />
         <BTNClicks title="25k" />
@@ -25,7 +25,7 @@ export default function CompareBox() {
         <BTNClicks title="2000k" />
       </div>
       <p>Select number of step</p>
-      <div className={`flex gap-3 ${styles.slectionWrapper}`}>
+      <div className={`flex gap-3 flex-wrap ${styles.slectionWrapper}`}>
         <BTNClicks title="None" />
         <BTNClicks title="1 Steps" />
         <BTNClicks title="2 Steps" />

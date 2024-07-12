@@ -5,8 +5,8 @@ import BrandSelector from "./BrandSelector";
 export default function Brands() {
     return (
         <>
-            <div className={`${styles.brandBox} flex justify-between items-center`}>
-                <p className="text-white">Select for  multiple firms:</p>
+            <div className={`${styles.brandBox} flex flex-wrap justify-center md:justify-between items-center`}>
+                <p className="text-white mb-2">Select for  multiple firms:</p>
                 <div className={styles.moreFilters}>
                     <Image src="/Images/Global/Filters.svg" width={20} height={20} alt="Filters" />
                     <span>
@@ -15,7 +15,7 @@ export default function Brands() {
                 </div>
             </div>
 
-            <div className="flex gap-3 justify-between mt-10">
+            <div className="flex flex-wrap gap-3 justify-between mt-10">
                 <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand1.svg" />
                 <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand2.svg" />
                 <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand3.svg" />
@@ -29,7 +29,7 @@ export default function Brands() {
                 <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand2.svg" />
             </div>
 
-            <div className="flex gap-3 justify-between mt-4">
+            <div className="flex flex-wrap gap-3 justify-between mt-4">
                 <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand1.svg" />
                 <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand2.svg" />
                 <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand3.svg" />
@@ -43,7 +43,7 @@ export default function Brands() {
                 <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand2.svg" />
             </div>
 
-            <div className="flex gap-3 justify-between mt-4">
+            <div className="flex flex-wrap gap-3 justify-between mt-4">
                 <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand1.svg" />
                 <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand2.svg" />
                 <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand3.svg" />

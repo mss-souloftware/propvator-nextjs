@@ -3,12 +3,14 @@ import NewsletterBox from './NewsletterBox'
 
 function Newsletter() {
     return (
-        <div className="container mx-auto my-16">
-            <h3 className={styles.Newsheading}>
-                Subscribe to Stay Updated
-            </h3>
+        <div className="md:px-0 px-3">
+            <div className="container mx-auto my-16">
+                <h3 className={styles.Newsheading}>
+                    Subscribe to Stay Updated
+                </h3>
 
-            <NewsletterBox />
+                <NewsletterBox />
+            </div>
         </div>
     )
 }

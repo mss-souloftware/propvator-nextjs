@@ -5,3 +5,10 @@
     line-height: 52px;
     font-size: 40px;
 }
+
+@media(max-width:768px) {
+    .Testimonials {
+        line-height: 1;
+        font-size: 20px;
+    }
+}

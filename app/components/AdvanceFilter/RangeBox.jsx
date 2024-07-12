@@ -22,7 +22,7 @@ export default function RangeBox() {
 
   return (
     <div className={`${styles.RangeBox} relative flex justify-between`}>
-      <div className="inputWrapper flex flex-col justify-between">
+      <div className="inputWrapper flex flex-col w-10/12 justify-between">
         <div className="numberPanel">
           <label htmlFor="maxPrice">Max</label>
           <input
@@ -46,7 +46,7 @@ export default function RangeBox() {
           />
         </div>
       </div>
-      <div className="flex flex-col gap-2 w-5 h-[150px] max-w-md items-start justify-center">
+      <div className="flex flex-col gap-2 w-2/12 h-[150px] max-w-md items-start justify-center">
         <Slider
           formatOptions={{ style: "currency", currency: "USD" }}
           step={10}

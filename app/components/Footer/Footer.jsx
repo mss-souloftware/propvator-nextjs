@@ -5,7 +5,7 @@ import Menus from './Menus'
 
 export default function Footer() {
     return (
-        <footer className='pt-10 bg-[#0F0F0F]'>
+        <footer className='pt-10 bg-[#0F0F0F] px-3 md:px-0'>
             <div className="container mx-auto">
                 <div className="text-center mx-auto text-white">
                     <Logo />

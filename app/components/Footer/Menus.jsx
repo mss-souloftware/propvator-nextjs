@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Menus() {
     return (
-        <div className="grid grid-cols-6 text-white mb-10 w-5/6 mx-auto">
+        <div className="grid grid-cols-2 sm:grid-cols-2 gap-y-3 md:grid-cols-6 text-white mb-10 md:w-5/6 w-full mx-auto">
             <div className="col-span-1">
                 <h5 className="font-bold mb-4">Tools</h5>
                 <ul className="p-0 m-0 text-sm text-[#A8A8A8] leading-10">

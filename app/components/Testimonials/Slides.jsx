@@ -22,6 +22,38 @@ export default function Slides() {
         swipeToSlide: true,
         centerMode: true,
         swipeToSlide: true,
+        responsive: [
+            {
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 1,
+                    initialSlide: 3,
+                    dots: false,
+                    arrow: false,
+                }
+            },
+            {
+                breakpoint: 800,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                    initialSlide: 2,
+                    dots: false,
+                    arrow: false,
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    initialSlide: 1,
+                    dots: false,
+                    arrow: false,
+                }
+            },
+        ]
     };
     return (
         <Slider {...settings}>
