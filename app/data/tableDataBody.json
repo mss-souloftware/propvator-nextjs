@@ -1,0 +1,53 @@
+[
+    {
+        "logo": "/Images/brands/brand6.svg",
+        "firm": "Alpha Capital Group",
+        "regular": "",
+        "sale": "$97",
+        "accntSize": "$10K",
+        "accntStep": "2 Steps",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "dailyLose": "10%",
+        "drawDown": "5%",
+        "resetType": "Balance-based",
+        "commission": "$0",
+        "tech": "In-House",
+        "leverage": "100",
+        "rating": "4.5"
+    },
+    {
+        "logo": "/Images/brands/brand6.svg",
+        "firm": "Alpha Capital Group",
+        "regular": "",
+        "sale": "$97",
+        "accntSize": "$10K",
+        "accntStep": "2 Steps",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "dailyLose": "10%",
+        "drawDown": "5%",
+        "resetType": "Balance-based",
+        "commission": "$0",
+        "tech": "In-House",
+        "leverage": "100",
+        "rating": "4.5"
+    },
+    {
+        "logo": "/Images/brands/brand6.svg",
+        "firm": "Alpha Capital Group",
+        "regular": "",
+        "sale": "$97",
+        "accntSize": "$10K",
+        "accntStep": "2 Steps",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "dailyLose": "10%",
+        "drawDown": "5%",
+        "resetType": "Balance-based",
+        "commission": "$0",
+        "tech": "In-House",
+        "leverage": "100",
+        "rating": "4.5"
+    }
+]

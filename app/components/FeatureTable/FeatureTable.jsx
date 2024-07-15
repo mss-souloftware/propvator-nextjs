@@ -2,7 +2,8 @@ import styles from './FeatureTable.module.css'
 import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
-import tableHead from '@/app/data/tableData.jsx'
+import tableHeadData from '@/app/data/tableData.jsx'
+import tableBodyData from '@/app/data/tableDataBody.json'
 
 
 export default function FeatureTable() {
@@ -18,7 +19,7 @@ export default function FeatureTable() {
                             <table className="w-100" id="data-table">
                                 <thead>
                                     <tr>
-                                        {tableHead.map((item, index) => {
+                                        {tableHeadData.map((item, index) => {
                                             return (
                                                 <th key={index}>
                                                     <p>{item}</p>
@@ -37,13 +38,14 @@ export default function FeatureTable() {
                                     </tr>
                                 </thead>
                                 <tbody id="table-body">
-                                    {/* {tableHead.map((item, index) => {
+                                    {tableBodyData.map((item, index) => {
                                         return (
                                             <tr key={index}>
                                                 <td>
                                                     <div className="company">
-                                                        <Image className='mx-auto' width={30} height={30} src={item.logo} alt={item.companyTitle} />
-                                                        <p>{item.companyTitle}</p>
+
+                                                        <Image className='mx-auto' width={30} height={30} src={item.logo} alt={item.firm} />
+                                                        <p>{item.firm}</p>
                                                     </div>
                                                 </td>
                                                 <td>
@@ -107,7 +109,7 @@ export default function FeatureTable() {
                                                 </td>
                                                 <td className="country">
                                                     <p>{item.establishDate}</p>
-                                                    <Image className='mx-auto my-1' width={50} height={50} src={`${item.establishFlag}`} alt={item.establishCountry} />
+                                                    {/* <Image className='mx-auto my-1' width={50} height={50} src={`${item.establishFlag}`} alt={item.establishCountry} /> */}
                                                     <span>{item.establishCountry}</span>
                                                 </td>
                                                 <td>
@@ -122,7 +124,7 @@ export default function FeatureTable() {
                                                 </td>
                                             </tr>
                                         );
-                                    })} */}
+                                    })}
                                 </tbody>
                             </table>
                         </div>
