@@ -289,7 +289,7 @@ body {
   background: linear-gradient(270deg,
       rgba(3, 59, 255, 0.75) -25.35%,
       rgba(115, 115, 115, 0) 69.97%);
-  z-index: 1;
+  z-index: 0;
 }
 
 .comparison--table--area .buttons a {

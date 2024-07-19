@@ -1,6 +1,7 @@
 import Image from "next/image";
 import styles from "./Brands.module.css";
 import BrandSelector from "./BrandSelector";
+import brand from '@/app/data/brand.json';
 
 export default function Brands() {
     return (
@@ -15,46 +16,12 @@ export default function Brands() {
                 </div>
             </div>
 
-            <div className="flex flex-wrap gap-3 justify-between mt-10">
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand1.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand2.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand3.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand4.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand5.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand6.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand7.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand8.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand9.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand1.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand2.svg" />
-            </div>
-
-            <div className="flex flex-wrap gap-3 justify-between mt-4">
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand1.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand2.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand3.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand4.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand5.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand6.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand7.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand8.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand9.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand1.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand2.svg" />
-            </div>
-
-            <div className="flex flex-wrap gap-3 justify-between mt-4">
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand1.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand2.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand3.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand4.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand5.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand6.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand7.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand8.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand9.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand1.svg" />
-                <BrandSelector brandName="Blue Guardian" logo="/Images/brands/brand2.svg" />
+            <div className="flex flex-wrap gap-3  mt-10">
+                {brand.map((item, index) => {
+                    return (
+                        <BrandSelector key={index} brandName={item.name} logo="/Images/brands/brand1.svg" />
+                    );
+                })}
             </div>
         </>
     )

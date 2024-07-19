@@ -1,3 +1,3 @@
-const tableHead = ['FIRM', 'PRICE', 'DISCOUNT CODE', 'ACCOUNT SIZE', 'PROFIT SPLIT', 'PROFIT TARGET', 'MAX. DAILY LOSS', 'MAX. TOTAL DRAWDOWN', 'MAX. DRAWDOWN RESET TYPE', 'COMMISSION PER ROUND LOT (FOREX)', 'TECHNOLOGY', 'PROFIT TARGET TO DRAWDOWN RATIO', 'PAYOUT FREQUENTLY', 'TRUST PILOT RATING', 'YEAR ESTABLISHED AND COUNTRY', 'LOYALTY POINTS', 'BUY']
+const tableHead = ['FIRM', 'PRICE', 'SIZE', 'Steps', 'Profit Split', 'Profit Target', 'Max Drawdown', 'Daily Drawdown', 'Commission', 'Leverage', 'Trust Pilot Rating', 'Buy']
 
 export default tableHead;
