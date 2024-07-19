@@ -13,30 +13,51 @@
         "commission": "$0",
         "leverage": "100",
         "rating": "4.5",
+        "brand": "alphaCapitalGroup",
         "filterType": {
-            "assetType": [
-                "Forex",
-                "Indices",
-                "Commodities"
-            ],
-            "countries": [
-                "USA",
-                "Pakistan",
-                "Nigeria",
-                "Turkiye",
-                "Dubai"
-            ],
-            "accountTypes": [
-                "2 Steps"
-            ],
-            "platforms": [
-                "MT5",
-                "cTrader",
-                "DXtrade"
-            ],
-            "broker": [
-                "Own Broker"
-            ]
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": false,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": false,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
         }
     },
     {
@@ -54,29 +75,49 @@
         "leverage": "100",
         "rating": "4.5",
         "filterType": {
-            "assetType": [
-                "Forex",
-                "Indices",
-                "Commodities"
-            ],
-            "countries": [
-                "USA",
-                "Pakistan",
-                "Nigeria",
-                "Turkiye",
-                "Dubai"
-            ],
-            "accountTypes": [
-                "2 Steps"
-            ],
-            "platforms": [
-                "MT5",
-                "cTrader",
-                "DXtrade"
-            ],
-            "broker": [
-                "Own Broker"
-            ]
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": false,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": false,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
         }
     },
     {
@@ -94,29 +135,49 @@
         "leverage": "100",
         "rating": "4.5",
         "filterType": {
-            "assetType": [
-                "Forex",
-                "Indices",
-                "Commodities"
-            ],
-            "countries": [
-                "USA",
-                "Pakistan",
-                "Nigeria",
-                "Turkiye",
-                "Dubai"
-            ],
-            "accountTypes": [
-                "2 Steps"
-            ],
-            "platforms": [
-                "MT5",
-                "cTrader",
-                "DXtrade"
-            ],
-            "broker": [
-                "Own Broker"
-            ]
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": false,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": false,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
         }
     },
     {
@@ -134,29 +195,49 @@
         "leverage": "100",
         "rating": "4.5",
         "filterType": {
-            "assetType": [
-                "Forex",
-                "Indices",
-                "Commodities"
-            ],
-            "countries": [
-                "USA",
-                "Pakistan",
-                "Nigeria",
-                "Turkiye",
-                "Dubai"
-            ],
-            "accountTypes": [
-                "2 Steps"
-            ],
-            "platforms": [
-                "MT5",
-                "cTrader",
-                "DXtrade"
-            ],
-            "broker": [
-                "Own Broker"
-            ]
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": false,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": false,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
         }
     },
     {
@@ -174,29 +255,49 @@
         "leverage": "100",
         "rating": "4.5",
         "filterType": {
-            "assetType": [
-                "Forex",
-                "Indices",
-                "Commodities"
-            ],
-            "countries": [
-                "USA",
-                "Pakistan",
-                "Nigeria",
-                "Turkiye",
-                "Dubai"
-            ],
-            "accountTypes": [
-                "2 Steps"
-            ],
-            "platforms": [
-                "MT5",
-                "cTrader",
-                "DXtrade"
-            ],
-            "broker": [
-                "Own Broker"
-            ]
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": false,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": false,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
         }
     },
     {
@@ -214,33 +315,49 @@
         "leverage": "100",
         "rating": "4.3",
         "filterType": {
-            "assetType": [
-                "Forex",
-                "Crypto",
-                "Indices",
-                "Commodities"
-            ],
-            "countries": [
-                "USA",
-                "Pakistan",
-                "Nigeria",
-                "Turkiye",
-                "Dubai"
-            ],
-            "accountTypes": [
-                "1 Step",
-                "2 Steps",
-                "3 Steps"
-            ],
-            "platforms": [
-                "MT5",
-                "TradeLocker",
-                "Match Trader"
-            ],
-            "broker": [
-                "Purple Trading",
-                "Finesse FX"
-            ]
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": true
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": true,
+                "Match": true
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": true,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": true,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": false
+            }
         }
     },
     {
@@ -258,33 +375,49 @@
         "leverage": "100",
         "rating": "4.3",
         "filterType": {
-            "assetType": [
-                "Forex",
-                "Crypto",
-                "Indices",
-                "Commodities"
-            ],
-            "countries": [
-                "USA",
-                "Pakistan",
-                "Nigeria",
-                "Turkiye",
-                "Dubai"
-            ],
-            "accountTypes": [
-                "1 Step",
-                "2 Steps",
-                "3 Steps"
-            ],
-            "platforms": [
-                "MT5",
-                "TradeLocker",
-                "Match Trader"
-            ],
-            "broker": [
-                "Purple Trading",
-                "Finesse FX"
-            ]
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": true
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": true,
+                "Match": true
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": true,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": true,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": false
+            }
         }
     },
     {
@@ -302,33 +435,49 @@
         "leverage": "100",
         "rating": "4.3",
         "filterType": {
-            "assetType": [
-                "Forex",
-                "Crypto",
-                "Indices",
-                "Commodities"
-            ],
-            "countries": [
-                "USA",
-                "Pakistan",
-                "Nigeria",
-                "Turkiye",
-                "Dubai"
-            ],
-            "accountTypes": [
-                "1 Step",
-                "2 Steps",
-                "3 Steps"
-            ],
-            "platforms": [
-                "MT5",
-                "TradeLocker",
-                "Match Trader"
-            ],
-            "broker": [
-                "Purple Trading",
-                "Finesse FX"
-            ]
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": true
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": true,
+                "Match": true
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": true,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": true,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": false
+            }
         }
     }
 ]

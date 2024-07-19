@@ -40,7 +40,7 @@ export default function FeatureTable() {
                                 <tbody id="table-body">
                                     {tableBodyData.map((item, index) => {
                                         return (
-                                            <tr key={index}>
+                                            <tr data-brand={item.brand} key={index} >
                                                 <td>
                                                     <div className="company">
                                                         <Image className='mx-auto' width={20} height={20} src={item.logo} alt={item.firm} />
