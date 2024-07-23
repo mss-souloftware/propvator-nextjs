@@ -436,7 +436,7 @@
         "rating": "4.3",
         "filterType": {
             "assetType": {
-                "forex": true,
+                "forex": false,
                 "futuresStocks": false,
                 "crypto": true,
                 "indices": true,

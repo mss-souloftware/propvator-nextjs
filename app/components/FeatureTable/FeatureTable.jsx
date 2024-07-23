@@ -1,17 +1,39 @@
-import styles from './FeatureTable.module.css'
-import Image from 'next/image'
-import Link from 'next/link'
-import React from 'react'
-import tableHeadData from '@/app/data/tableData.jsx'
-import tableBodyData from '@/app/data/tableDataBody.json'
+"use client";
+import { useState, useEffect } from 'react';
+import styles from './FeatureTable.module.css';
+import Image from 'next/image';
+import Link from 'next/link';
+import tableHeadData from '@/app/data/tableData.jsx';
+import tableBodyData from '@/app/data/tableDataBody.json';
 
+export default function FeatureTable({ filter }) {
+    const [data, setData] = useState(tableBodyData);
+    const [loading, setLoading] = useState(true);
 
-export default function FeatureTable() {
+    useEffect(() => {
+        const filterData = () => {
+            if (filter.hasTempered) {
+                const filteredData = tableBodyData.filter(i => i.filterType.assetType.forex === filter?.assetType?.forex);
+                setData(filteredData);
+            } else {
+                setData(tableBodyData);
+            }
+            setLoading(false);
+        };
+
+        setLoading(true);
+        filterData();
+    }, [filter]);
+
+    if (loading) {
+        return <div>Loading...</div>;
+    }
+
     return (
         <div className="container mx-auto md:px-0 px-3">
             <section className='comparison--table--area'>
                 <div className="ml-auto text-white text-right my-5">
-                    Showing <span className='text-[#2A3BFF]'>519</span> result
+                    Showing <span className='text-[#2A3BFF]'>{data.length}</span> result{data.length !== 1 ? 's' : ''}
                 </div>
                 <div className="table--wrapper">
                     <div className="table--inner">
@@ -19,27 +41,25 @@ export default function FeatureTable() {
                             <table className="w-100" id="data-table">
                                 <thead>
                                     <tr>
-                                        {tableHeadData.map((item, index) => {
-                                            return (
-                                                <th key={index}>
-                                                    <p>{item}</p>
-                                                    <div className="column-minus">
-                                                        <span></span>
-                                                    </div>
-                                                    <svg xmlns="http://www.w3.org/2000/svg" width="17" height="16" viewBox="0 0 17 16" fill="none">
-                                                        <path d="M7.46659 4.47998L4.98657 2L2.50659 4.47998" stroke="#2032FF" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                        <path d="M4.98657 14V2" stroke="#2032FF" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                        <path d="M9.5332 11.52L12.0132 14L14.4932 11.52" stroke="#2032FF" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                        <path d="M12.0132 2V14" stroke="#2032FF" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                    </svg>
-                                                </th>
-                                            );
-                                        })}
+                                        {tableHeadData.map((item, index) => (
+                                            <th key={index}>
+                                                <p>{item}</p>
+                                                <div className="column-minus">
+                                                    <span></span>
+                                                </div>
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="17" height="16" viewBox="0 0 17 16" fill="none">
+                                                    <path d="M7.46659 4.47998L4.98657 2L2.50659 4.47998" stroke="#2032FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    <path d="M4.98657 14V2" stroke="#2032FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    <path d="M9.5332 11.52L12.0132 14L14.4932 11.52" stroke="#2032FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                    <path d="M12.0132 2V14" stroke="#2032FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </th>
+                                        ))}
                                     </tr>
                                 </thead>
                                 <tbody id="table-body">
-                                    {tableBodyData.map((item, index) => {
-                                        return (
+                                    {data.length > 0 ? (
+                                        data.map((item, index) => (
                                             <tr data-brand={item.brand} key={index} >
                                                 <td>
                                                     <div className="company">
@@ -60,7 +80,6 @@ export default function FeatureTable() {
                                                             </linearGradient>
                                                         </defs>
                                                     </svg>
-
                                                 </td>
                                                 <td>
                                                     <p>{item.size}</p>
@@ -97,8 +116,14 @@ export default function FeatureTable() {
                                                     </Link>
                                                 </td>
                                             </tr>
-                                        );
-                                    })}
+                                        ))
+                                    ) : (
+                                        <tr>
+                                            <td colSpan={tableHeadData.length} className="text-center py-5">
+                                                No data available
+                                            </td>
+                                        </tr>
+                                    )}
                                 </tbody>
                             </table>
                         </div>
@@ -111,5 +136,5 @@ export default function FeatureTable() {
                 </div>
             </section>
         </div>
-    )
+    );
 }
