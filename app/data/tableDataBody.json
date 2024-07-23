@@ -3779,5 +3779,1265 @@
                 "ownBroker": true
             }
         }
+    },
+    {
+        "firm": "Crypto Fund Trader",
+        "logo": "/Images/brands/cryptoFund.png",
+        "buy": "https://cryptofundtrader.com/",
+        "price": "$55",
+        "size": "$5K",
+        "steps": "2 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawdown": "10%",
+        "dailyDrawdown": "5%",
+        "commission": "$3",
+        "leverage": 100,
+        "rating": 3.9,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": true,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": true,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "firm": "Crypto Fund Trader",
+        "logo": "/Images/brands/cryptoFund.png",
+        "buy": "https://cryptofundtrader.com/",
+        "price": "$105",
+        "size": "$10K",
+        "steps": "2 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawdown": "10%",
+        "dailyDrawdown": "5%",
+        "commission": "$3",
+        "leverage": 100,
+        "rating": 3.9,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": true,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": true,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "firm": "Crypto Fund Trader",
+        "logo": "/Images/brands/cryptoFund.png",
+        "buy": "https://cryptofundtrader.com/",
+        "price": "$230",
+        "size": "$25K",
+        "steps": "2 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawdown": "10%",
+        "dailyDrawdown": "5%",
+        "commission": "$3",
+        "leverage": 100,
+        "rating": 3.9,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": true,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": true,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "firm": "Crypto Fund Trader",
+        "logo": "/Images/brands/cryptoFund.png",
+        "buy": "https://cryptofundtrader.com/",
+        "price": "$345",
+        "size": "$50K",
+        "steps": "2 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawdown": "10%",
+        "dailyDrawdown": "5%",
+        "commission": "$3",
+        "leverage": 100,
+        "rating": 3.9,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": true,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": true,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "firm": "Crypto Fund Trader",
+        "logo": "/Images/brands/cryptoFund.png",
+        "buy": "https://cryptofundtrader.com/",
+        "price": "$570",
+        "size": "$100K",
+        "steps": "2 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawdown": "10%",
+        "dailyDrawdown": "5%",
+        "commission": "$3",
+        "leverage": 100,
+        "rating": 3.9,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": true,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": true,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "firm": "Crypto Fund Trader",
+        "logo": "/Images/brands/cryptoFund.png",
+        "buy": "https://cryptofundtrader.com/",
+        "price": "$1,097",
+        "size": "$200K",
+        "steps": "2 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawdown": "10%",
+        "dailyDrawdown": "5%",
+        "commission": "$3",
+        "leverage": 100,
+        "rating": 3.9,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": true,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": true,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "firm": "Crypto Fund Trader",
+        "logo": "/Images/brands/cryptoFund.png",
+        "buy": "https://cryptofundtrader.com/",
+        "price": "$60",
+        "size": "$5K",
+        "steps": "1 Step",
+        "profitSplit": "80%",
+        "profitTarget": "10%",
+        "maxDrawdown": "6%",
+        "dailyDrawdown": "4%",
+        "commission": "$3",
+        "leverage": 100,
+        "rating": 3.9,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": true,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": true,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "firm": "Crypto Fund Trader",
+        "logo": "/Images/brands/cryptoFund.png",
+        "buy": "https://cryptofundtrader.com/",
+        "price": "$115",
+        "size": "$10K",
+        "steps": "1 Step",
+        "profitSplit": "80%",
+        "profitTarget": "10%",
+        "maxDrawdown": "6%",
+        "dailyDrawdown": "4%",
+        "commission": "$3",
+        "leverage": 100,
+        "rating": 3.9,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": true,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": true,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "firm": "Crypto Fund Trader",
+        "logo": "/Images/brands/cryptoFund.png",
+        "buy": "https://cryptofundtrader.com/",
+        "price": "$250",
+        "size": "$25K",
+        "steps": "1 Step",
+        "profitSplit": "80%",
+        "profitTarget": "10%",
+        "maxDrawdown": "6%",
+        "dailyDrawdown": "4%",
+        "commission": "$3",
+        "leverage": 100,
+        "rating": 3.9,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": true,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": true,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "firm": "Crypto Fund Trader",
+        "logo": "/Images/brands/cryptoFund.png",
+        "buy": "https://cryptofundtrader.com/",
+        "price": "$380",
+        "size": "$50K",
+        "steps": "1 Step",
+        "profitSplit": "80%",
+        "profitTarget": "10%",
+        "maxDrawdown": "6%",
+        "dailyDrawdown": "4%",
+        "commission": "$3",
+        "leverage": 100,
+        "rating": 3.9,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": true,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": true,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "firm": "Crypto Fund Trader",
+        "logo": "/Images/brands/cryptoFund.png",
+        "buy": "https://cryptofundtrader.com/",
+        "price": "$625",
+        "size": "$100K",
+        "steps": "1 Step",
+        "profitSplit": "80%",
+        "profitTarget": "10%",
+        "maxDrawdown": "6%",
+        "dailyDrawdown": "4%",
+        "commission": "$3",
+        "leverage": 100,
+        "rating": 3.9,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": true,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": true,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "firm": "Crypto Fund Trader",
+        "logo": "/Images/brands/cryptoFund.png",
+        "buy": "https://cryptofundtrader.com/",
+        "price": "$1,199",
+        "size": "$200K",
+        "steps": "1 Step",
+        "profitSplit": "80%",
+        "profitTarget": "10%",
+        "maxDrawdown": "6%",
+        "dailyDrawdown": "4%",
+        "commission": "$3",
+        "leverage": 100,
+        "rating": 3.9,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": true,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": true,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "firm": "E8 Markets",
+        "logo": "/Images/brands/e8.svg",
+        "buy": "https://e8markets.com/",
+        "price": "$59",
+        "size": "$10K",
+        "steps": "1 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawdown": "8%",
+        "dailyDrawdown": "2%",
+        "commission": "$0",
+        "leverage": 50,
+        "rating": 4.7,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": true
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": true
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": true,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": false
+            }
+        }
+    },
+    {
+        "firm": "E8 Markets",
+        "logo": "/Images/brands/e8.svg",
+        "buy": "https://e8markets.com/",
+        "price": "$118",
+        "size": "$25K",
+        "steps": "1 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawdown": "8%",
+        "dailyDrawdown": "2%",
+        "commission": "$0",
+        "leverage": 50,
+        "rating": 4.7,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": true
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": true
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": true,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": false
+            }
+        }
+    },
+    {
+        "firm": "E8 Markets",
+        "logo": "/Images/brands/e8.svg",
+        "buy": "https://e8markets.com/",
+        "price": "$228",
+        "size": "$50K",
+        "steps": "1 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawdown": "8%",
+        "dailyDrawdown": "2%",
+        "commission": "$0",
+        "leverage": 50,
+        "rating": 4.7,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": true
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": true
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": true,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": false
+            }
+        }
+    },
+    {
+        "firm": "E8 Markets",
+        "logo": "/Images/brands/e8.svg",
+        "buy": "https://e8markets.com/",
+        "price": "$398",
+        "size": "$100K",
+        "steps": "1 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawdown": "8%",
+        "dailyDrawdown": "2%",
+        "commission": "$0",
+        "leverage": 50,
+        "rating": 4.7,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": true
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": true
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": true,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": false
+            }
+        }
+    },
+    {
+        "firm": "E8 Markets",
+        "logo": "/Images/brands/e8.svg",
+        "buy": "https://e8markets.com/",
+        "price": "$55",
+        "size": "$5K",
+        "steps": "2 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawdown": "8%",
+        "dailyDrawdown": "4%",
+        "commission": "$0",
+        "leverage": 50,
+        "rating": 4.7,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": true
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": true
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": true,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": false
+            }
+        }
+    },
+    {
+        "firm": "E8 Markets",
+        "logo": "/Images/brands/e8.svg",
+        "buy": "https://e8markets.com/",
+        "price": "$102",
+        "size": "$10K",
+        "steps": "2 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawdown": "8%",
+        "dailyDrawdown": "4%",
+        "commission": "$0",
+        "leverage": 50,
+        "rating": 4.7,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": true
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": true
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": true,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": false
+            }
+        }
+    },
+    {
+        "firm": "E8 Markets",
+        "logo": "/Images/brands/e8.svg",
+        "buy": "https://e8markets.com/",
+        "price": "$210",
+        "size": "$25K",
+        "steps": "2 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawdown": "8%",
+        "dailyDrawdown": "4%",
+        "commission": "$0",
+        "leverage": 50,
+        "rating": 4.7,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": true
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": true
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": true,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": false
+            }
+        }
+    },
+    {
+        "firm": "E8 Markets",
+        "logo": "/Images/brands/e8.svg",
+        "buy": "https://e8markets.com/",
+        "price": "$311",
+        "size": "$50K",
+        "steps": "2 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawdown": "8%",
+        "dailyDrawdown": "4%",
+        "commission": "$0",
+        "leverage": 50,
+        "rating": 4.7,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": true
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": true
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": true,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": false
+            }
+        }
+    },
+    {
+        "firm": "E8 Markets",
+        "logo": "/Images/brands/e8.svg",
+        "buy": "https://e8markets.com/",
+        "price": "541",
+        "size": "$100K",
+        "steps": "2 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawdown": "8%",
+        "dailyDrawdown": "4%",
+        "commission": "$0",
+        "leverage": 50,
+        "rating": 4.7,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": true
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": true
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": true,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": false
+            }
+        }
     }
 ]
