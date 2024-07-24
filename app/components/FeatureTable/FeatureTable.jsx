@@ -9,6 +9,8 @@ import tableBodyData from '@/app/data/tableDataBody.json';
 export default function FeatureTable({ filter }) {
     const [data, setData] = useState(tableBodyData);
     const [loading, setLoading] = useState(true);
+    const [currentPage, setCurrentPage] = useState(1);
+    const listingsPerPage = 20;
 
     useEffect(() => {
         const filterData = () => {
@@ -24,6 +26,18 @@ export default function FeatureTable({ filter }) {
         setLoading(true);
         filterData();
     }, [filter]);
+
+    const handleNextPage = () => {
+        setCurrentPage(prevPage => prevPage + 1);
+    };
+
+    const handlePreviousPage = () => {
+        setCurrentPage(prevPage => prevPage - 1);
+    };
+
+    const indexOfLastListing = currentPage * listingsPerPage;
+    const indexOfFirstListing = indexOfLastListing - listingsPerPage;
+    const currentListings = data.slice(indexOfFirstListing, indexOfLastListing);
 
     if (loading) {
         return <div>Loading...</div>;
@@ -58,8 +72,8 @@ export default function FeatureTable({ filter }) {
                                     </tr>
                                 </thead>
                                 <tbody id="table-body">
-                                    {data.length > 0 ? (
-                                        data.map((item, index) => (
+                                    {currentListings.length > 0 ? (
+                                        currentListings.map((item, index) => (
                                             <tr data-brand={item.brand} key={index} >
                                                 <td>
                                                     <div className="company">
@@ -68,6 +82,9 @@ export default function FeatureTable({ filter }) {
                                                     </div>
                                                 </td>
                                                 <td>
+                                                    {item.salePrice ?
+                                                        <del>{item.salePrice}</del>
+                                                        : ''}
                                                     <p>{item.price}</p>
                                                     <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M17 7.59302V13.407C17 14.359 16.5047 15.243 15.7039 15.7275L10.8002 18.643C9.99946 19.119 9.0088 19.119 8.19977 18.643L3.2961 15.7275C2.49533 15.2515 2 14.3675 2 13.407V7.59302C2 6.64102 2.49533 5.75699 3.2961 5.27249L8.19977 2.357C9.00054 1.881 9.9912 1.881 10.8002 2.357L15.7039 5.27249C16.5047 5.75699 17 6.63252 17 7.59302Z" fill="url(#paint0_linear_2051_8984)" />
@@ -80,6 +97,9 @@ export default function FeatureTable({ filter }) {
                                                             </linearGradient>
                                                         </defs>
                                                     </svg>
+                                                </td>
+                                                <td>
+                                                    <p>{item.discount}</p>
                                                 </td>
                                                 <td>
                                                     <p>{item.size}</p>
@@ -109,6 +129,9 @@ export default function FeatureTable({ filter }) {
                                                     <p>{item.rating}</p>
                                                 </td>
                                                 <td>
+                                                    <p>{item.credits}</p>
+                                                </td>
+                                                <td>
                                                     <Link href={`${item.buy}`} target='_blank' className="cart">
                                                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
                                                             <path d="M2 3H3.35798C3.85767 3 4.29368 3.343 4.42301 3.835L4.79827 5.272M4.79827 5.272C10.2563 5.11589 15.7091 5.73515 21 7.112C20.1927 9.566 19.2334 11.95 18.1351 14.25H7.14387M4.79827 5.272L7.14387 14.25M7.14387 14.25C6.36431 14.25 5.61667 14.5661 5.06543 15.1287C4.5142 15.6913 4.20452 16.4544 4.20452 17.25H19.6361M5.6742 20.25C5.6742 20.4489 5.59678 20.6397 5.45897 20.7803C5.32116 20.921 5.13425 21 4.93936 21C4.74446 21 4.55756 20.921 4.41975 20.7803C4.28194 20.6397 4.20452 20.4489 4.20452 20.25C4.20452 20.0511 4.28194 19.8603 4.41975 19.7197C4.55756 19.579 4.74446 19.5 4.93936 19.5C5.13425 19.5 5.32116 19.579 5.45897 19.7197C5.59678 19.8603 5.6742 20.0511 5.6742 20.25ZM18.1665 20.25C18.1665 20.4489 18.089 20.6397 17.9512 20.7803C17.8134 20.921 17.6265 21 17.4316 21C17.2367 21 17.0498 20.921 16.912 20.7803C16.7742 20.6397 16.6968 20.4489 16.6968 20.25C16.6968 20.0511 16.7742 19.8603 16.912 19.7197C17.0498 19.579 17.2367 19.5 17.4316 19.5C17.6265 19.5 17.8134 19.579 17.9512 19.7197C18.089 19.8603 18.1665 20.0511 18.1665 20.25Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -128,7 +151,20 @@ export default function FeatureTable({ filter }) {
                             </table>
                         </div>
                         <div className="text-center py-5 bg-[#1A1A1A] relative z-10">
-                            <button type="button" className={`${styles.searchBtn} mx-auto d-block`}>
+                            <button
+                                type="button"
+                                className={`${styles.searchBtn} mx-auto mr-3 d-block`}
+                                onClick={handlePreviousPage}
+                                style={{ display: currentPage === 1 ? 'none' : 'inline-block' }}
+                            >
+                                Previous
+                            </button>
+                            <button
+                                type="button"
+                                className={`${styles.searchBtn} mx-auto d-block`}
+                                onClick={handleNextPage}
+                                style={{ display: indexOfLastListing >= data.length ? 'none' : 'inline-block' }}
+                            >
                                 Next
                             </button>
                         </div>
