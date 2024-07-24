@@ -12884,5 +12884,310 @@
                 "ownBroker": true
             }
         }
+    },
+    {
+        "firm": "Lark Funding",
+        "logo": "/Images/brands/larkfunding.png",
+        "buy": "https://larkfunding.com/",
+        "price": "",
+        "size": "",
+        "steps": "",
+        "profitSplit": "",
+        "profitTarget": "",
+        "maxDrawdown": "",
+        "dailyDrawdown": "",
+        "commission": "",
+        "leverage": "",
+        "rating": "",
+        "credits": "",
+        "filterType": {
+            "assetType": {
+                "forex": false,
+                "futuresStocks": false,
+                "crypto": false,
+                "indices": false,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": false,
+                "turkiye": false,
+                "dubai": false
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": false,
+                "2Steps": false,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": false,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": false
+            }
+        }
+    },
+    {
+        "firm": "Maven",
+        "logo": "/Images/brands/maventrading.png",
+        "buy": "https://maventrading.com/",
+        "price": "",
+        "size": "",
+        "steps": "",
+        "profitSplit": "",
+        "profitTarget": "",
+        "maxDrawdown": "",
+        "dailyDrawdown": "",
+        "commission": "",
+        "leverage": "",
+        "rating": "",
+        "credits": "",
+        "filterType": {
+            "assetType": {
+                "forex": false,
+                "futuresStocks": false,
+                "crypto": false,
+                "indices": false,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": false,
+                "turkiye": false,
+                "dubai": false
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": false,
+                "2Steps": false,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": false,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": false
+            }
+        }
+    },
+    {
+        "firm": "Ment Funding",
+        "logo": "/Images/brands/mentfunding.png",
+        "buy": "https://mentfunding.com/",
+        "price": "",
+        "size": "",
+        "steps": "",
+        "profitSplit": "",
+        "profitTarget": "",
+        "maxDrawdown": "",
+        "dailyDrawdown": "",
+        "commission": "",
+        "leverage": "",
+        "rating": "",
+        "credits": "",
+        "filterType": {
+            "assetType": {
+                "forex": false,
+                "futuresStocks": false,
+                "crypto": false,
+                "indices": false,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": false,
+                "turkiye": false,
+                "dubai": false
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": false,
+                "2Steps": false,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": false,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": false
+            }
+        }
+    },
+    {
+        "firm": "MyFundedFX",
+        "logo": "/Images/brands/myfundedfx.png",
+        "buy": "https://myfundedfx.com/",
+        "price": "",
+        "size": "",
+        "steps": "",
+        "profitSplit": "",
+        "profitTarget": "",
+        "maxDrawdown": "",
+        "dailyDrawdown": "",
+        "commission": "",
+        "leverage": "",
+        "rating": "",
+        "credits": "",
+        "filterType": {
+            "assetType": {
+                "forex": false,
+                "futuresStocks": false,
+                "crypto": false,
+                "indices": false,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": false,
+                "turkiye": false,
+                "dubai": false
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": false,
+                "2Steps": false,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": false,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": false
+            }
+        }
+    },
+    {
+        "firm": "The Trading Pit",
+        "logo": "/Images/brands/thetradingpit.webp",
+        "buy": "https://www.thetradingpit.com/",
+        "price": "",
+        "size": "",
+        "steps": "",
+        "profitSplit": "",
+        "profitTarget": "",
+        "maxDrawdown": "",
+        "dailyDrawdown": "",
+        "commission": "",
+        "leverage": "",
+        "rating": "",
+        "credits": "",
+        "filterType": {
+            "assetType": {
+                "forex": false,
+                "futuresStocks": false,
+                "crypto": false,
+                "indices": false,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": false,
+                "turkiye": false,
+                "dubai": false
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": false,
+                "2Steps": false,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": false,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": false
+            }
+        }
     }
 ]
