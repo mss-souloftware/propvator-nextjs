@@ -14,18 +14,22 @@ export default function FeatureTable({ filter }) {
 
     useEffect(() => {
         const filterData = () => {
-            if (filter.hasTempered) {
-                const filteredData = tableBodyData.filter(i => i.filterType.assetType.forex === filter?.assetType?.forex);
-                setData(filteredData);
-            } else {
-                setData(tableBodyData);
-            }
-            setLoading(false);
+          if (filter.hasTempered) {
+            const filteredData = tableBodyData.filter(item => {
+              return Object.keys(filter.assetType).every(key => {
+                return filter.assetType[key] === false || item.filterType.assetType[key] === filter.assetType[key];
+              });
+            });
+            setData(filteredData);
+          } else {
+            setData(tableBodyData);
+          }
+          setLoading(false);
         };
-
+      
         setLoading(true);
         filterData();
-    }, [filter]);
+      }, [filter]);
 
     const handleNextPage = () => {
         setCurrentPage(prevPage => prevPage + 1);

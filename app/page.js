@@ -13,6 +13,50 @@ import FeatureTable from "./components/FeatureTable/FeatureTable";
 export default function Home() {
   const [filter, setfilter] = useState({
     hasTempered: false,
+    sizeType: {
+      "5k": false,
+      "10k": false,
+      "25k": false,
+      "50k": false,
+      "100k": false,
+      "200k": false,
+    },
+    accountTypes: {
+      "instant": false,
+      "1 step": false,
+      "2 steps": false,
+      "3 steps": false
+    },
+    countries: {
+      "usa": false,
+      "pakistan": false,
+      "iran": false,
+      "nigeria": false,
+      "turkiye": false,
+      "dubai": false
+    },
+    platforms: {
+      "mt4": false,
+      "mt5": false,
+      "ctrader": false,
+      "dxtrade": false,
+      "tradelocker": false,
+      "match trader": false
+    },
+    broker: {
+      "think markets": false,
+      "purple trading": false,
+      "virtual markets": false,
+      "capital markets": false,
+      "match trade": false,
+      "finesse fx": false,
+      "taurex": false,
+      "fxpig": false,
+      "fxflat": false,
+      "gbe brokers": false,
+      "cbt limited": false,
+      "own broker": false
+    },
     assetType: {
       forex: false,
       futuresStocks: false,

@@ -1,19 +1,22 @@
 "use client"
 import React, { useState } from 'react';
 
-export default function BTNClicks({ title, filter, setfilter }) {
+export default function BTNClicks({ title, filterType, filter, setfilter }) {
     const [bgColor, setBgColor] = useState('transparent');
 
     const handleClick = () => {
-        setBgColor(bgColor === 'transparent' ? 'linear-gradient(135deg, rgba(125,227,250,1) 16%, rgba(51,59,255,1) 74%)' : 'transparent'); // Toggle between white and blue
-        setfilter(prevState => ({
-            ...prevState,
+        console.log({title})
+        setBgColor(filter[filterType][title.toLowerCase()] === true ? 'linear-gradient(135deg, rgba(125,227,250,1) 16%, rgba(51,59,255,1) 74%)' : 'transparent');
+        setfilter({
+            ...filter,
             hasTempered: true,
-            assetType: {
-              ...prevState.assetType,
-              forex: !prevState.assetType.forex
+            [filterType]: {
+              ...filter[filterType],
+              [title.toLowerCase()]: !filter[filterType][title.toLowerCase()]
             }
-          }));
+        });
+        console.log({filter})
+        setTimeout(() => console.log({filter}), 2000)
     };
 
     return (
