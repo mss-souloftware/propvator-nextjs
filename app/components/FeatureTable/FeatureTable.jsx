@@ -15,11 +15,73 @@ export default function FeatureTable({ filter }) {
     useEffect(() => {
         const filterData = () => {
           if (filter.hasTempered) {
-            const filteredData = tableBodyData.filter(item => {
-              return Object.keys(filter.assetType).every(key => {
-                return filter.assetType[key] === false || item.filterType.assetType[key] === filter.assetType[key];
-              });
+            // let filteredData = tableBodyData.filter(item => {
+            //   return Object.keys(filter.assetType).every(key => {
+            //     return filter.assetType[key] === false || item.filterType.assetType[key] === filter.assetType[key];
+            //   });
+            // });
+
+
+            let filteredData = tableBodyData.filter(item => {
+                for (const brand in filter.brands) {
+                    console.log(item.firm.toLowerCase(), brand, filter.brands[brand])
+                    if (filter.brands[brand] && item.firm.toLowerCase() === brand) {
+                        console.log("saying done", filter.brands[brand] && item.firm.toLowerCase() === brand)
+                        return true;
+                    }
+                }
+                return false;
             });
+
+            console.log("filteredData", filteredData)
+              
+
+            // console.log("filteredData", filteredData)
+
+            // // Apply sizeType filter
+            // filteredData = tableBodyData.filter(item => {
+            //     return Object.keys(filter.sizeType).every(key => {
+            //         return filter.sizeType[key] === false || item.sizeType[key] === filter.sizeType[key];
+            //     });
+            // });
+
+            // // Apply accountTypes filter
+            // filteredData = tableBodyData.filter(item => {
+            //     return Object.keys(filter.accountTypes).every(key => {
+            //         return filter.accountTypes[key] === false || item.accountTypes[key] === filter.accountTypes[key];
+            //     });
+            // });
+
+            // // Apply countries filter
+            // filteredData = tableBodyData.filter(item => {
+            //     return Object.keys(filter.countries).every(key => {
+            //         return filter.countries[key] === false || item.countries[key] === filter.countries[key];
+            //     });
+            // });
+
+            // // Apply platforms filter
+            // filteredData = tableBodyData.filter(item => {
+            //     return Object.keys(filter.platforms).every(key => {
+            //         return filter.platforms[key] === false || item.platforms[key] === filter.platforms[key];
+            //     });
+            // });
+
+            // // Apply broker filter
+            // filteredData = tableBodyData.filter(item => {
+            //     return Object.keys(filter.broker).every(key => {
+            //         return filter.broker[key] === false || item.broker[key] === filter.broker[key];
+            //     });
+            // });
+
+            // // Apply assetType filter
+            // filteredData = tableBodyData.filter(item => {
+            //     return Object.keys(filter.assetType).every(key => {
+            //         return filter.assetType[key] === false || item.assetType[key] === filter.assetType[key];
+            //     });
+            // });
+
+
+
             setData(filteredData);
           } else {
             setData(tableBodyData);

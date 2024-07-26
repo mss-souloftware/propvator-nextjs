@@ -3,13 +3,24 @@ import Image from 'next/image';
 import React, { useState } from 'react';
 import styles from "./BrandSelector.module.css";
 
-export default function BrandSelector(props) {
-    const [isInverted, setIsInverted] = useState(false);
+export default function BrandSelector({ logo, brandName, filter, setfilter }) {
+    const [isInverted, setIsInverted] = useState(filter.brands[brandName.toLowerCase()]);
     const [bgColor, setBgColor] = useState('#08271F');
 
     const handleClick = () => {
-        setIsInverted(!isInverted); // Toggle invert filter
-        setBgColor(bgColor === '#08271F' ? 'linear-gradient(135deg, rgba(125,227,250,1) 16%, rgba(51,59,255,1) 74%)' : '#08271F'); // Toggle background color
+        setBgColor(filter.brands[brandName.toLowerCase()] === true ? 'linear-gradient(135deg, rgba(125,227,250,1) 16%, rgba(51,59,255,1) 74%)' : '#08271F');
+        setfilter({
+            ...filter,
+            hasTempered: true,
+            brands: {
+                ...filter.brands,
+                [brandName.toLowerCase()]: !filter.brands[brandName.toLowerCase()]
+            }
+        });
+        setIsInverted(!filter.brands[brandName.toLowerCase()]);
+
+        console.log({filter})
+        setTimeout(() => console.log({filter}), 2000)
     };
 
     return (
@@ -20,14 +31,14 @@ export default function BrandSelector(props) {
             }}
         >
             <Image
-                src={props.logo}
+                src={logo}
                 width={50}
                 height={50}
                 alt='Brand'
                 style={{ filter: isInverted ? 'grayscale(100%) brightness(1000%) contrast(1000%)' : 'none' }}
             />
             <span>
-                {props.brandName}
+                {brandName}
             </span>
         </div>
     );
