@@ -320,6 +320,24 @@ body {
   color: #4432fc;
 }
 
+.comparison--table--area .table--wrapper .pageCount {
+  background: #1A1A1A;
+}
+
+.comparison--table--area .table--wrapper .pageCount ul {
+  display: flex;
+  justify-content: center;
+}
+
+.comparison--table--area .table--wrapper .pageCount ul li {
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.comparison--table--area .table--wrapper .pageCount ul li.current {
+  color: #333BFF;
+}
+
 /* guide--area styles  */
 .guide--area {
   padding: 170px 0 58px;
