@@ -8,7 +8,7 @@ export default function Footer() {
         <footer className='pt-10 bg-[#0F0F0F] px-3 md:px-0'>
             <div className="container mx-auto">
                 <div className="text-center mx-auto text-white">
-                    <Logo />
+                    <Logo demo={false} />
                     <h4 className={styles.gradientHDNG}>Disclaimer</h4>
                     <p>
                         This website is provided for general use and informational purposes only. Nothing provided on our website shall constitute financial advice, suggestion or recommendation. You must always seek the advice of your financial advisor or other qualified financial service provider regarding financial advice and investing. Never disregard professional financial advice or delay in seeking it because of something you have read on our website. Users should independently evaluate and verify the suitability of any such listed entities before engaging with them. We are not responsible for any

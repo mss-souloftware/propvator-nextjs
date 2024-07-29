@@ -1,3 +1,4 @@
+import Link from "next/link";
 import BTNClicks from "./BTNClicks";
 import styles from './CompareBox.module.css';
 
@@ -16,12 +17,12 @@ export default function CompareBox({ filter, setfilter }) {
       </div>
       <p>Select your account size</p>
       <div className={`flex gap-3 flex-wrap ${styles.slectionWrapper}`}>
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType"  title="5k" />
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType"  title="10k" />
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType"  title="25k" />
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType"  title="50k" />
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType"  title="100k" />
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType"  title="2000k" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="5k" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="10k" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="25k" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="50k" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="100k" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="2000k" />
       </div>
       <p>Select number of step</p>
       <div className={`flex gap-3 flex-wrap ${styles.slectionWrapper}`}>
@@ -67,9 +68,9 @@ export default function CompareBox({ filter, setfilter }) {
         <BTNClicks filter={filter} setfilter={setfilter} filterType="broker" title="Own Broker" />
       </div>
 
-      <button type="button" className={styles.searchBtn}>
+      <Link href="#table" className={styles.searchBtn}>
         Search
-      </button>
+      </Link>
 
     </div>
   )

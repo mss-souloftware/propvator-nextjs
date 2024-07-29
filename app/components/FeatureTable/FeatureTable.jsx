@@ -14,84 +14,84 @@ export default function FeatureTable({ filter }) {
 
     useEffect(() => {
         const filterData = () => {
-          if (filter.hasTempered) {
-            // let filteredData = tableBodyData.filter(item => {
-            //   return Object.keys(filter.assetType).every(key => {
-            //     return filter.assetType[key] === false || item.filterType.assetType[key] === filter.assetType[key];
-            //   });
-            // });
+            if (filter.hasTempered) {
+                // let filteredData = tableBodyData.filter(item => {
+                //   return Object.keys(filter.assetType).every(key => {
+                //     return filter.assetType[key] === false || item.filterType.assetType[key] === filter.assetType[key];
+                //   });
+                // });
 
 
-            let filteredData = tableBodyData.filter(item => {
-                for (const brand in filter.brands) {
-                    console.log(item.firm.toLowerCase(), brand, filter.brands[brand])
-                    if (filter.brands[brand] && item.firm.toLowerCase() === brand) {
-                        console.log("saying done", filter.brands[brand] && item.firm.toLowerCase() === brand)
-                        return true;
+                let filteredData = tableBodyData.filter(item => {
+                    for (const brand in filter.brands) {
+                        console.log(item.firm.toLowerCase(), brand, filter.brands[brand])
+                        if (filter.brands[brand] && item.firm.toLowerCase() === brand) {
+                            console.log("saying done", filter.brands[brand] && item.firm.toLowerCase() === brand)
+                            return true;
+                        }
                     }
-                }
-                return false;
-            });
+                    return false;
+                });
 
-            console.log("filteredData", filteredData)
-              
-
-            // console.log("filteredData", filteredData)
-
-            // // Apply sizeType filter
-            // filteredData = tableBodyData.filter(item => {
-            //     return Object.keys(filter.sizeType).every(key => {
-            //         return filter.sizeType[key] === false || item.sizeType[key] === filter.sizeType[key];
-            //     });
-            // });
-
-            // // Apply accountTypes filter
-            // filteredData = tableBodyData.filter(item => {
-            //     return Object.keys(filter.accountTypes).every(key => {
-            //         return filter.accountTypes[key] === false || item.accountTypes[key] === filter.accountTypes[key];
-            //     });
-            // });
-
-            // // Apply countries filter
-            // filteredData = tableBodyData.filter(item => {
-            //     return Object.keys(filter.countries).every(key => {
-            //         return filter.countries[key] === false || item.countries[key] === filter.countries[key];
-            //     });
-            // });
-
-            // // Apply platforms filter
-            // filteredData = tableBodyData.filter(item => {
-            //     return Object.keys(filter.platforms).every(key => {
-            //         return filter.platforms[key] === false || item.platforms[key] === filter.platforms[key];
-            //     });
-            // });
-
-            // // Apply broker filter
-            // filteredData = tableBodyData.filter(item => {
-            //     return Object.keys(filter.broker).every(key => {
-            //         return filter.broker[key] === false || item.broker[key] === filter.broker[key];
-            //     });
-            // });
-
-            // // Apply assetType filter
-            // filteredData = tableBodyData.filter(item => {
-            //     return Object.keys(filter.assetType).every(key => {
-            //         return filter.assetType[key] === false || item.assetType[key] === filter.assetType[key];
-            //     });
-            // });
+                console.log("filteredData", filteredData)
 
 
+                // console.log("filteredData", filteredData)
 
-            setData(filteredData);
-          } else {
-            setData(tableBodyData);
-          }
-          setLoading(false);
+                // // Apply sizeType filter
+                // filteredData = tableBodyData.filter(item => {
+                //     return Object.keys(filter.sizeType).every(key => {
+                //         return filter.sizeType[key] === false || item.sizeType[key] === filter.sizeType[key];
+                //     });
+                // });
+
+                // // Apply accountTypes filter
+                // filteredData = tableBodyData.filter(item => {
+                //     return Object.keys(filter.accountTypes).every(key => {
+                //         return filter.accountTypes[key] === false || item.accountTypes[key] === filter.accountTypes[key];
+                //     });
+                // });
+
+                // // Apply countries filter
+                // filteredData = tableBodyData.filter(item => {
+                //     return Object.keys(filter.countries).every(key => {
+                //         return filter.countries[key] === false || item.countries[key] === filter.countries[key];
+                //     });
+                // });
+
+                // // Apply platforms filter
+                // filteredData = tableBodyData.filter(item => {
+                //     return Object.keys(filter.platforms).every(key => {
+                //         return filter.platforms[key] === false || item.platforms[key] === filter.platforms[key];
+                //     });
+                // });
+
+                // // Apply broker filter
+                // filteredData = tableBodyData.filter(item => {
+                //     return Object.keys(filter.broker).every(key => {
+                //         return filter.broker[key] === false || item.broker[key] === filter.broker[key];
+                //     });
+                // });
+
+                // // Apply assetType filter
+                // filteredData = tableBodyData.filter(item => {
+                //     return Object.keys(filter.assetType).every(key => {
+                //         return filter.assetType[key] === false || item.assetType[key] === filter.assetType[key];
+                //     });
+                // });
+
+
+
+                setData(filteredData);
+            } else {
+                setData(tableBodyData);
+            }
+            setLoading(false);
         };
-      
+
         setLoading(true);
         filterData();
-      }, [filter]);
+    }, [filter]);
 
     const handleNextPage = () => {
         setCurrentPage(prevPage => prevPage + 1);
@@ -110,7 +110,7 @@ export default function FeatureTable({ filter }) {
     }
 
     return (
-        <div className="container mx-auto md:px-0 px-3">
+        <div id='table' className="container mx-auto md:px-0 px-3">
             <section className='comparison--table--area'>
                 <div className="ml-auto text-white text-right my-5">
                     Showing <span className='text-[#2A3BFF]'>{data.length}</span> result{data.length !== 1 ? 's' : ''}
@@ -144,7 +144,11 @@ export default function FeatureTable({ filter }) {
                                                 <td>
                                                     <div className="company">
                                                         <Image className='mx-auto' width={20} height={20} src={item.logo} alt={item.firm} />
-                                                        <p>{item.firm}</p>
+                                                        <p>{item.firm}
+                                                            {item.verified ?
+                                                                <svg fill="#0092F6" width="15px" height="15px" viewBox="0 0 512 512" id="_x30_1" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M434.068,46.758L314.607,9.034C295.648,3.047,275.883,0,256,0s-39.648,3.047-58.607,9.034L77.932,46.758  C52.97,54.641,36,77.796,36,103.973v207.39c0,38.129,18.12,73.989,48.816,96.607l117.032,86.234  C217.537,505.764,236.513,512,256,512s38.463-6.236,54.152-17.796l117.032-86.234C457.88,385.352,476,349.492,476,311.363v-207.39  C476,77.796,459.03,54.641,434.068,46.758z M347.924,227.716l-98.995,98.995c-11.716,11.716-30.711,11.716-42.426,0l-42.427-42.426  c-11.716-11.716-11.716-30.711,0-42.426l0,0c11.716-11.716,30.711-11.716,42.426,0l21.213,21.213l77.782-77.782  c11.716-11.716,30.711-11.716,42.426,0h0C359.64,197.005,359.64,216,347.924,227.716z" /></svg>
+                                                                : ''}
+                                                        </p>
                                                     </div>
                                                 </td>
                                                 <td>
@@ -152,7 +156,7 @@ export default function FeatureTable({ filter }) {
                                                         <del>{item.salePrice}</del>
                                                         : ''}
                                                     <p>{item.price}</p>
-                                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    {/* <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M17 7.59302V13.407C17 14.359 16.5047 15.243 15.7039 15.7275L10.8002 18.643C9.99946 19.119 9.0088 19.119 8.19977 18.643L3.2961 15.7275C2.49533 15.2515 2 14.3675 2 13.407V7.59302C2 6.64102 2.49533 5.75699 3.2961 5.27249L8.19977 2.357C9.00054 1.881 9.9912 1.881 10.8002 2.357L15.7039 5.27249C16.5047 5.75699 17 6.63252 17 7.59302Z" fill="url(#paint0_linear_2051_8984)" />
                                                         <path d="M10 14V14.0833" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                                                         <path d="M10 6V10" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
@@ -162,7 +166,7 @@ export default function FeatureTable({ filter }) {
                                                                 <stop offset="0.741638" stop-color="#333BFF" />
                                                             </linearGradient>
                                                         </defs>
-                                                    </svg>
+                                                    </svg> */}
                                                 </td>
                                                 <td>
                                                     <p>{item.discount}</p>

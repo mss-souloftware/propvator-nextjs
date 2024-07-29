@@ -15,3 +15,7 @@
 .moreFilters img{
     margin-right: 10px;
 }
+
+.filterMainToggle.active{
+    background: red;
+}

@@ -67,6 +67,12 @@ body {
   color: #4432fc;
 }
 
+.comparison--table--area .table--wrapper .company svg {
+  margin: inherit;
+  display: inline-block;
+  margin-left: 3px;
+}
+
 .comparison--table--area table tr {
   position: relative;
 }
