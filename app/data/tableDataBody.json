@@ -1,5 +1,2565 @@
 [
     {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$85",
+        "price": "$77",
+        "discount": "PROPVATOR",
+        "size": "$10K",
+        "steps": "1 Step",
+        "profitSplit": "75%",
+        "profitTarget": "10%",
+        "maxDrawDown": "6%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$2",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$115",
+        "price": "$104",
+        "discount": "PROPVATOR",
+        "size": "$15K",
+        "steps": "1 Step",
+        "profitSplit": "75%",
+        "profitTarget": "10%",
+        "maxDrawDown": "6%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$3",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$199",
+        "price": "$179",
+        "discount": "PROPVATOR",
+        "size": "$25K",
+        "steps": "1 Step",
+        "profitSplit": "75%",
+        "profitTarget": "10%",
+        "maxDrawDown": "6%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$4",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$375",
+        "price": "$338",
+        "discount": "PROPVATOR",
+        "size": "$50K",
+        "steps": "1 Step",
+        "profitSplit": "75%",
+        "profitTarget": "10%",
+        "maxDrawDown": "6%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$8",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$499",
+        "price": "$449",
+        "discount": "PROPVATOR",
+        "size": "$100K",
+        "steps": "1 Step",
+        "profitSplit": "75%",
+        "profitTarget": "10%",
+        "maxDrawDown": "6%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$11",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$999",
+        "price": "$899",
+        "discount": "PROPVATOR",
+        "size": "$200K",
+        "steps": "1 Step",
+        "profitSplit": "75%",
+        "profitTarget": "10%",
+        "maxDrawDown": "6%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$22",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$1999",
+        "price": "$1799",
+        "discount": "PROPVATOR",
+        "size": "$400K",
+        "steps": "1 Step",
+        "profitSplit": "75%",
+        "profitTarget": "10%",
+        "maxDrawDown": "6%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$45",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$85",
+        "price": "$77",
+        "discount": "PROPVATOR",
+        "size": "$10K",
+        "steps": "2 Step",
+        "profitSplit": "75%",
+        "profitTarget": "10%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$2",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$115",
+        "price": "$104",
+        "discount": "PROPVATOR",
+        "size": "$15K",
+        "steps": "2 Step",
+        "profitSplit": "75%",
+        "profitTarget": "10%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$3",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$199",
+        "price": "$179",
+        "discount": "PROPVATOR",
+        "size": "$25K",
+        "steps": "2 Step",
+        "profitSplit": "75%",
+        "profitTarget": "10%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$4",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$375",
+        "price": "$338",
+        "discount": "PROPVATOR",
+        "size": "$50K",
+        "steps": "2 Step",
+        "profitSplit": "75%",
+        "profitTarget": "10%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$8",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$499",
+        "price": "$449",
+        "discount": "PROPVATOR",
+        "size": "$100K",
+        "steps": "2 Step",
+        "profitSplit": "75%",
+        "profitTarget": "10%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$11",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$999",
+        "price": "$899",
+        "discount": "PROPVATOR",
+        "size": "$200K",
+        "steps": "2 Step",
+        "profitSplit": "75%",
+        "profitTarget": "10%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$22",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$1999",
+        "price": "$1799",
+        "discount": "PROPVATOR",
+        "size": "$400K",
+        "steps": "2 Step",
+        "profitSplit": "75%",
+        "profitTarget": "10%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$45",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$59",
+        "price": "$53",
+        "discount": "PROPVATOR",
+        "size": "$10K",
+        "steps": "3 Step",
+        "profitSplit": "75%",
+        "profitTarget": "5%",
+        "maxDrawDown": "5%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$1",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$79",
+        "price": "$71",
+        "discount": "PROPVATOR",
+        "size": "$15K",
+        "steps": "3 Step",
+        "profitSplit": "75%",
+        "profitTarget": "5%",
+        "maxDrawDown": "5%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$2",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$149",
+        "price": "$134",
+        "discount": "PROPVATOR",
+        "size": "$25K",
+        "steps": "3 Step",
+        "profitSplit": "75%",
+        "profitTarget": "5%",
+        "maxDrawDown": "5%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$3",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$249",
+        "price": "$224",
+        "discount": "PROPVATOR",
+        "size": "$50K",
+        "steps": "3 Step",
+        "profitSplit": "75%",
+        "profitTarget": "5%",
+        "maxDrawDown": "5%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$399",
+        "price": "$359",
+        "discount": "PROPVATOR",
+        "size": "$100K",
+        "steps": "3 Step",
+        "profitSplit": "75%",
+        "profitTarget": "5%",
+        "maxDrawDown": "5%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$9",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$799",
+        "price": "$719",
+        "discount": "PROPVATOR",
+        "size": "$200K",
+        "steps": "3 Step",
+        "profitSplit": "75%",
+        "profitTarget": "5%",
+        "maxDrawDown": "5%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$18",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "FXIFY",
+        "logo": "/Images/brands/FXIFY.svg",
+        "buy": "https://www.fxify.com/",
+        "salePrice": "$1599",
+        "price": "$1439",
+        "discount": "PROPVATOR",
+        "size": "$400K",
+        "steps": "3 Step",
+        "profitSplit": "75%",
+        "profitTarget": "5%",
+        "maxDrawDown": "5%",
+        "dailyDrawDown": "5%",
+        "commission": "$0",
+        "leverage": "30",
+        "rating": "4.4",
+        "credits": "-$36",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": false
+            },
+            "countries": {
+                "usa": false,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": false,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": true,
+                "MT5": true,
+                "cTrader": false,
+                "DXtrade": false,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": true,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$79",
+        "price": "$69",
+        "discount": "PROPVATOR",
+        "size": "$1.25K",
+        "steps": "Instant",
+        "profitSplit": "70%",
+        "profitTarget": "0",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "0",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$2",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$120",
+        "price": "$105",
+        "discount": "PROPVATOR",
+        "size": "$2.5K",
+        "steps": "Instant",
+        "profitSplit": "70%",
+        "profitTarget": "0",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "0",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$3",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$225",
+        "price": "$197",
+        "discount": "PROPVATOR",
+        "size": "$5K",
+        "steps": "Instant",
+        "profitSplit": "70%",
+        "profitTarget": "0",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "0",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$5",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$440",
+        "price": "$385",
+        "discount": "PROPVATOR",
+        "size": "$10K",
+        "steps": "Instant",
+        "profitSplit": "70%",
+        "profitTarget": "0",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "0",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$10",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$870",
+        "price": "$761",
+        "discount": "PROPVATOR",
+        "size": "$20K",
+        "steps": "Instant",
+        "profitSplit": "70%",
+        "profitTarget": "0",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "0",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$19",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$1735",
+        "price": "$1518",
+        "discount": "PROPVATOR",
+        "size": "$40K",
+        "steps": "Instant",
+        "profitSplit": "70%",
+        "profitTarget": "0",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "0",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$38",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$3460",
+        "price": "$3028",
+        "discount": "PROPVATOR",
+        "size": "$80K",
+        "steps": "Instant",
+        "profitSplit": "70%",
+        "profitTarget": "0",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "0",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$76",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$79",
+        "price": "$69",
+        "discount": "PROPVATOR",
+        "size": "$10K",
+        "steps": "1 Step",
+        "profitSplit": "80%",
+        "profitTarget": "10%",
+        "maxDrawDown": "6%",
+        "dailyDrawDown": "3%",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$2",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$149",
+        "price": "$130",
+        "discount": "PROPVATOR",
+        "size": "$25K",
+        "steps": "1 Step",
+        "profitSplit": "80%",
+        "profitTarget": "10%",
+        "maxDrawDown": "6%",
+        "dailyDrawDown": "3%",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$3",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$259",
+        "price": "$227",
+        "discount": "PROPVATOR",
+        "size": "$50K",
+        "steps": "1 Step",
+        "profitSplit": "80%",
+        "profitTarget": "10%",
+        "maxDrawDown": "6%",
+        "dailyDrawDown": "3%",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$6",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$429",
+        "price": "$375",
+        "discount": "PROPVATOR",
+        "size": "$100K",
+        "steps": "1 Step",
+        "profitSplit": "80%",
+        "profitTarget": "10%",
+        "maxDrawDown": "6%",
+        "dailyDrawDown": "3%",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$9",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$89",
+        "price": "$78",
+        "discount": "PROPVATOR",
+        "size": "$10K",
+        "steps": "2 Step",
+        "profitSplit": "80%",
+        "profitTarget": "10%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$2",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$189",
+        "price": "$165",
+        "discount": "PROPVATOR",
+        "size": "$25K",
+        "steps": "2 Step",
+        "profitSplit": "80%",
+        "profitTarget": "10%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$4",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$289",
+        "price": "$253",
+        "discount": "PROPVATOR",
+        "size": "$50K",
+        "steps": "2 Step",
+        "profitSplit": "80%",
+        "profitTarget": "10%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$6",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$489",
+        "price": "$428",
+        "discount": "PROPVATOR",
+        "size": "$100K",
+        "steps": "2 Step",
+        "profitSplit": "80%",
+        "profitTarget": "10%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$11",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$69",
+        "price": "$60",
+        "discount": "PROPVATOR",
+        "size": "$10K",
+        "steps": "3 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$2",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$120",
+        "price": "$105",
+        "discount": "PROPVATOR",
+        "size": "$25K",
+        "steps": "3 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$3",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$219",
+        "price": "$192",
+        "discount": "PROPVATOR",
+        "size": "$50K",
+        "steps": "3 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$5",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Instant Funding",
+        "logo": "/Images/brands/instantFunding.svg",
+        "buy": "https://instantfunding.io/",
+        "salePrice": "$399",
+        "price": "$349",
+        "discount": "PROPVATOR",
+        "size": "$100K",
+        "steps": "3 Step",
+        "profitSplit": "80%",
+        "profitTarget": "8%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "$7",
+        "leverage": "100",
+        "credits": "$9",
+        "rating": "4.6",
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futuresStocks": false,
+                "crypto": true,
+                "indices": true,
+                "Commodities": true
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": false,
+                "iran": false,
+                "nigeria": true,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "Instant": false,
+                "1Step": true,
+                "2Steps": true,
+                "3Steps": false
+            },
+            "platforms": {
+                "MT4": false,
+                "MT5": true,
+                "cTrader": true,
+                "DXtrade": true,
+                "TradeLocker": false,
+                "Match": false
+            },
+            "broker": {
+                "thinkMarkets": false,
+                "purpleTrading": false,
+                "virtualMarkets": false,
+                "capitalMarkets": false,
+                "matchTrade": false,
+                "finesseFX": false,
+                "taurex": false,
+                "fXPig": false,
+                "fXFlat": false,
+                "gbeBrokers": false,
+                "cbtLimited": false,
+                "ownBroker": true
+            }
+        }
+    },
+    {
         "verified": false,
         "firm": "Alpha Capital Group",
         "logo": "/Images/brands/alpha.svg",
@@ -8884,1350 +11444,6 @@
         }
     },
     {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$85",
-        "price": "$77",
-        "discount": "PROPVATOR",
-        "size": "$10K",
-        "steps": "1 Step",
-        "profitSplit": "75%",
-        "profitTarget": "10%",
-        "maxDrawDown": "6%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$2",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$115",
-        "price": "$104",
-        "discount": "PROPVATOR",
-        "size": "$15K",
-        "steps": "1 Step",
-        "profitSplit": "75%",
-        "profitTarget": "10%",
-        "maxDrawDown": "6%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$3",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$199",
-        "price": "$179",
-        "discount": "PROPVATOR",
-        "size": "$25K",
-        "steps": "1 Step",
-        "profitSplit": "75%",
-        "profitTarget": "10%",
-        "maxDrawDown": "6%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$4",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$375",
-        "price": "$338",
-        "discount": "PROPVATOR",
-        "size": "$50K",
-        "steps": "1 Step",
-        "profitSplit": "75%",
-        "profitTarget": "10%",
-        "maxDrawDown": "6%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$8",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$499",
-        "price": "$449",
-        "discount": "PROPVATOR",
-        "size": "$100K",
-        "steps": "1 Step",
-        "profitSplit": "75%",
-        "profitTarget": "10%",
-        "maxDrawDown": "6%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$11",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$999",
-        "price": "$899",
-        "discount": "PROPVATOR",
-        "size": "$200K",
-        "steps": "1 Step",
-        "profitSplit": "75%",
-        "profitTarget": "10%",
-        "maxDrawDown": "6%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$22",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$1999",
-        "price": "$1799",
-        "discount": "PROPVATOR",
-        "size": "$400K",
-        "steps": "1 Step",
-        "profitSplit": "75%",
-        "profitTarget": "10%",
-        "maxDrawDown": "6%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$45",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$85",
-        "price": "$77",
-        "discount": "PROPVATOR",
-        "size": "$10K",
-        "steps": "2 Step",
-        "profitSplit": "75%",
-        "profitTarget": "10%",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$2",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$115",
-        "price": "$104",
-        "discount": "PROPVATOR",
-        "size": "$15K",
-        "steps": "2 Step",
-        "profitSplit": "75%",
-        "profitTarget": "10%",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$3",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$199",
-        "price": "$179",
-        "discount": "PROPVATOR",
-        "size": "$25K",
-        "steps": "2 Step",
-        "profitSplit": "75%",
-        "profitTarget": "10%",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$4",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$375",
-        "price": "$338",
-        "discount": "PROPVATOR",
-        "size": "$50K",
-        "steps": "2 Step",
-        "profitSplit": "75%",
-        "profitTarget": "10%",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$8",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$499",
-        "price": "$449",
-        "discount": "PROPVATOR",
-        "size": "$100K",
-        "steps": "2 Step",
-        "profitSplit": "75%",
-        "profitTarget": "10%",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$11",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$999",
-        "price": "$899",
-        "discount": "PROPVATOR",
-        "size": "$200K",
-        "steps": "2 Step",
-        "profitSplit": "75%",
-        "profitTarget": "10%",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$22",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$1999",
-        "price": "$1799",
-        "discount": "PROPVATOR",
-        "size": "$400K",
-        "steps": "2 Step",
-        "profitSplit": "75%",
-        "profitTarget": "10%",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$45",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$59",
-        "price": "$53",
-        "discount": "PROPVATOR",
-        "size": "$10K",
-        "steps": "3 Step",
-        "profitSplit": "75%",
-        "profitTarget": "5%",
-        "maxDrawDown": "5%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$1",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$79",
-        "price": "$71",
-        "discount": "PROPVATOR",
-        "size": "$15K",
-        "steps": "3 Step",
-        "profitSplit": "75%",
-        "profitTarget": "5%",
-        "maxDrawDown": "5%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$2",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$149",
-        "price": "$134",
-        "discount": "PROPVATOR",
-        "size": "$25K",
-        "steps": "3 Step",
-        "profitSplit": "75%",
-        "profitTarget": "5%",
-        "maxDrawDown": "5%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$3",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$249",
-        "price": "$224",
-        "discount": "PROPVATOR",
-        "size": "$50K",
-        "steps": "3 Step",
-        "profitSplit": "75%",
-        "profitTarget": "5%",
-        "maxDrawDown": "5%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$399",
-        "price": "$359",
-        "discount": "PROPVATOR",
-        "size": "$100K",
-        "steps": "3 Step",
-        "profitSplit": "75%",
-        "profitTarget": "5%",
-        "maxDrawDown": "5%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$9",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$799",
-        "price": "$719",
-        "discount": "PROPVATOR",
-        "size": "$200K",
-        "steps": "3 Step",
-        "profitSplit": "75%",
-        "profitTarget": "5%",
-        "maxDrawDown": "5%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$18",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
-        "salePrice": "$1599",
-        "price": "$1439",
-        "discount": "PROPVATOR",
-        "size": "$400K",
-        "steps": "3 Step",
-        "profitSplit": "75%",
-        "profitTarget": "5%",
-        "maxDrawDown": "5%",
-        "dailyDrawDown": "5%",
-        "commission": "$0",
-        "leverage": "30",
-        "rating": "4.4",
-        "credits": "-$36",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": false
-            },
-            "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": false,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": true,
-                "MT5": true,
-                "cTrader": false,
-                "DXtrade": false,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": true,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
         "verified": false,
         "firm": "Goat Funded Trader",
         "logo": "/Images/brands/goatFundedTrader.svg",
@@ -10928,1222 +12144,6 @@
                 "gbeBrokers": false,
                 "cbtLimited": false,
                 "ownBroker": false
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$79",
-        "price": "$69",
-        "discount": "PROPVATOR",
-        "size": "$1.25K",
-        "steps": "Instant",
-        "profitSplit": "70%",
-        "profitTarget": "0",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "0",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$2",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$120",
-        "price": "$105",
-        "discount": "PROPVATOR",
-        "size": "$2.5K",
-        "steps": "Instant",
-        "profitSplit": "70%",
-        "profitTarget": "0",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "0",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$3",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$225",
-        "price": "$197",
-        "discount": "PROPVATOR",
-        "size": "$5K",
-        "steps": "Instant",
-        "profitSplit": "70%",
-        "profitTarget": "0",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "0",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$5",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$440",
-        "price": "$385",
-        "discount": "PROPVATOR",
-        "size": "$10K",
-        "steps": "Instant",
-        "profitSplit": "70%",
-        "profitTarget": "0",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "0",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$10",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$870",
-        "price": "$761",
-        "discount": "PROPVATOR",
-        "size": "$20K",
-        "steps": "Instant",
-        "profitSplit": "70%",
-        "profitTarget": "0",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "0",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$19",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$1735",
-        "price": "$1518",
-        "discount": "PROPVATOR",
-        "size": "$40K",
-        "steps": "Instant",
-        "profitSplit": "70%",
-        "profitTarget": "0",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "0",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$38",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$3460",
-        "price": "$3028",
-        "discount": "PROPVATOR",
-        "size": "$80K",
-        "steps": "Instant",
-        "profitSplit": "70%",
-        "profitTarget": "0",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "0",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$76",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$79",
-        "price": "$69",
-        "discount": "PROPVATOR",
-        "size": "$10K",
-        "steps": "1 Step",
-        "profitSplit": "80%",
-        "profitTarget": "10%",
-        "maxDrawDown": "6%",
-        "dailyDrawDown": "3%",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$2",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$149",
-        "price": "$130",
-        "discount": "PROPVATOR",
-        "size": "$25K",
-        "steps": "1 Step",
-        "profitSplit": "80%",
-        "profitTarget": "10%",
-        "maxDrawDown": "6%",
-        "dailyDrawDown": "3%",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$3",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$259",
-        "price": "$227",
-        "discount": "PROPVATOR",
-        "size": "$50K",
-        "steps": "1 Step",
-        "profitSplit": "80%",
-        "profitTarget": "10%",
-        "maxDrawDown": "6%",
-        "dailyDrawDown": "3%",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$6",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$429",
-        "price": "$375",
-        "discount": "PROPVATOR",
-        "size": "$100K",
-        "steps": "1 Step",
-        "profitSplit": "80%",
-        "profitTarget": "10%",
-        "maxDrawDown": "6%",
-        "dailyDrawDown": "3%",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$9",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$89",
-        "price": "$78",
-        "discount": "PROPVATOR",
-        "size": "$10K",
-        "steps": "2 Step",
-        "profitSplit": "80%",
-        "profitTarget": "10%",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "5%",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$2",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$189",
-        "price": "$165",
-        "discount": "PROPVATOR",
-        "size": "$25K",
-        "steps": "2 Step",
-        "profitSplit": "80%",
-        "profitTarget": "10%",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "5%",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$4",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$289",
-        "price": "$253",
-        "discount": "PROPVATOR",
-        "size": "$50K",
-        "steps": "2 Step",
-        "profitSplit": "80%",
-        "profitTarget": "10%",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "5%",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$6",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$489",
-        "price": "$428",
-        "discount": "PROPVATOR",
-        "size": "$100K",
-        "steps": "2 Step",
-        "profitSplit": "80%",
-        "profitTarget": "10%",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "5%",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$11",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$69",
-        "price": "$60",
-        "discount": "PROPVATOR",
-        "size": "$10K",
-        "steps": "3 Step",
-        "profitSplit": "80%",
-        "profitTarget": "8%",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "5%",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$2",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$120",
-        "price": "$105",
-        "discount": "PROPVATOR",
-        "size": "$25K",
-        "steps": "3 Step",
-        "profitSplit": "80%",
-        "profitTarget": "8%",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "5%",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$3",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$219",
-        "price": "$192",
-        "discount": "PROPVATOR",
-        "size": "$50K",
-        "steps": "3 Step",
-        "profitSplit": "80%",
-        "profitTarget": "8%",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "5%",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$5",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
-            }
-        }
-    },
-    {
-        "verified": true,
-        "firm": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "buy": "https://instantfunding.io/",
-        "salePrice": "$399",
-        "price": "$349",
-        "discount": "PROPVATOR",
-        "size": "$100K",
-        "steps": "3 Step",
-        "profitSplit": "80%",
-        "profitTarget": "8%",
-        "maxDrawDown": "10%",
-        "dailyDrawDown": "5%",
-        "commission": "$7",
-        "leverage": "100",
-        "credits": "$9",
-        "rating": "4.6",
-        "filterType": {
-            "assetType": {
-                "forex": true,
-                "futuresStocks": false,
-                "crypto": true,
-                "indices": true,
-                "Commodities": true
-            },
-            "countries": {
-                "usa": true,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": true,
-                "turkiye": true,
-                "dubai": true
-            },
-            "accountTypes": {
-                "Instant": false,
-                "1Step": true,
-                "2Steps": true,
-                "3Steps": false
-            },
-            "platforms": {
-                "MT4": false,
-                "MT5": true,
-                "cTrader": true,
-                "DXtrade": true,
-                "TradeLocker": false,
-                "Match": false
-            },
-            "broker": {
-                "thinkMarkets": false,
-                "purpleTrading": false,
-                "virtualMarkets": false,
-                "capitalMarkets": false,
-                "matchTrade": false,
-                "finesseFX": false,
-                "taurex": false,
-                "fXPig": false,
-                "fXFlat": false,
-                "gbeBrokers": false,
-                "cbtLimited": false,
-                "ownBroker": true
             }
         }
     },
