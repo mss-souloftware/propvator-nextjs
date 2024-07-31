@@ -1,103 +1,83 @@
 [
     {
         "name": "Alpha Capital Group",
-        "logo": "/Images/brands/alpha-logo.webp",
+        "logo": "/Images/brands/alpha.svg",
         "brand": "alphaCapitalGroup"
     },
     {
         "name": "AquaFunded",
-        "logo": "/Images/brands/AquaFunded.png"
+        "logo": "/Images/brands/aquaFunded.svg"
     },
     {
         "name": "Blue Guardian",
-        "logo": "/Images/brands/blueGuardian.png"
+        "logo": "/Images/brands/blueGuardian.svg"
     },
     {
         "name": "Breakout",
-        "logo": "/Images/brands/Breakout.png"
-    },
-    {
-        "name": "BrightFunded",
-        "logo": "/Images/brands/Breakout.png"
+        "logo": "/Images/brands/breakout.svg"
     },
     {
         "name": "Crypto Fund Trader",
-        "logo": "/Images/brands/cryptoFund.png"
-    },
-    {
-        "name": "E8 Markets",
-        "logo": "/Images/brands/e8.svg"
+        "logo": "/Images/brands/cryptoFundTrader.svg"
     },
     {
         "name": "Finotive Funding",
-        "logo": "/Images/brands/finotivefunding.png"
+        "logo": "/Images/brands/finotive.svg"
     },
     {
         "name": "For Traders",
-        "logo": "/Images/brands/forTrader.png"
+        "logo": "/Images/brands/forTraders.svg"
     },
     {
         "name": "FTMO",
-        "logo": "/Images/brands/ftmo.png"
+        "logo": "/Images/brands/FTMO.svg"
     },
     {
         "name": "Funded Elite",
-        "logo": "/Images/brands/fundedelite.png"
+        "logo": "/Images/brands/fundedElite.svg"
     },
     {
         "name": "Funded Trading Plus",
-        "logo": "/Images/brands/fundedtradingplus.png"
+        "logo": "/Images/brands/fundedTradingPlus.svg"
     },
     {
         "name": "FundedNext",
-        "logo": "/Images/brands/fundednext.png"
+        "logo": "/Images/brands/fundedNext.svg"
     },
     {
         "name": "Funding Frontier",
-        "logo": "/Images/brands/fundingfrontier.png"
-    },
-    {
-        "name": "Funding Pips",
-        "logo": "/Images/brands/cryptoFund.png"
+        "logo": "/Images/brands/funding-frontier.svg"
     },
     {
         "name": "Funding Traders",
-        "logo": "/Images/brands/fundingtraders.png"
+        "logo": "/Images/brands/fundingTraders.svg"
     },
     {
         "name": "FXIFY",
-        "logo": "/Images/brands/fxify.png"
-    },
-    {
-        "name": "Glow Node",
-        "logo": "/Images/brands/cryptoFund.png"
+        "logo": "/Images/brands/FXIFY.svg"
     },
     {
         "name": "Goat Funded Trader",
-        "logo": "/Images/brands/goatfundedtrader.png"
+        "logo": "/Images/brands/goatFundedTrader.svg"
     },
     {
         "name": "Instant Funding",
-        "logo": "/Images/brands/instantfunding.png"
+        "logo": "/Images/brands/instantFunding.svg"
     },
     {
         "name": "Lark Funding",
-        "logo": "/Images/brands/larkfunding.png"
+        "logo": "/Images/brands/larkFunding.svg"
     },
     {
         "name": "Maven",
-        "logo": "/Images/brands/maventrading.png"
+        "logo": "/Images/brands/Maven.svg"
     },
     {
         "name": "Ment Funding",
-        "logo": "/Images/brands/mentfunding.png"
+        "logo": "/Images/brands/mentFunding.svg"
     },
     {
         "name": "MyFundedFX",
-        "logo": "/Images/brands/myfundedfx.png"
-    },
-    {
-        "name": "The Trading Pit",
-        "logo": "/Images/brands/thetradingpit.webp"
+        "logo": "/Images/brands/myFundedFX.svg"
     }
 ]

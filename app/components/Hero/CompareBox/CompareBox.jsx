@@ -22,7 +22,7 @@ export default function CompareBox({ filter, setfilter }) {
         <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="25k" />
         <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="50k" />
         <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="100k" />
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="2000k" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="200k" />
       </div>
       <p>Select number of step</p>
       <div className={`flex gap-3 flex-wrap ${styles.slectionWrapper}`}>

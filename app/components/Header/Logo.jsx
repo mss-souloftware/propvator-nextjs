@@ -7,7 +7,7 @@ export default function Logo({ demo }) {
             {demo ?
                 <span className="absolute bg-warning text-white px-2 rounded -right-14 text-sm">DEMO</span>
                 : ''}
-            <Image className="mx-auto" src="/Images/Global/logo.png" width={280} height={85} alt="Propvator" />
+            <Image className="mx-auto" src="/Images/Global/logo.svg" width={280} height={85} alt="Propvator" />
         </Link>
     )
 }
