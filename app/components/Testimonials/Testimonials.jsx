@@ -8,7 +8,6 @@ export default function Testimonials() {
                 <h3 className={styles.Testimonials}>
                     Customer Testimonials
                 </h3>
-                <p className='text-center text-[#BABABA] my-4'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
             <div className="my-8">
                 <Slides />
