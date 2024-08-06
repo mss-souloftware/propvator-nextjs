@@ -9,6 +9,7 @@ import Footer from "./components/Footer/Footer";
 import Newsletter from "./components/Newsletter/Newsletter";
 import Testimonials from "./components/Testimonials/Testimonials";
 import FeatureTable from "./components/FeatureTable/FeatureTable";
+import Head from "next/head";
 
 export default function Home() {
   const [filter, setfilter] = useState({
@@ -94,6 +95,9 @@ export default function Home() {
   });
   return (
     <NextUIProvider>
+      <Head>
+        <link rel="shortcut icon" href="/Images/Global/favicon.png" />
+      </Head>
       <Header />
       <Hero filter={filter} setfilter={setfilter} />
       <AdvanceFilter />

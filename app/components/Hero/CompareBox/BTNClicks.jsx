@@ -1,23 +1,26 @@
-"use client"
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 
 export default function BTNClicks({ title, filterType, filter, setfilter }) {
     const [bgColor, setBgColor] = useState('transparent');
 
     const handleClick = () => {
-        console.log({title})
-        setBgColor(filter[filterType][title.toLowerCase()] === true ? 'linear-gradient(135deg, rgba(125,227,250,1) 16%, rgba(51,59,255,1) 74%)' : 'transparent');
-        setfilter({
+        console.log({ title });
+        const nextFilterState = {
             ...filter,
             hasTempered: true,
             [filterType]: {
-              ...filter[filterType],
-              [title.toLowerCase()]: !filter[filterType][title.toLowerCase()]
+                ...filter[filterType],
+                [title.toLowerCase()]: !filter[filterType][title.toLowerCase()]
             }
-        });
-        console.log({filter})
-        setTimeout(() => console.log({filter}), 2000)
+        };
+        setBgColor(nextFilterState[filterType][title.toLowerCase()] ? 'linear-gradient(135deg, rgba(125,227,250,1) 16%, rgba(51,59,255,1) 74%)' : 'transparent');
+        setfilter(nextFilterState);
+        console.log({ nextFilterState });
     };
+
+    useEffect(() => {
+        console.log({ filter });
+    }, [filter]);
 
     return (
         <div

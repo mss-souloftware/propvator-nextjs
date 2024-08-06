@@ -3,7 +3,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$85",
         "price": "$77",
         "discount": "PROPVATOR",
@@ -16,7 +16,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$2",
+        "credits": "$2",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -67,7 +67,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$115",
         "price": "$104",
         "discount": "PROPVATOR",
@@ -80,7 +80,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$3",
+        "credits": "$3",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -131,7 +131,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$199",
         "price": "$179",
         "discount": "PROPVATOR",
@@ -144,7 +144,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$4",
+        "credits": "$4",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -195,7 +195,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$375",
         "price": "$338",
         "discount": "PROPVATOR",
@@ -208,7 +208,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$8",
+        "credits": "$8",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -259,7 +259,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$499",
         "price": "$449",
         "discount": "PROPVATOR",
@@ -272,7 +272,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$11",
+        "credits": "$11",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -323,7 +323,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$999",
         "price": "$899",
         "discount": "PROPVATOR",
@@ -336,7 +336,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$22",
+        "credits": "$22",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -387,7 +387,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$1999",
         "price": "$1799",
         "discount": "PROPVATOR",
@@ -400,7 +400,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$45",
+        "credits": "$45",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -451,7 +451,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$85",
         "price": "$77",
         "discount": "PROPVATOR",
@@ -464,7 +464,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$2",
+        "credits": "$2",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -515,7 +515,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$115",
         "price": "$104",
         "discount": "PROPVATOR",
@@ -528,7 +528,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$3",
+        "credits": "$3",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -579,7 +579,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$199",
         "price": "$179",
         "discount": "PROPVATOR",
@@ -592,7 +592,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$4",
+        "credits": "$4",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -643,7 +643,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$375",
         "price": "$338",
         "discount": "PROPVATOR",
@@ -656,7 +656,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$8",
+        "credits": "$8",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -707,7 +707,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$499",
         "price": "$449",
         "discount": "PROPVATOR",
@@ -720,7 +720,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$11",
+        "credits": "$11",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -771,7 +771,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$999",
         "price": "$899",
         "discount": "PROPVATOR",
@@ -784,7 +784,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$22",
+        "credits": "$22",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -835,7 +835,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$1999",
         "price": "$1799",
         "discount": "PROPVATOR",
@@ -848,7 +848,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$45",
+        "credits": "$45",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -899,7 +899,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$59",
         "price": "$53",
         "discount": "PROPVATOR",
@@ -912,7 +912,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$1",
+        "credits": "$1",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -963,7 +963,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$79",
         "price": "$71",
         "discount": "PROPVATOR",
@@ -976,7 +976,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$2",
+        "credits": "$2",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -1027,7 +1027,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$149",
         "price": "$134",
         "discount": "PROPVATOR",
@@ -1040,7 +1040,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$3",
+        "credits": "$3",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -1091,7 +1091,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$249",
         "price": "$224",
         "discount": "PROPVATOR",
@@ -1104,7 +1104,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$6",
+        "credits": "$6",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -1155,7 +1155,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$399",
         "price": "$359",
         "discount": "PROPVATOR",
@@ -1168,7 +1168,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$9",
+        "credits": "$9",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -1219,7 +1219,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$799",
         "price": "$719",
         "discount": "PROPVATOR",
@@ -1232,7 +1232,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$18",
+        "credits": "$18",
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -1283,7 +1283,7 @@
         "verified": true,
         "firm": "FXIFY",
         "logo": "/Images/brands/FXIFY.svg",
-        "buy": "https://www.fxify.com/",
+        "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
         "salePrice": "$1599",
         "price": "$1439",
         "discount": "PROPVATOR",
@@ -1296,7 +1296,7 @@
         "commission": "$0",
         "leverage": "30",
         "rating": "4.4",
-        "credits": "-$36",
+        "credits": "$36",
         "filterType": {
             "assetType": {
                 "forex": true,
