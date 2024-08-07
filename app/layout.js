@@ -1,5 +1,8 @@
+
 import { Inter } from "next/font/google";
 import "./globals.css";
+import Head from "next/head";
+import Script from "next/script";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -11,6 +14,23 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`overflow-x-hidden`}>
+      <Head>
+        <Script
+          strategy="lazyOnload"
+          src={`https://www.googletagmanager.com/gtag/js?id=G-4NZ0FFNZ1N`}
+        />
+
+        <Script id="ga-script" strategy="lazyOnload">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-4NZ0FFNZ1N', {
+              page_path: window.location.pathname,
+            });
+        `}
+        </Script>
+      </Head>
       <body className={`${inter.className} overflow-x-hidden`}>{children}</body>
     </html>
   );
