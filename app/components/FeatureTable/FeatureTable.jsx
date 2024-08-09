@@ -1,89 +1,128 @@
 "use client";
 import { useState, useEffect } from 'react';
 import styles from './FeatureTable.module.css';
+import numeral from 'numeral';
 import Image from 'next/image';
 import Link from 'next/link';
 import tableHeadData from '@/app/data/tableData.jsx';
 import tableBodyData from '@/app/data/tableDataBody.json';
 
-export default function FeatureTable({ filter }) {
-    const [data, setData] = useState(tableBodyData);
-    const [loading, setLoading] = useState(true);
+export default function FeatureTable({ filter, data, setData }) {
+
+    const numeral = require('numeral');
+
+    const formattedPrice = numeral(10000).format('0.[0]a'); // "10k"
+    console.log(formattedPrice);
+
+    function formatPrice(price) {
+        return numeral(price).format('0.[0]a');
+    }
+
+
     const [currentPage, setCurrentPage] = useState(1);
     const listingsPerPage = 20;
 
-    useEffect(() => {
-        const filterData = () => {
-            if (filter.hasTempered) {
-                // let filteredData = tableBodyData.filter(item => {
-                //   return Object.keys(filter.assetType).every(key => {
-                //     return filter.assetType[key] === false || item.filterType.assetType[key] === filter.assetType[key];
-                //   });
-                // });
-                let filteredData = tableBodyData.filter(item => {
-                    for (const brand in filter.brands) {
-                        if (filter.brands[brand] && item.firm.toLowerCase() === brand) {
-                            return true;
-                        }
+    const hasTrueValue = (filter) => {
+        return Object.values(filter).some(category => {
+            if (typeof category === 'object' && !Array.isArray(category)) {
+                return Object.values(category).some(value => {
+                    if (typeof value === 'boolean') {
+                        return value === true;
+                    } else if (Array.isArray(value)) {
+                        // Check if the array values are different from [0, 1000]
+                        return !(value[0] === 0 && value[1] === 1000);
                     }
                     return false;
                 });
+            }
+            return false;
+        });
+    };
 
-                console.log("filteredData", filteredData)
+    useEffect(() => {
+        console.log({ "new": filter })
+        const filterData = () => {
+            if (!hasTrueValue(filter)) {
+                setData(tableBodyData);
+            } else {
 
+                let filteredData = tableBodyData.filter(item => {
+                    for (const key in filter.assetType) {
+                        if (filter.assetType[key] && item.filterType.assetType[key] !== filter.assetType[key]) {
+                            return false;
+                        }
+                    }
+                    return true;
+                });
+
+
+                // Apply brand filter
+                filteredData = filteredData.filter(item => {
+                    const isAnySizeSelected = Object.values(filter.brands).some(value => value);
+                    if (!isAnySizeSelected) return true;
+                    return filter.brands[item.firm.toLowerCase()];
+                });
 
                 // console.log("filteredData", filteredData)
 
-                // // Apply sizeType filter
-                // filteredData = tableBodyData.filter(item => {
-                //     return Object.keys(filter.sizeType).every(key => {
-                //         return filter.sizeType[key] === false || item.sizeType[key] === filter.sizeType[key];
-                //     });
-                // });
+                // Apply sizeType filter
+                filteredData = filteredData.filter(item => {
+                    const isAnySizeSelected = Object.values(filter.sizeType).some(value => value);
+                    if (!isAnySizeSelected) return true;
+                    return filter.sizeType[item.size];
+                });
 
-                // // Apply accountTypes filter
-                // filteredData = tableBodyData.filter(item => {
-                //     return Object.keys(filter.accountTypes).every(key => {
-                //         return filter.accountTypes[key] === false || item.accountTypes[key] === filter.accountTypes[key];
-                //     });
-                // });
+                // Apply accountTypes filter
+                filteredData = filteredData.filter(item => {
+                    for (const key in filter.accountTypes) {
+                        if (filter.accountTypes[key] && item.filterType.accountTypes[key] !== filter.accountTypes[key]) {
+                            return false;
+                        }
+                    }
+                    return true;
+                });
+
 
                 // // Apply countries filter
-                // filteredData = tableBodyData.filter(item => {
-                //     return Object.keys(filter.countries).every(key => {
-                //         return filter.countries[key] === false || item.countries[key] === filter.countries[key];
-                //     });
-                // });
+                filteredData = filteredData.filter(item => {
+                    for (const key in filter.countries) {
+                        if (filter.countries[key] && item.filterType.countries[key] !== filter.countries[key]) {
+                            return false;
+                        }
+                    }
+                    return true;
+                });
 
                 // // Apply platforms filter
-                // filteredData = tableBodyData.filter(item => {
-                //     return Object.keys(filter.platforms).every(key => {
-                //         return filter.platforms[key] === false || item.platforms[key] === filter.platforms[key];
-                //     });
-                // });
+                filteredData = filteredData.filter(item => {
+                    for (const key in filter.platforms) {
+                        if (filter.platforms[key] && item.filterType.platforms[key] !== filter.platforms[key]) {
+                            return false;
+                        }
+                    }
+                    return true;
+                })
 
                 // // Apply broker filter
-                // filteredData = tableBodyData.filter(item => {
-                //     return Object.keys(filter.broker).every(key => {
-                //         return filter.broker[key] === false || item.broker[key] === filter.broker[key];
-                //     });
-                // });
+                filteredData = filteredData.filter(item => {
+                    for (const key in filter.broker) {
+                        if (filter.broker[key] && item.filterType.broker[key] !== filter.broker[key]) {
+                            return false;
+                        }
+                    }
+                    return true;
+                });
 
-                // // Apply assetType filter
-                // filteredData = tableBodyData.filter(item => {
-                //     return Object.keys(filter.assetType).every(key => {
-                //         return filter.assetType[key] === false || item.assetType[key] === filter.assetType[key];
-                //     });
-                // });
+
+                filteredData = filteredData.filter(item => item.price >= filter.rangeSlider.price[0] && item.price <= filter.rangeSlider.price[1]);
+                filteredData = filteredData.filter(item => item.commission >= filter.rangeSlider.commission[0] && item.commission <= filter.rangeSlider.commission[1]);
+                // filteredData = filteredData.filter(item => item.leverage >= filter.rangeSlider.leverage[0] && item.leverage <= filter.rangeSlider.leverage[1]);
+                filteredData = filteredData.filter(item => item.credits >= filter.rangeSlider.credits[0] && item.credits <= filter.rangeSlider.credits[1]);
 
                 setData(filteredData);
-            } else {
-                setData(tableBodyData);
             }
-            setLoading(false);
-        };
 
-        setLoading(true);
+        };
         filterData();
     }, [filter]);
 
@@ -104,10 +143,6 @@ export default function FeatureTable({ filter }) {
     const currentListings = data.slice(indexOfFirstListing, indexOfLastListing);
 
     const totalPages = Math.ceil(data.length / listingsPerPage);
-
-    if (loading) {
-        return <div>Loading...</div>;
-    }
 
     return (
         <div id='table' className="container mx-auto md:px-0 px-3">
@@ -152,16 +187,16 @@ export default function FeatureTable({ filter }) {
                                                     </div>
                                                 </td>
                                                 <td>
-                                                    {item.salePrice ?
-                                                        <del>{item.salePrice}</del>
-                                                        : ''}
-                                                    <p>{item.price}</p>
+                                                    {item.salePrice ? (
+                                                        <del>{item.salePrice ? `$${formatPrice(item.salePrice)}` : ''}</del>
+                                                    ) : ''}
+                                                    <p>{item.price ? `$${formatPrice(item.price)}` : ''}</p>
                                                 </td>
                                                 <td>
                                                     <p>{item.discount}</p>
                                                 </td>
                                                 <td>
-                                                    <p>{item.size}</p>
+                                                    <p>{item.size ? `${item.size}k` : ''}</p>
                                                 </td>
                                                 <td>
                                                     <p>{item.steps}</p>
@@ -188,7 +223,7 @@ export default function FeatureTable({ filter }) {
                                                     <p>{item.rating}</p>
                                                 </td>
                                                 <td>
-                                                    <p>{item.credits}</p>
+                                                    <p>{item.credits ? `$${item.credits}` : ''}</p>
                                                 </td>
                                                 <td>
                                                     <Link href={`${item.buy}`} target='_blank' className="cart">

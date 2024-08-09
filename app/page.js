@@ -8,10 +8,12 @@ import AdvanceFilter from "./components/AdvanceFilter/AdvanceFilter";
 import Footer from "./components/Footer/Footer";
 import Newsletter from "./components/Newsletter/Newsletter";
 import Testimonials from "./components/Testimonials/Testimonials";
+import tableBodyData from '@/app/data/tableDataBody.json';
 import FeatureTable from "./components/FeatureTable/FeatureTable";
 import Head from "next/head";
 
 export default function Home() {
+  const [data, setData] = useState(tableBodyData);
   const [filter, setfilter] = useState({
     hasTempered: false,
     brands: {
@@ -42,12 +44,12 @@ export default function Home() {
       "the trading pit": false,
     },
     sizeType: {
-      "5k": false,
-      "10k": false,
-      "25k": false,
-      "50k": false,
-      "100k": false,
-      "200k": false,
+      "5": false,
+      "10": false,
+      "25": false,
+      "50": false,
+      "100": false,
+      "200": false,
     },
     accountTypes: {
       "instant": false,
@@ -91,6 +93,12 @@ export default function Home() {
       crypto: false,
       indices: false,
       Commodities: false
+    },
+    rangeSlider: {
+      price: [0, 1000],
+      commission: [0, 1000],
+      leverage: [0, 1000],
+      credits: [0, 1000],
     }
   });
   return (
@@ -100,8 +108,8 @@ export default function Home() {
       </Head>
       <Header />
       <Hero filter={filter} setfilter={setfilter} />
-      <AdvanceFilter />
-      <FeatureTable filter={filter} setfilter={setfilter} />
+      <AdvanceFilter filter={filter} setfilter={setfilter} data={data} setData={setData} />
+      <FeatureTable data={data} setData={setData} filter={filter} setfilter={setfilter} />
       <Guide />
       <Testimonials />
       <Newsletter />
