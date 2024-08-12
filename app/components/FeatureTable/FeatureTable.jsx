@@ -6,7 +6,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import tableHeadData from '@/app/data/tableData.jsx';
 import tableBodyData from '@/app/data/tableDataBody.json';
-
+import rangeSlider from "@/app/data/range"
 export default function FeatureTable({ filter, data, setData }) {
 
     const numeral = require('numeral');
@@ -23,14 +23,23 @@ export default function FeatureTable({ filter, data, setData }) {
     const listingsPerPage = 20;
 
     const hasTrueValue = (filter) => {
+        const defaultRanges = {
+            price: [42, 200000],
+            commission: [0, 7],
+            leverage: [5, 125],
+            credits: [1, 76]
+        };
+
         return Object.values(filter).some(category => {
             if (typeof category === 'object' && !Array.isArray(category)) {
-                return Object.values(category).some(value => {
+                return Object.entries(category).some(([key, value]) => {
                     if (typeof value === 'boolean') {
                         return value === true;
                     } else if (Array.isArray(value)) {
-                        // Check if the array values are different from [0, 1000]
-                        return !(value[0] === 0 && value[1] === 1000);
+                        // Check if the array values are different from their specific default ranges
+                        if (defaultRanges[key]) {
+                            return !(value[0] === defaultRanges[key][0] && value[1] === defaultRanges[key][1]);
+                        }
                     }
                     return false;
                 });
@@ -38,6 +47,7 @@ export default function FeatureTable({ filter, data, setData }) {
             return false;
         });
     };
+
 
     useEffect(() => {
         console.log({ "new": filter })
@@ -72,15 +82,22 @@ export default function FeatureTable({ filter, data, setData }) {
                     return filter.sizeType[item.size];
                 });
 
-                // Apply accountTypes filter
+                // Apply sizeType filter
                 filteredData = filteredData.filter(item => {
-                    for (const key in filter.accountTypes) {
-                        if (filter.accountTypes[key] && item.filterType.accountTypes[key] !== filter.accountTypes[key]) {
-                            return false;
-                        }
-                    }
-                    return true;
+                    const isAnySizeSelected = Object.values(filter.accountTypes).some(value => value);
+                    if (!isAnySizeSelected) return true;
+                    return filter.accountTypes[item.steps.toLowerCase()];
                 });
+
+                // Apply accountTypes filter
+                // filteredData = filteredData.filter(item => {
+                //     for (const key in filter.accountTypes) {
+                //         if (filter.accountTypes[key] && item.filterType.accountTypes[key] !== filter.accountTypes[key]) {
+                //             return false;
+                //         }
+                //     }
+                //     return true;
+                // });
 
 
                 // // Apply countries filter
@@ -116,7 +133,7 @@ export default function FeatureTable({ filter, data, setData }) {
 
                 filteredData = filteredData.filter(item => item.price >= filter.rangeSlider.price[0] && item.price <= filter.rangeSlider.price[1]);
                 filteredData = filteredData.filter(item => item.commission >= filter.rangeSlider.commission[0] && item.commission <= filter.rangeSlider.commission[1]);
-                // filteredData = filteredData.filter(item => item.leverage >= filter.rangeSlider.leverage[0] && item.leverage <= filter.rangeSlider.leverage[1]);
+                filteredData = filteredData.filter(item => item.leverage >= filter.rangeSlider.leverage[0] && item.leverage <= filter.rangeSlider.leverage[1]);
                 filteredData = filteredData.filter(item => item.credits >= filter.rangeSlider.credits[0] && item.credits <= filter.rangeSlider.credits[1]);
 
                 setData(filteredData);

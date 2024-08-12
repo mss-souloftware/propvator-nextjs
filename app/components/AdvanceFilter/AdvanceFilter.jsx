@@ -29,7 +29,7 @@ export default function AdvanceFilter({ data, setData, filter, setfilter }) {
         </div>
         {isFilterVisible && (
           <div className="w-full flex flex-wrap gap-7 md:gap-0 justify-between p-2 mb-4 filterMainRow">
-            <RangWrapper filter={filter} setfilter={setfilter} dataTpye="price" data={data} setData={setData} title="Price" badge="Price"/>
+            <RangWrapper filter={filter} setfilter={setfilter} dataTpye="price" data={data} setData={setData} title="Price" badge="Price" />
             <RangWrapper filter={filter} setfilter={setfilter} dataTpye="commission" data={data} setData={setData} title="Commission" badge="Commission" />
             <RangWrapper filter={filter} setfilter={setfilter} dataTpye="leverage" data={data} setData={setData} title="Payout Frequency" badge="Payout" />
             <RangWrapper filter={filter} setfilter={setfilter} dataTpye="credits" data={data} setData={setData} title="Loyalty Points" badge="Credit" />

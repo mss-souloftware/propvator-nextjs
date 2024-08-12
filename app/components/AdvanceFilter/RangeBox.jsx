@@ -5,6 +5,7 @@ import styles from './RangeBox.module.css';
 
 export default function RangeBox({ data, setData, dataTpye, filter, setfilter }) {
   const handleRangeChangeHandler = (val) => {
+    console.log('Slider value changed to:', val);
     const nextFilterState = {
       ...filter,
       rangeSlider: {
@@ -12,19 +13,19 @@ export default function RangeBox({ data, setData, dataTpye, filter, setfilter })
         [dataTpye]: val
       }
     };
-  
+
     setfilter(nextFilterState);
   }
-  
+
 
   const handleMinChange = (e) => {
     const newMin = parseInt(e.target.value, 10);
-    if (newMin <= filter.rangeSlider[dataTpye][1] && newMin >= 0) {
+    if (newMin <= filter.rangeSlider[dataTpye][1] && newMin >= filter.rangeSlider[dataTpye][0]) {
       const nextFilterState = {
         ...filter,
         rangeSlider: {
-            ...filter.rangeSlider,
-            [dataTpye]: [newMin, filter.rangeSlider[dataTpye][1]]
+          ...filter.rangeSlider,
+          [dataTpye]: [newMin, filter.rangeSlider[dataTpye][1]]
         }
       };
 
@@ -35,12 +36,12 @@ export default function RangeBox({ data, setData, dataTpye, filter, setfilter })
 
   const handleMaxChange = (e) => {
     const newMax = parseInt(e.target.value, 10);
-    if (newMax >= filter.rangeSlider[dataTpye][0] && newMax <= 1000) {
+    if (newMax >= filter.rangeSlider[dataTpye][0] && newMax <= filter.rangeSlider[dataTpye][1]) {
       const nextFilterState = {
         ...filter,
         rangeSlider: {
-            ...filter.rangeSlider,
-            [dataTpye]: [filter.rangeSlider[dataTpye][0], newMax]
+          ...filter.rangeSlider,
+          [dataTpye]: [filter.rangeSlider[dataTpye][0], newMax]
         }
       };
 
@@ -77,10 +78,16 @@ export default function RangeBox({ data, setData, dataTpye, filter, setfilter })
       <div className="flex flex-col gap-2 w-2/12 h-[150px] max-w-md items-start justify-center">
         <Slider
           formatOptions={{ style: "currency", currency: "USD" }}
-          step={10}
+          step={1}
           orientation="vertical"
-          maxValue={1000}
-          minValue={0}
+          maxValue={dataTpye === 'price' ? 200000 :
+            dataTpye === 'commission' ? 7 :
+              dataTpye === 'leverage' ? 125 :
+                dataTpye === 'credits' ? 76 : 0}
+          minValue={dataTpye === 'price' ? 42 :
+            dataTpye === 'commission' ? 0 : 
+              dataTpye === 'leverage' ? 5 :
+                dataTpye === 'credits' ? 1 : 0}
           value={filter.rangeSlider[dataTpye]}
           onChange={handleRangeChangeHandler}
           className="max-w-md"

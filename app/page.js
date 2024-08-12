@@ -10,6 +10,7 @@ import Newsletter from "./components/Newsletter/Newsletter";
 import Testimonials from "./components/Testimonials/Testimonials";
 import tableBodyData from '@/app/data/tableDataBody.json';
 import FeatureTable from "./components/FeatureTable/FeatureTable";
+import rangeSlider from "@/app/data/range";
 import Head from "next/head";
 
 export default function Home() {
@@ -94,12 +95,7 @@ export default function Home() {
       indices: false,
       Commodities: false
     },
-    rangeSlider: {
-      price: [0, 1000],
-      commission: [0, 1000],
-      leverage: [0, 1000],
-      credits: [0, 1000],
-    }
+    rangeSlider
   });
   return (
     <NextUIProvider>
