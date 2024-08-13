@@ -29,9 +29,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -94,9 +94,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -159,9 +159,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -224,9 +224,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -289,9 +289,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -354,9 +354,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -419,9 +419,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -484,9 +484,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -549,9 +549,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -614,9 +614,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -679,9 +679,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -744,9 +744,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -809,9 +809,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -874,9 +874,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -939,9 +939,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -1004,9 +1004,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -1069,9 +1069,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -1134,9 +1134,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -1199,9 +1199,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -1264,9 +1264,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -1329,9 +1329,9 @@
             "countries": {
                 "usa": false,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
-                "turkiye": false,
+                "iran": false,
+                "turkiye": true,
                 "dubai": true
             },
             "accountTypes": {
@@ -1394,8 +1394,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -1459,8 +1459,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -1524,8 +1524,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -1589,8 +1589,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -1654,8 +1654,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -1719,8 +1719,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -1784,8 +1784,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -1849,8 +1849,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -1914,8 +1914,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -1979,8 +1979,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -2044,8 +2044,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -2109,8 +2109,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -2174,8 +2174,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -2239,8 +2239,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -2304,8 +2304,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -2369,8 +2369,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -2434,8 +2434,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -2499,8 +2499,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -2564,8 +2564,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -2629,8 +2629,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -2693,8 +2693,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -2757,8 +2757,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -2821,8 +2821,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -2885,8 +2885,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -2949,8 +2949,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -3013,8 +3013,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -3077,8 +3077,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -3141,8 +3141,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -3205,8 +3205,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -3269,8 +3269,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -3333,8 +3333,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -3397,8 +3397,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -3461,8 +3461,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -3525,8 +3525,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -3589,8 +3589,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -3653,8 +3653,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -3717,8 +3717,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -3781,8 +3781,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -3845,8 +3845,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -3909,8 +3909,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -3973,8 +3973,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -4037,8 +4037,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -4101,8 +4101,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -4165,8 +4165,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -4229,8 +4229,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -4293,8 +4293,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -4357,8 +4357,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -4421,8 +4421,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -4485,8 +4485,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -4549,8 +4549,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -4613,8 +4613,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -4677,8 +4677,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -4741,8 +4741,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -4805,8 +4805,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -4869,8 +4869,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -4933,8 +4933,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -4997,8 +4997,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -5061,8 +5061,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -5125,8 +5125,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -5189,8 +5189,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -5253,8 +5253,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -5317,8 +5317,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -5381,8 +5381,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -5445,8 +5445,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -5509,8 +5509,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -5573,8 +5573,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -5637,8 +5637,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -5701,8 +5701,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -5765,8 +5765,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -5829,8 +5829,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -5893,8 +5893,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -5957,8 +5957,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -6021,8 +6021,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -6085,8 +6085,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -6149,8 +6149,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -6213,8 +6213,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -6277,8 +6277,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -6341,8 +6341,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -6405,8 +6405,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -6469,8 +6469,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -6533,8 +6533,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -6597,8 +6597,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -6661,8 +6661,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -6725,8 +6725,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -6789,8 +6789,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -6853,8 +6853,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -6917,8 +6917,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -6981,8 +6981,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -7045,8 +7045,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -7109,8 +7109,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -7173,8 +7173,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -7237,8 +7237,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -7301,8 +7301,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -7365,8 +7365,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -7429,8 +7429,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -7493,8 +7493,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -7557,8 +7557,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -7621,8 +7621,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -7685,8 +7685,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -7749,8 +7749,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -7813,8 +7813,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -7877,8 +7877,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -7941,8 +7941,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -8005,8 +8005,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -8069,8 +8069,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -8133,8 +8133,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -8197,8 +8197,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -8261,8 +8261,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -8325,8 +8325,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -8389,8 +8389,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -8453,8 +8453,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -8517,8 +8517,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -8581,8 +8581,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -8645,8 +8645,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -8709,8 +8709,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -8773,8 +8773,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -8837,8 +8837,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -8901,8 +8901,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -8965,8 +8965,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -9029,8 +9029,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -9093,8 +9093,8 @@
             "countries": {
                 "usa": false,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -9157,8 +9157,8 @@
             "countries": {
                 "usa": false,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -9221,8 +9221,8 @@
             "countries": {
                 "usa": false,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -9285,8 +9285,8 @@
             "countries": {
                 "usa": false,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -9349,8 +9349,8 @@
             "countries": {
                 "usa": false,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -9413,8 +9413,8 @@
             "countries": {
                 "usa": false,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -9477,8 +9477,8 @@
             "countries": {
                 "usa": false,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -9541,8 +9541,8 @@
             "countries": {
                 "usa": false,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -9605,8 +9605,8 @@
             "countries": {
                 "usa": false,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -9669,8 +9669,8 @@
             "countries": {
                 "usa": false,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -9733,8 +9733,8 @@
             "countries": {
                 "usa": false,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -9797,8 +9797,8 @@
             "countries": {
                 "usa": false,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -9861,8 +9861,8 @@
             "countries": {
                 "usa": false,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -9925,8 +9925,8 @@
             "countries": {
                 "usa": false,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -9989,8 +9989,8 @@
             "countries": {
                 "usa": false,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -10053,8 +10053,8 @@
             "countries": {
                 "usa": false,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -10117,8 +10117,8 @@
             "countries": {
                 "usa": false,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -10181,8 +10181,8 @@
             "countries": {
                 "usa": false,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -10245,8 +10245,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": false
             },
@@ -10309,8 +10309,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -10373,8 +10373,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -10437,8 +10437,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -10501,8 +10501,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -10565,8 +10565,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -10629,8 +10629,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -10693,8 +10693,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -10757,8 +10757,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -10821,8 +10821,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -10885,8 +10885,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
-                "iran": true,
                 "nigeria": true,
+                "iran": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -10949,8 +10949,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": true,
+                "nigeria": true,
                 "iran": true,
-                "nigeria": true,
                 "turkiye": true,
                 "dubai": true
             },
@@ -11013,8 +11013,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -11077,8 +11077,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -11141,8 +11141,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -11205,8 +11205,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -11269,8 +11269,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -11333,8 +11333,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -11397,8 +11397,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -11461,8 +11461,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -11525,8 +11525,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -11589,8 +11589,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -11654,8 +11654,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -11719,8 +11719,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -11784,8 +11784,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -11849,8 +11849,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -11914,8 +11914,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -11979,8 +11979,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -12044,8 +12044,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -12109,8 +12109,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -12174,8 +12174,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -12239,8 +12239,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -12304,8 +12304,8 @@
             "countries": {
                 "usa": true,
                 "pakistan": false,
-                "iran": false,
                 "nigeria": true,
+                "iran": false,
                 "turkiye": true,
                 "dubai": true
             },
@@ -12365,12 +12365,12 @@
                 "commodities": true
             },
             "countries": {
-                "usa": false,
+                "usa": true,
                 "pakistan": false,
+                "nigeria": true,
                 "iran": false,
-                "nigeria": false,
-                "turkiye": false,
-                "dubai": false
+                "turkiye": true,
+                "dubai": true
             },
             "accountTypes": {
                 "instant": false,
@@ -12428,12 +12428,12 @@
                 "commodities": true
             },
             "countries": {
-                "usa": false,
-                "pakistan": false,
-                "iran": false,
-                "nigeria": false,
-                "turkiye": false,
-                "dubai": false
+                "usa": true,
+                "pakistan": true,
+                "nigeria": true,
+                "iran": true,
+                "turkiye": true,
+                "dubai": true
             },
             "accountTypes": {
                 "instant": false,
@@ -12491,12 +12491,12 @@
                 "commodities": true
             },
             "countries": {
-                "usa": false,
-                "pakistan": false,
+                "usa": true,
+                "pakistan": true,
+                "nigeria": true,
                 "iran": false,
-                "nigeria": false,
-                "turkiye": false,
-                "dubai": false
+                "turkiye": true,
+                "dubai": true
             },
             "accountTypes": {
                 "instant": false,
@@ -12554,12 +12554,12 @@
                 "commodities": true
             },
             "countries": {
-                "usa": false,
-                "pakistan": false,
+                "usa": true,
+                "pakistan": true,
+                "nigeria": true,
                 "iran": false,
-                "nigeria": false,
-                "turkiye": false,
-                "dubai": false
+                "turkiye": true,
+                "dubai": true
             },
             "accountTypes": {
                 "instant": false,
