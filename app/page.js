@@ -90,10 +90,11 @@ export default function Home() {
     },
     assetType: {
       forex: false,
-      futuresStocks: false,
+      futures: false,
+      stocks: false,
       crypto: false,
       indices: false,
-      Commodities: false
+      commodities: false
     },
     rangeSlider
   });

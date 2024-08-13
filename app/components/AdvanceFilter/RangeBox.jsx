@@ -85,7 +85,7 @@ export default function RangeBox({ data, setData, dataTpye, filter, setfilter })
               dataTpye === 'leverage' ? 125 :
                 dataTpye === 'credits' ? 76 : 0}
           minValue={dataTpye === 'price' ? 42 :
-            dataTpye === 'commission' ? 0 : 
+            dataTpye === 'commission' ? 0 :
               dataTpye === 'leverage' ? 5 :
                 dataTpye === 'credits' ? 1 : 0}
           value={filter.rangeSlider[dataTpye]}

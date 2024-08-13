@@ -72,10 +72,14 @@ data.forEach(i => {
 
 
 const rangeSlider = {
-    price: [minPrice, maxPrice],
-    commission: [mincommission, maxcommission],
-    leverage: [minleverage, maxleverage],
-    credits: [mincredits, maxcredits],
+    // price: [minPrice, maxPrice],
+    // commission: [mincommission, maxcommission],
+    // leverage: [minleverage, maxleverage],
+    // credits: [mincredits, maxcredits],
+    price: [0, maxPrice],
+    commission: [0, maxcommission],
+    leverage: [0, maxleverage],
+    credits: [0, maxcredits],
 }
-console.log(rangeSlider)
+
 export default rangeSlider;

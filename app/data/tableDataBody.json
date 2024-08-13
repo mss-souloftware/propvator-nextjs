@@ -20,10 +20,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -84,10 +85,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -148,10 +150,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -212,10 +215,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -276,10 +280,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -340,10 +345,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -404,10 +410,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -468,10 +475,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -532,10 +540,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -596,10 +605,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -660,10 +670,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -724,10 +735,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -788,10 +800,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -852,10 +865,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -916,10 +930,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -980,10 +995,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -1044,10 +1060,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -1108,10 +1125,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -1172,10 +1190,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -1236,10 +1255,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -1300,10 +1320,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": false,
@@ -1364,10 +1385,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -1428,10 +1450,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -1492,10 +1515,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -1556,10 +1580,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -1620,10 +1645,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -1684,10 +1710,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -1748,10 +1775,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -1812,10 +1840,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -1876,10 +1905,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -1940,10 +1970,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -2004,10 +2035,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -2068,10 +2100,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -2132,10 +2165,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -2196,10 +2230,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -2260,10 +2295,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -2324,10 +2360,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -2388,10 +2425,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -2452,10 +2490,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -2516,10 +2555,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -2580,10 +2620,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": false,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -2643,10 +2684,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": false,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -2706,10 +2748,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": false,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -2769,10 +2812,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": false,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -2832,10 +2876,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": false,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -2895,10 +2940,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -2958,10 +3004,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -3021,10 +3068,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -3084,10 +3132,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -3147,10 +3196,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -3210,10 +3260,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -3273,10 +3324,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -3336,10 +3388,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -3399,10 +3452,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -3462,10 +3516,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -3525,10 +3580,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -3588,10 +3644,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -3651,10 +3708,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -3714,10 +3772,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -3777,10 +3836,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -3840,10 +3900,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -3903,10 +3964,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -3966,10 +4028,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -4029,10 +4092,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -4092,10 +4156,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -4155,10 +4220,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -4218,10 +4284,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -4281,10 +4348,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -4344,10 +4412,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -4407,10 +4476,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -4470,10 +4540,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -4533,10 +4604,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -4596,10 +4668,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -4659,10 +4732,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -4722,10 +4796,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -4785,10 +4860,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -4848,10 +4924,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -4911,10 +4988,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -4974,10 +5052,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -5037,10 +5116,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -5100,10 +5180,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -5163,10 +5244,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -5226,10 +5308,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -5289,10 +5372,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -5352,10 +5436,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -5415,10 +5500,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -5478,10 +5564,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -5541,10 +5628,11 @@
         "filterType": {
             "assetType": {
                 "forex": false,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": false,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -5604,10 +5692,11 @@
         "filterType": {
             "assetType": {
                 "forex": false,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": false,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -5667,10 +5756,11 @@
         "filterType": {
             "assetType": {
                 "forex": false,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": false,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -5730,10 +5820,11 @@
         "filterType": {
             "assetType": {
                 "forex": false,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": false,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -5793,10 +5884,11 @@
         "filterType": {
             "assetType": {
                 "forex": false,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": false,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -5856,10 +5948,11 @@
         "filterType": {
             "assetType": {
                 "forex": false,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": false,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -5919,10 +6012,11 @@
         "filterType": {
             "assetType": {
                 "forex": false,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": false,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -5982,10 +6076,11 @@
         "filterType": {
             "assetType": {
                 "forex": false,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": false,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -6045,10 +6140,11 @@
         "filterType": {
             "assetType": {
                 "forex": false,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": false,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -6108,10 +6204,11 @@
         "filterType": {
             "assetType": {
                 "forex": false,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": false,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -6171,10 +6268,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -6234,10 +6332,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -6297,10 +6396,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -6360,10 +6460,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -6423,10 +6524,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -6486,10 +6588,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -6549,10 +6652,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -6612,10 +6716,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -6675,10 +6780,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -6738,10 +6844,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -6801,10 +6908,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -6864,10 +6972,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -6927,10 +7036,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -6990,10 +7100,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -7053,10 +7164,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -7116,10 +7228,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -7179,10 +7292,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -7242,10 +7356,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -7305,10 +7420,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -7368,10 +7484,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -7431,10 +7548,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -7494,10 +7612,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -7557,10 +7676,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -7620,10 +7740,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -7683,10 +7804,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -7746,10 +7868,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -7809,10 +7932,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": true,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -7872,10 +7996,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -7935,10 +8060,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -7998,10 +8124,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -8061,10 +8188,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -8124,10 +8252,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -8187,10 +8316,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": false,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -8250,10 +8380,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": false,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -8313,10 +8444,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": false,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -8376,10 +8508,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": false,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -8439,10 +8572,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": false,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -8502,10 +8636,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": false,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -8565,10 +8700,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": false,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -8628,10 +8764,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": false,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -8691,10 +8828,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": false,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -8754,10 +8892,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": false,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -8817,10 +8956,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": false,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -8880,10 +9020,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": false,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -8943,10 +9084,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -9006,10 +9148,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -9069,10 +9212,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -9132,10 +9276,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -9195,10 +9340,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -9258,10 +9404,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -9321,10 +9468,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -9384,10 +9532,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -9447,10 +9596,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -9510,10 +9660,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -9573,10 +9724,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -9636,10 +9788,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -9699,10 +9852,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -9762,10 +9916,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -9825,10 +9980,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -9888,10 +10044,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -9951,10 +10108,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -10014,10 +10172,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -10077,10 +10236,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -10140,10 +10300,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -10203,10 +10364,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -10266,10 +10428,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -10329,10 +10492,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -10392,10 +10556,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -10455,10 +10620,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -10518,10 +10684,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -10581,10 +10748,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -10644,10 +10812,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -10707,10 +10876,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -10770,10 +10940,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -10833,10 +11004,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -10896,10 +11068,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -10959,10 +11132,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -11022,10 +11196,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -11085,10 +11260,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -11148,10 +11324,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -11211,10 +11388,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -11274,10 +11452,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -11337,10 +11516,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -11400,10 +11580,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": true,
                 "crypto": true,
                 "indices": true,
-                "Commodities": false
+                "commodities": false
             },
             "countries": {
                 "usa": true,
@@ -11464,10 +11645,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -11528,10 +11710,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -11592,10 +11775,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -11656,10 +11840,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -11720,10 +11905,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -11784,10 +11970,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -11848,10 +12035,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -11912,10 +12100,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -11976,10 +12165,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -12040,10 +12230,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -12104,10 +12295,11 @@
         "filterType": {
             "assetType": {
                 "forex": true,
-                "futuresStocks": false,
+                "futures": false,
+                "stocks": false,
                 "crypto": true,
                 "indices": true,
-                "Commodities": true
+                "commodities": true
             },
             "countries": {
                 "usa": true,
@@ -12165,11 +12357,12 @@
         "credits": "",
         "filterType": {
             "assetType": {
-                "forex": false,
-                "futuresStocks": false,
-                "crypto": false,
-                "indices": false,
-                "Commodities": false
+                "forex": true,
+                "futures": false,
+                "stocks": false,
+                "crypto": true,
+                "indices": true,
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -12227,11 +12420,12 @@
         "credits": "",
         "filterType": {
             "assetType": {
-                "forex": false,
-                "futuresStocks": false,
+                "forex": true,
+                "futures": false,
+                "stocks": false,
                 "crypto": false,
-                "indices": false,
-                "Commodities": false
+                "indices": true,
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -12289,11 +12483,12 @@
         "credits": "",
         "filterType": {
             "assetType": {
-                "forex": false,
-                "futuresStocks": false,
-                "crypto": false,
-                "indices": false,
-                "Commodities": false
+                "forex": true,
+                "futures": false,
+                "stocks": true,
+                "crypto": true,
+                "indices": true,
+                "commodities": true
             },
             "countries": {
                 "usa": false,
@@ -12351,11 +12546,12 @@
         "credits": "",
         "filterType": {
             "assetType": {
-                "forex": false,
-                "futuresStocks": false,
-                "crypto": false,
-                "indices": false,
-                "Commodities": false
+                "forex": true,
+                "futures": false,
+                "stocks": false,
+                "crypto": true,
+                "indices": true,
+                "commodities": true
             },
             "countries": {
                 "usa": false,
