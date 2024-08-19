@@ -2600,6 +2600,336 @@
         }
     },
     {
+        "verified": true,
+        "firm": "Monevis",
+        "logo": "/Images/brands/monevis.svg",
+        "buy": "https://www.monevis.com/en?ref=propvator&promo=PROPVATOR",
+        "salePrice": 80,
+        "price": 73.6,
+        "discount": "PROPVATOR",
+        "size": 10,
+        "steps": "2 Steps",
+        "profitSplit": "85%",
+        "profitTarget": "10%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "",
+        "leverage": "20",
+        "rating": "4.7",
+        "delcredits": 4,
+        "credits": 2,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futures": false,
+                "stocks": false,
+                "crypto": false,
+                "indices": false,
+                "commodities": false
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "nigeria": true,
+                "iran": false,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "instant": false,
+                "1 step": false,
+                "2 steps": true,
+                "3 steps": false
+            },
+            "platforms": {
+                "mt4": false,
+                "mt5": true,
+                "ctrader": false,
+                "dxtrade": false,
+                "tradelocker": false,
+                "match trader": false
+            },
+            "broker": {
+                "think markets": false,
+                "purple trading": false,
+                "virtual markets": false,
+                "capital markets": false,
+                "match trade": false,
+                "finesse fx": false,
+                "taurex": false,
+                "fxpig": false,
+                "fxflat": false,
+                "gbe brokers": false,
+                "cbt limited": false,
+                "own broker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Monevis",
+        "logo": "/Images/brands/monevis.svg",
+        "buy": "https://www.monevis.com/en?ref=propvator&promo=PROPVATOR",
+        "salePrice": 180,
+        "price": 165.60,
+        "discount": "PROPVATOR",
+        "size": 25,
+        "steps": "2 Steps",
+        "profitSplit": "85%",
+        "profitTarget": "10%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "",
+        "leverage": "20",
+        "rating": "4.8",
+        "delcredits": 8,
+        "credits": 4,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futures": false,
+                "stocks": false,
+                "crypto": false,
+                "indices": false,
+                "commodities": false
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "nigeria": true,
+                "iran": false,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "instant": false,
+                "1 step": false,
+                "2 steps": true,
+                "3 steps": false
+            },
+            "platforms": {
+                "mt4": false,
+                "mt5": true,
+                "ctrader": false,
+                "dxtrade": false,
+                "tradelocker": false,
+                "match trader": false
+            },
+            "broker": {
+                "think markets": false,
+                "purple trading": false,
+                "virtual markets": false,
+                "capital markets": false,
+                "match trade": false,
+                "finesse fx": false,
+                "taurex": false,
+                "fxpig": false,
+                "fxflat": false,
+                "gbe brokers": false,
+                "cbt limited": false,
+                "own broker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Monevis",
+        "logo": "/Images/brands/monevis.svg",
+        "buy": "https://www.monevis.com/en?ref=propvator&promo=PROPVATOR",
+        "salePrice": 297,
+        "price": 273.24,
+        "discount": "PROPVATOR",
+        "size": 50,
+        "steps": "2 Steps",
+        "profitSplit": "85%",
+        "profitTarget": "10%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "",
+        "leverage": "20",
+        "rating": "4.9",
+        "delcredits": 14,
+        "credits": 7,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futures": false,
+                "stocks": false,
+                "crypto": false,
+                "indices": false,
+                "commodities": false
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "nigeria": true,
+                "iran": false,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "instant": false,
+                "1 step": false,
+                "2 steps": true,
+                "3 steps": false
+            },
+            "platforms": {
+                "mt4": false,
+                "mt5": true,
+                "ctrader": false,
+                "dxtrade": false,
+                "tradelocker": false,
+                "match trader": false
+            },
+            "broker": {
+                "think markets": false,
+                "purple trading": false,
+                "virtual markets": false,
+                "capital markets": false,
+                "match trade": false,
+                "finesse fx": false,
+                "taurex": false,
+                "fxpig": false,
+                "fxflat": false,
+                "gbe brokers": false,
+                "cbt limited": false,
+                "own broker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Monevis",
+        "logo": "/Images/brands/monevis.svg",
+        "buy": "https://www.monevis.com/en?ref=propvator&promo=PROPVATOR",
+        "salePrice": 507,
+        "price": 466.44,
+        "discount": "PROPVATOR",
+        "size": 100,
+        "steps": "2 Steps",
+        "profitSplit": "85%",
+        "profitTarget": "10%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "",
+        "leverage": "20",
+        "rating": "4.10",
+        "delcredits": 23,
+        "credits": 11,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futures": false,
+                "stocks": false,
+                "crypto": false,
+                "indices": false,
+                "commodities": false
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "nigeria": true,
+                "iran": false,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "instant": false,
+                "1 step": false,
+                "2 steps": true,
+                "3 steps": false
+            },
+            "platforms": {
+                "mt4": false,
+                "mt5": true,
+                "ctrader": false,
+                "dxtrade": false,
+                "tradelocker": false,
+                "match trader": false
+            },
+            "broker": {
+                "think markets": false,
+                "purple trading": false,
+                "virtual markets": false,
+                "capital markets": false,
+                "match trade": false,
+                "finesse fx": false,
+                "taurex": false,
+                "fxpig": false,
+                "fxflat": false,
+                "gbe brokers": false,
+                "cbt limited": false,
+                "own broker": true
+            }
+        }
+    },
+    {
+        "verified": true,
+        "firm": "Monevis",
+        "logo": "/Images/brands/monevis.svg",
+        "buy": "https://www.monevis.com/en?ref=propvator&promo=PROPVATOR",
+        "salePrice": 987,
+        "price": 908.04,
+        "discount": "PROPVATOR",
+        "size": 200,
+        "steps": "2 Steps",
+        "profitSplit": "85%",
+        "profitTarget": "10%",
+        "maxDrawDown": "10%",
+        "dailyDrawDown": "5%",
+        "commission": "",
+        "leverage": "20",
+        "rating": "4.11",
+        "delcredits": 46,
+        "credits": 23,
+        "filterType": {
+            "assetType": {
+                "forex": true,
+                "futures": false,
+                "stocks": false,
+                "crypto": false,
+                "indices": false,
+                "commodities": false
+            },
+            "countries": {
+                "usa": true,
+                "pakistan": true,
+                "nigeria": true,
+                "iran": false,
+                "turkiye": true,
+                "dubai": true
+            },
+            "accountTypes": {
+                "instant": false,
+                "1 step": false,
+                "2 steps": true,
+                "3 steps": false
+            },
+            "platforms": {
+                "mt4": false,
+                "mt5": true,
+                "ctrader": false,
+                "dxtrade": false,
+                "tradelocker": false,
+                "match trader": false
+            },
+            "broker": {
+                "think markets": false,
+                "purple trading": false,
+                "virtual markets": false,
+                "capital markets": false,
+                "match trade": false,
+                "finesse fx": false,
+                "taurex": false,
+                "fxpig": false,
+                "fxflat": false,
+                "gbe brokers": false,
+                "cbt limited": false,
+                "own broker": true
+            }
+        }
+    },
+    {
         "verified": false,
         "firm": "Alpha Capital Group",
         "logo": "/Images/brands/alpha.svg",

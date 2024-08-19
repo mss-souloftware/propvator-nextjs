@@ -56,15 +56,28 @@ export default function FeatureTable({ filter, data, setData }) {
                 setData(tableBodyData);
             } else {
 
+                // let filteredData = tableBodyData.filter(item => {
+                //     for (const key in filter.assetType) {
+                //         if (filter.assetType[key] && item.filterType.assetType[key] !== filter.assetType[key]) {
+                //             return false;
+                //         }
+                //     }
+                //     return true;
+                // });
+
                 let filteredData = tableBodyData.filter(item => {
+                    let matchFound = false;
                     for (const key in filter.assetType) {
-                        if (filter.assetType[key] && item.filterType.assetType[key] !== filter.assetType[key]) {
-                            return false;
+                        if (filter.assetType[key]) {
+                            if (item.filterType.assetType[key] === filter.assetType[key]) {
+                                matchFound = true;
+                                break;
+                            }
                         }
                     }
-                    return true;
-                });
 
+                    return matchFound || Object.values(filter.assetType).every(value => !value);
+                });
 
                 // Apply brand filter
                 filteredData = filteredData.filter(item => {
@@ -100,34 +113,47 @@ export default function FeatureTable({ filter, data, setData }) {
                 // });
 
 
-                // // Apply countries filter
                 filteredData = filteredData.filter(item => {
+                    let matchFound = false;
+
                     for (const key in filter.countries) {
-                        if (filter.countries[key] && item.filterType.countries[key] !== filter.countries[key]) {
-                            return false;
+                        if (filter.countries[key]) {
+                            if (item.filterType.countries[key] === filter.countries[key]) {
+                                matchFound = true;
+                                break;
+                            }
                         }
                     }
-                    return true;
+
+                    return matchFound || Object.values(filter.countries).every(value => !value);
                 });
-
-                // // Apply platforms filter
                 filteredData = filteredData.filter(item => {
+                    let matchFound = false;
+
                     for (const key in filter.platforms) {
-                        if (filter.platforms[key] && item.filterType.platforms[key] !== filter.platforms[key]) {
-                            return false;
+                        if (filter.platforms[key]) {
+                            if (item.filterType.platforms[key] === filter.platforms[key]) {
+                                matchFound = true;
+                                break;
+                            }
                         }
                     }
-                    return true;
-                })
 
-                // // Apply broker filter
+                    return matchFound || Object.values(filter.platforms).every(value => !value);
+                });
                 filteredData = filteredData.filter(item => {
+                    let matchFound = false;
+
                     for (const key in filter.broker) {
-                        if (filter.broker[key] && item.filterType.broker[key] !== filter.broker[key]) {
-                            return false;
+                        if (filter.broker[key]) {
+                            if (item.filterType.broker[key] === filter.broker[key]) {
+                                matchFound = true;
+                                break;
+                            }
                         }
                     }
-                    return true;
+
+                    return matchFound || Object.values(filter.broker).every(value => !value);
                 });
 
 
@@ -240,6 +266,9 @@ export default function FeatureTable({ filter, data, setData }) {
                                                     <p>{item.rating}</p>
                                                 </td>
                                                 <td>
+                                                    {item.delcredits ? (
+                                                        <del>{item.delcredits ? `$${formatPrice(item.delcredits)}` : ''}</del>
+                                                    ) : ''}
                                                     <p>{item.credits ? `$${item.credits}` : ''}</p>
                                                 </td>
                                                 <td>
