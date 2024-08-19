@@ -16,10 +16,10 @@ export default function Brands({filter, setfilter}) {
                 </div>
             </div>
 
-            <div className="flex flex-wrap gap-3  mt-10">
+            <div className="flex flex-wrap justify-center gap-3 mt-10">
                 {brand.map((item, index) => {
                     return (
-                        <BrandSelector filter={filter} setfilter={setfilter} filterType="brands" key={index} brandName={item.name} logo={item.logo} />
+                        <BrandSelector filter={filter} setfilter={setfilter} verified={item.verified} filterType="brands" key={index} brandName={item.name} logo={item.logo} />
                     );
                 })}
             </div>
