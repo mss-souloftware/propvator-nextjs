@@ -257,7 +257,7 @@ export default function FeatureTable({ filter, data, setData }) {
                                                     <p>{item.dailyDrawDown}</p>
                                                 </td>
                                                 <td>
-                                                    <p>{item.commission}</p>
+                                                    <p>${item.commission}</p>
                                                 </td>
                                                 <td>
                                                     <p>{item.leverage}</p>
