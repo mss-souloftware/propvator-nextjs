@@ -15,7 +15,7 @@ export default function NewsletterBox() {
         setMessage(''); // Clear previous messages
 
         try {
-            const res = await fetch('/api/newsletter', {
+            const res = await fetch('https://propvator-email.vercel.app/send-email', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
