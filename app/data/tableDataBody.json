@@ -81,7 +81,7 @@
         "dailyDrawDown": "5%",
         "commission": 3,
         "leverage": "20",
-        "rating": "4.8",
+        "rating": "4.7",
         "delcredits": 8,
         "credits": 4,
         "filterType": {
@@ -147,7 +147,7 @@
         "dailyDrawDown": "5%",
         "commission": 3,
         "leverage": "20",
-        "rating": "4.9",
+        "rating": "4.7",
         "delcredits": 14,
         "credits": 7,
         "filterType": {
@@ -213,7 +213,7 @@
         "dailyDrawDown": "5%",
         "commission": 3,
         "leverage": "20",
-        "rating": "4.10",
+        "rating": "4.7",
         "delcredits": 23,
         "credits": 11,
         "filterType": {
@@ -279,7 +279,7 @@
         "dailyDrawDown": "5%",
         "commission": 3,
         "leverage": "20",
-        "rating": "4.11",
+        "rating": "4.7",
         "delcredits": 46,
         "credits": 23,
         "filterType": {
