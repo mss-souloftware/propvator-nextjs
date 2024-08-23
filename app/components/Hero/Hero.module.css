@@ -1,5 +1,5 @@
 .heroSection {
-    padding: 300px 0 450px;
+    padding: 200px 0 450px;
     background: url('../../../public/Images/heroBg.png') no-repeat top;
     background-size: cover;
 }
@@ -28,12 +28,12 @@
 
 @media(max-width:991px) {
     .heroSection {
-        padding: 200px 0 100px;
+        padding: 150px 0 100px;
     }
 }
 
 @media(max-width:768px) {
     .heroSection {
-        padding: 200px 12px 100px;
+        padding: 150px 12px 100px;
     }
 }
