@@ -70,7 +70,7 @@ export default function NewsletterBox() {
                 </p>
             )}
             <div className='w-full sm:w-10/12 md:w-10/12 mx-auto flex flex-wrap gap-y-3 justify-center mt-10'>
-                <Features title='latest pop news' img='/Images/icons/latest.svg' />
+                <Features title='latest news' img='/Images/icons/latest.svg' />
                 <Features title='Launch details' img='/Images/icons/launch.svg' />
                 <Features title='Giveaway Info' img='/Images/icons/giveaway.svg' />
                 <Features title='The Best Offers' img='/Images/icons/latest.svg' />
