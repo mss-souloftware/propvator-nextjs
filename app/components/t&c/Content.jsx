@@ -104,12 +104,6 @@ export default function Content() {
                     to other sites are accessed at your own risk.
                 </p>
 
-                <h2>6. GIVEAWAY</h2>
-
-                <p>
-                    6.1. We
-                </p>
-
                 <h2>7. CASHBACK</h2>
 
                 <p>
