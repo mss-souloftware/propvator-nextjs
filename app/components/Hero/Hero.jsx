@@ -19,6 +19,13 @@ export default function Hero({ filter, setfilter }) {
         }
     }, [isPopupOpen]);
 
+    const handleOutsideClick = (e) => {
+        // Close the popup if clicking outside of the content
+        if (e.target.id === 'popup-overlay') {
+            setIsPopupOpen(false);
+        }
+    };
+
     return (
         <section className={styles.heroSection}>
             <div className="container mx-auto">
@@ -34,9 +41,13 @@ export default function Hero({ filter, setfilter }) {
                 <Brands filter={filter} setfilter={setfilter} />
 
                 {isPopupOpen && (
-                    <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+                    <div
+                        id="popup-overlay"
+                        className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50"
+                        onClick={handleOutsideClick}
+                    >
                         <div className="bg-[#27197D] p-8 rounded-lg relative w-11/12 max-w-2xl">
-                            <button onClick={togglePopup} className="absolute top-3 right-3 text-white hover:text-white">
+                            <button onClick={togglePopup} className="absolute top-2 right-2 text-white hover:text-white text-2xl">
                                 ✖
                             </button>
                             <div className="h-[280px] md:h-[380px]">

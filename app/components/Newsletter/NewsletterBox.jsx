@@ -24,7 +24,7 @@ export default function NewsletterBox() {
             });
 
             if (res.ok) {
-                setMessage('Subscription successful!');
+                setMessage('Subscribed! Stay tuned for giveaways and prop updates!');
                 setMessageType('success');
             } else {
                 setMessage('Subscription failed. Please try again.');

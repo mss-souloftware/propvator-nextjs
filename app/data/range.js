@@ -76,7 +76,7 @@ const rangeSlider = {
     // commission: [mincommission, maxcommission],
     // leverage: [minleverage, maxleverage],
     // credits: [mincredits, maxcredits],
-    price: [0, maxPrice],
+    price: [0, 5000],
     commission: [0, maxcommission],
     leverage: [0, maxleverage],
     credits: [0, maxcredits],

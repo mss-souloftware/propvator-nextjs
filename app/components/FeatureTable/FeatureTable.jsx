@@ -24,7 +24,7 @@ export default function FeatureTable({ filter, data, setData }) {
 
     const hasTrueValue = (filter) => {
         const defaultRanges = {
-            price: [42, 200000],
+            price: [42, 5000],
             commission: [0, 7],
             leverage: [5, 125],
             credits: [1, 76]

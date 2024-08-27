@@ -29,6 +29,13 @@ export default function RootLayout({ children }) {
             });
         `}
         </Script>
+
+        {/* LiveChat Script */}
+        <Script 
+          id="livechat-script" 
+          strategy="lazyOnload"
+          src="https://accounts.livechat.com/join?access_token=dal:vhkV6BXUUHqh30v2Td0spRZgbo0"
+        />
       </head>
       <body className={`${inter.className} overflow-x-hidden`}>{children}</body>
     </html>

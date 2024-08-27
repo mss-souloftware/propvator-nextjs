@@ -80,7 +80,7 @@ export default function RangeBox({ data, setData, dataTpye, filter, setfilter })
           formatOptions={{ style: "currency", currency: "USD" }}
           step={1}
           orientation="vertical"
-          maxValue={dataTpye === 'price' ? 200000 :
+          maxValue={dataTpye === 'price' ? 5000 :
             dataTpye === 'commission' ? 7 :
               dataTpye === 'leverage' ? 125 :
                 dataTpye === 'credits' ? 76 : 0}

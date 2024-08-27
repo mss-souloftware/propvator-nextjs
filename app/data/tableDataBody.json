@@ -16,8 +16,8 @@
         "commission": 3,
         "leverage": "20",
         "rating": "4.7",
-        "delcredits": 4,
-        "credits": 2,
+        "delcredits": 2,
+        "credits": 4,
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -82,8 +82,8 @@
         "commission": 3,
         "leverage": "20",
         "rating": "4.7",
-        "delcredits": 8,
-        "credits": 4,
+        "delcredits": 4,
+        "credits": 8,
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -148,8 +148,8 @@
         "commission": 3,
         "leverage": "20",
         "rating": "4.7",
-        "delcredits": 14,
-        "credits": 7,
+        "delcredits": 7,
+        "credits": 14,
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -214,8 +214,8 @@
         "commission": 3,
         "leverage": "20",
         "rating": "4.7",
-        "delcredits": 23,
-        "credits": 11,
+        "delcredits": 11,
+        "credits": 23,
         "filterType": {
             "assetType": {
                 "forex": true,
@@ -280,8 +280,8 @@
         "commission": 3,
         "leverage": "20",
         "rating": "4.7",
-        "delcredits": 46,
-        "credits": 23,
+        "delcredits": 23,
+        "credits": 46,
         "filterType": {
             "assetType": {
                 "forex": true,
