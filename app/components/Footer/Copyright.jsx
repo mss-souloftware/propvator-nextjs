@@ -8,7 +8,7 @@ export default function Copyright() {
                     <p className='text-sm sm:w-6/12 w-full'>© 2024 Propvator. All rights reserved.</p>
                     <ul className='m-0 p-0 flex text-sm sm:w-6/12 w-full sm:mt-0 mt-2 justify-center md:justify-end'>
                         <li className='mr-10'>
-                            <Link href="#" className='underline'>Terms and Conditions</Link>
+                            <Link href="/terms-and-conditions/" className='underline'>Terms and Conditions</Link>
                         </li>
                         <li>
                             <Link href="#" className='underline'>Privacy Policy</Link>
