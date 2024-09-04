@@ -37,7 +37,7 @@ export default function CompareBox({ filter, setfilter }) {
         <BTNClicks filter={filter} setfilter={setfilter} filterType="countries" title="USA" />
         <BTNClicks filter={filter} setfilter={setfilter} filterType="countries" title="Pakistan" />
         <BTNClicks filter={filter} setfilter={setfilter} filterType="countries" title="Nigeria" />
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="countries" title="Iran" />
+        {/* <BTNClicks filter={filter} setfilter={setfilter} filterType="countries" title="Iran" /> */}
         <BTNClicks filter={filter} setfilter={setfilter} filterType="countries" title="Turkiye" />
         <BTNClicks filter={filter} setfilter={setfilter} filterType="countries" title="Dubai" />
       </div>

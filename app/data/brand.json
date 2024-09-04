@@ -20,23 +20,8 @@
         "verified": false
     },
     {
-        "name": "Blue Guardian",
-        "logo": "/Images/brands/blueGuardian.svg",
-        "verified": false
-    },
-    {
         "name": "Breakout",
         "logo": "/Images/brands/breakout.svg",
-        "verified": false
-    },
-    {
-        "name": "Crypto Fund Trader",
-        "logo": "/Images/brands/cryptoFundTrader.svg",
-        "verified": false
-    },
-    {
-        "name": "Finotive Funding",
-        "logo": "/Images/brands/finotive.svg",
         "verified": false
     },
     {
@@ -65,23 +50,8 @@
         "verified": false
     },
     {
-        "name": "Funding Frontier",
-        "logo": "/Images/brands/funding-frontier.svg",
-        "verified": false
-    },
-    {
         "name": "Funding Traders",
         "logo": "/Images/brands/fundingTraders.svg",
-        "verified": false
-    },
-    {
-        "name": "Ment Funding",
-        "logo": "/Images/brands/mentFunding.svg",
-        "verified": false
-    },
-    {
-        "name": "MyFundedFX",
-        "logo": "/Images/brands/myFundedFX.svg",
         "verified": false
     }
 ]
