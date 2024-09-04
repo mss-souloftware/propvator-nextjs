@@ -82,7 +82,7 @@ export default function RangeBox({ data, setData, dataTpye, filter, setfilter })
           orientation="vertical"
           maxValue={dataTpye === 'price' ? 5000 :
             dataTpye === 'commission' ? 7 :
-              dataTpye === 'leverage' ? 30 :
+              dataTpye === 'leverage' ? 125 :
                 dataTpye === 'credits' ? 76 : 0}
           minValue={dataTpye === 'price' ? 42 :
             dataTpye === 'commission' ? 0 :
