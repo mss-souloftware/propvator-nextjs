@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  background: #1A1A1A;
+  background: #1a1a1a;
 }
 
 /* the slides */
@@ -32,12 +32,12 @@ body {
 
 /* Handle */
 .data--table::-webkit-scrollbar-thumb {
-  background: #333BFF;
+  background: #333bff;
 }
 
 /* Handle on hover */
 .data--table::-webkit-scrollbar-thumb:hover {
-  background: #333BFF;
+  background: #333bff;
 }
 
 .comparison--table--area {
@@ -118,7 +118,7 @@ body {
   height: 106px;
   vertical-align: middle;
   position: relative;
-  border: 1px solid #24253D;
+  border: 1px solid #24253d;
 }
 
 .comparison--table--area table td svg {
@@ -291,17 +291,23 @@ body {
   bottom: 0;
   width: 98px;
   height: 100%;
-  background: -o-linear-gradient(right,
-      rgba(3, 59, 255, 0.75) -25.35%,
-      rgba(115, 115, 115, 0) 69.97%);
-  background: -webkit-gradient(linear,
-      right top,
-      left top,
-      color-stop(-25.35%, rgba(3, 59, 255, 0.75)),
-      color-stop(69.97%, rgba(115, 115, 115, 0)));
-  background: linear-gradient(270deg,
-      rgba(3, 59, 255, 0.75) -25.35%,
-      rgba(115, 115, 115, 0) 69.97%);
+  background: -o-linear-gradient(
+    right,
+    rgba(3, 59, 255, 0.75) -25.35%,
+    rgba(115, 115, 115, 0) 69.97%
+  );
+  background: -webkit-gradient(
+    linear,
+    right top,
+    left top,
+    color-stop(-25.35%, rgba(3, 59, 255, 0.75)),
+    color-stop(69.97%, rgba(115, 115, 115, 0))
+  );
+  background: linear-gradient(
+    270deg,
+    rgba(3, 59, 255, 0.75) -25.35%,
+    rgba(115, 115, 115, 0) 69.97%
+  );
   z-index: 0;
 }
 
@@ -328,7 +334,7 @@ body {
 }
 
 .comparison--table--area .table--wrapper .pageCount {
-  background: #1A1A1A;
+  background: #1a1a1a;
 }
 
 .comparison--table--area .table--wrapper .pageCount ul {
@@ -342,7 +348,16 @@ body {
 }
 
 .comparison--table--area .table--wrapper .pageCount ul li.current {
-  color: #333BFF;
+  color: #333bff;
+}
+
+.comparison--table--area .gradienBadge {
+  background: linear-gradient(133deg, #7de3fa 17.44%, #333bff 75.23%);
+  padding: 2px 8px;
+  border-radius: 30px;
+  font-size: 14px;
+  margin-top: 10px;
+  display: inline-block;
 }
 
 /* guide--area styles  */
@@ -399,8 +414,7 @@ body {
   line-height: 26.24px;
 }
 
-@media(max-width:991px) {
-
+@media (max-width: 991px) {
   /* the slides */
   .slick-slide {
     margin-left: 30px;
@@ -410,12 +424,9 @@ body {
   .slick-list {
     margin-left: -30px;
   }
-
 }
 
-
-@media(max-width:991px) {
-
+@media (max-width: 991px) {
   /* the slides */
   .slick-slide {
     margin-left: 20px;
@@ -425,5 +436,35 @@ body {
   .slick-list {
     margin-left: -20px;
   }
+}
 
+.copy-button {
+  margin-top: 10px;
+  cursor: pointer;
+  background: linear-gradient(133deg, #7de3fa 17.44%, #333bff 75.23%);
+  color: white;
+  border: none;
+  padding: 5px;
+  border-radius: 4px;
+  font-size: 14px;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.copy-button:hover {
+  background: linear-gradient(133deg, #7de3fa 17.44%, #333bff 75.23%);
+}
+
+.tooltip {
+  position: absolute;
+  background-color: black;
+  color: white;
+  padding: 5px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  margin-left: 5px;
+  top: -30px; /* Adjust depending on your layout */
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  opacity: 0.8;
 }
