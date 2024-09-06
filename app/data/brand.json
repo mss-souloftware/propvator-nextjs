@@ -1,57 +1,67 @@
 [
-    {
-        "name": "Monevis",
-        "logo": "/Images/brands/monevisBrand.svg",
-        "verified": true
-    },
-    {
-        "name": "FXIFY",
-        "logo": "/Images/brands/FXIFY.svg",
-        "verified": true
-    },
-    {
-        "name": "Instant Funding",
-        "logo": "/Images/brands/instantFunding.svg",
-        "verified": true
-    },
-    {
-        "name": "Alpha Capital Group",
-        "logo": "/Images/brands/alpha.svg",
-        "verified": false
-    },
-    {
-        "name": "Breakout",
-        "logo": "/Images/brands/breakout.svg",
-        "verified": false
-    },
-    {
-        "name": "For Traders",
-        "logo": "/Images/brands/forTraders.svg",
-        "verified": false
-    },
-    {
-        "name": "FTMO",
-        "logo": "/Images/brands/FTMO.svg",
-        "verified": false
-    },
-    {
-        "name": "Funded Elite",
-        "logo": "/Images/brands/fundedElite.svg",
-        "verified": false
-    },
-    {
-        "name": "Funded Trading Plus",
-        "logo": "/Images/brands/fundedTradingPlus.svg",
-        "verified": false
-    },
-    {
-        "name": "FundedNext",
-        "logo": "/Images/brands/fundedNext.svg",
-        "verified": false
-    },
-    {
-        "name": "Funding Traders",
-        "logo": "/Images/brands/fundingTraders.svg",
-        "verified": false
-    }
+  {
+    "name": "FXIFY",
+    "logo": "/Images/brands/FXIFY.svg",
+    "verified": true
+  },
+  {
+    "name": "Instant Funding",
+    "logo": "/Images/brands/instantFunding.svg",
+    "verified": true
+  },
+  {
+    "name": "Monevis",
+    "logo": "/Images/brands/monevisBrand.svg",
+    "verified": true
+  },
+  {
+    "name": "Fintokei",
+    "logo": "/Images/brands/fintokei.svg",
+    "verified": true
+  },
+  {
+    "name": "Blueberry Funded",
+    "logo": "/Images/brands/blueberryFunded.svg",
+    "verified": true
+  },
+  {
+    "name": "Funded Trading Plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "verified": true
+  },
+  {
+    "name": "Alpha Capital Group",
+    "logo": "/Images/brands/alpha.svg",
+    "verified": false
+  },
+  {
+    "name": "Breakout",
+    "logo": "/Images/brands/breakout.svg",
+    "verified": false
+  },
+  {
+    "name": "For Traders",
+    "logo": "/Images/brands/forTraders.svg",
+    "verified": false
+  },
+  {
+    "name": "FTMO",
+    "logo": "/Images/brands/FTMO.svg",
+    "verified": false
+  },
+  {
+    "name": "Funded Elite",
+    "logo": "/Images/brands/fundedElite.svg",
+    "verified": false
+  },
+  {
+    "name": "FundedNext",
+    "logo": "/Images/brands/fundedNext.svg",
+    "verified": false
+  },
+  {
+    "name": "Funding Traders",
+    "logo": "/Images/brands/fundingTraders.svg",
+    "verified": false
+  }
 ]

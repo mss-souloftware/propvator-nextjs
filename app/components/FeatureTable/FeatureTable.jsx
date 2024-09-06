@@ -234,6 +234,9 @@ export default function FeatureTable({ filter, data, setData }) {
                                                         <del>{item.salePrice ? `$${formatPrice(item.salePrice)}` : ''}</del>
                                                     ) : ''}
                                                     <p>{item.price ? `$${formatPrice(item.price)}` : ''}</p>
+                                                    {item.calcPrice ? (
+                                                        <span className=''>{item.calcPrice ? item.calcPrice : ''}</span>
+                                                    ) : ''}
                                                 </td>
                                                 <td>
                                                     <p>{item.discount}</p>
