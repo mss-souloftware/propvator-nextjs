@@ -121,10 +121,6 @@ body {
   border: 1px solid #24253d;
 }
 
-.comparison--table--area table td svg {
-  margin: auto;
-}
-
 .copy--data {
   cursor: pointer;
 }
@@ -291,23 +287,17 @@ body {
   bottom: 0;
   width: 98px;
   height: 100%;
-  background: -o-linear-gradient(
-    right,
-    rgba(3, 59, 255, 0.75) -25.35%,
-    rgba(115, 115, 115, 0) 69.97%
-  );
-  background: -webkit-gradient(
-    linear,
-    right top,
-    left top,
-    color-stop(-25.35%, rgba(3, 59, 255, 0.75)),
-    color-stop(69.97%, rgba(115, 115, 115, 0))
-  );
-  background: linear-gradient(
-    270deg,
-    rgba(3, 59, 255, 0.75) -25.35%,
-    rgba(115, 115, 115, 0) 69.97%
-  );
+  background: -o-linear-gradient(right,
+      rgba(3, 59, 255, 0.75) -25.35%,
+      rgba(115, 115, 115, 0) 69.97%);
+  background: -webkit-gradient(linear,
+      right top,
+      left top,
+      color-stop(-25.35%, rgba(3, 59, 255, 0.75)),
+      color-stop(69.97%, rgba(115, 115, 115, 0)));
+  background: linear-gradient(270deg,
+      rgba(3, 59, 255, 0.75) -25.35%,
+      rgba(115, 115, 115, 0) 69.97%);
   z-index: 0;
 }
 
@@ -415,6 +405,7 @@ body {
 }
 
 @media (max-width: 991px) {
+
   /* the slides */
   .slick-slide {
     margin-left: 30px;
@@ -427,6 +418,7 @@ body {
 }
 
 @media (max-width: 991px) {
+
   /* the slides */
   .slick-slide {
     margin-left: 20px;
@@ -461,10 +453,11 @@ body {
   padding: 5px 8px;
   border-radius: 4px;
   font-size: 12px;
-  margin-left: 5px;
-  top: -30px; /* Adjust depending on your layout */
-  left: 50%;
-  transform: translateX(-50%);
+  max-width: 70px;
+  top: 10px;
+  left: 0;
+  right: 0;
+  margin: auto;
   z-index: 1000;
   opacity: 0.8;
 }

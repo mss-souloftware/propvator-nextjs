@@ -8,18 +8,23 @@ import tableHeadData from "@/app/data/tableData.jsx";
 import tableBodyData from "@/app/data/tableDataBody.json";
 import rangeSlider from "@/app/data/range";
 export default function FeatureTable({ filter, data, setData }) {
-  const [showTooltip, setShowTooltip] = useState(false);
-  const [copiedDiscount, setCopiedDiscount] = useState(null);
+  const [copiedDiscounts, setCopiedDiscounts] = useState({});
 
-  const handleCopy = (discount) => {
+  const handleCopy = (discount, rowIndex) => {
     navigator.clipboard.writeText(discount);
-    setCopiedDiscount(discount);
-    setShowTooltip(true);
 
-    // Hide the tooltip after a few seconds
+    // Show tooltip for the specific row
+    setCopiedDiscounts((prev) => ({
+      ...prev,
+      [rowIndex]: true
+    }));
+
+    // Hide the tooltip for the specific row after a few seconds
     setTimeout(() => {
-      setShowTooltip(false);
-      setCopiedDiscount(null); // Reset the copied discount after hiding the tooltip
+      setCopiedDiscounts((prev) => ({
+        ...prev,
+        [rowIndex]: false
+      }));
     }, 2000);
   };
 
@@ -340,40 +345,18 @@ export default function FeatureTable({ filter, data, setData }) {
                             ""
                           )}
                         </td>
-                        <td>
-                          <p>{item.discount}</p>
-                          {item.discount ? (
+                        <td className="relative">
+                          {item.discount && (
                             <>
-                              <button
-                                onClick={() => handleCopy(item.discount)}
-                                className="copy-button"
-                              >
-                                <svg
-                                  width="15px"
-                                  height="15px"
-                                  viewBox="0 0 24 24"
-                                  fill="none"
-                                >
-                                  <path
-                                    d="M6 11C6 8.17157 6 6.75736 6.87868 5.87868C7.75736 5 9.17157 5 12 5H15C17.8284 5 19.2426 5 20.1213 5.87868C21 6.75736 21 8.17157 21 11V16C21 18.8284 21 20.2426 20.1213 21.1213C19.2426 22 17.8284 22 15 22H12C9.17157 22 7.75736 22 6.87868 21.1213C6 20.2426 6 18.8284 6 16V11Z"
-                                    stroke="#fff"
-                                    strokeWidth="1.5"
-                                  />
-                                  <path
-                                    d="M6 19C4.34315 19 3 17.6569 3 16V10C3 6.22876 3 4.34315 4.17157 3.17157C5.34315 2 7.22876 2 11 2H15C16.6569 2 18 3.34315 18 5"
-                                    stroke="#fff"
-                                    strokeWidth="1.5"
-                                  />
+                              <button onClick={() => handleCopy(item.discount, index)} className="copy-button flex items-center px-1">
+                                {item.discount}
+                                <svg width="15px" height="15px" viewBox="0 0 24 24" fill="none" className="ml-1">
+                                  <path d="M6 11C6 8.17157 6 6.75736 6.87868 5.87868C7.75736 5 9.17157 5 12 5H15C17.8284 5 19.2426 5 20.1213 5.87868C21 6.75736 21 8.17157 21 11V16C21 18.8284 21 20.2426 20.1213 21.1213C19.2426 22 17.8284 22 15 22H12C9.17157 22 7.75736 22 6.87868 21.1213C6 20.2426 6 18.8284 6 16V11Z" stroke="#fff" strokeWidth="1.5" />
+                                  <path d="M6 19C4.34315 19 3 17.6569 3 16V10C3 6.22876 3 4.34315 4.17157 3.17157C5.34315 2 7.22876 2 11 2H15C16.6569 2 18 3.34315 18 5" stroke="#fff" strokeWidth="1.5" />
                                 </svg>
                               </button>
-
-                              {showTooltip &&
-                                copiedDiscount === item.discount && (
-                                  <span className="tooltip">Copied!</span>
-                                )}
+                              {copiedDiscounts[index] && <span className="tooltip">Copied!</span>}
                             </>
-                          ) : (
-                            ""
                           )}
                         </td>
 
