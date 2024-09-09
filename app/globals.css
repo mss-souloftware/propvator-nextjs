@@ -433,7 +433,7 @@ body {
 .copy-button {
   margin-top: 10px;
   cursor: pointer;
-  background: linear-gradient(133deg, #7de3fa 17.44%, #333bff 75.23%);
+  background: linear-gradient(90deg, #2A839D 16%, #292EA3 44%, #080AA3 74%);
   color: white;
   border: none;
   padding: 5px;
@@ -443,7 +443,7 @@ body {
 }
 
 .copy-button:hover {
-  background: linear-gradient(133deg, #7de3fa 17.44%, #333bff 75.23%);
+  background: linear-gradient(90deg, #2A839D 16%, #292EA3 44%, #080AA3 74%);
 }
 
 .tooltip {
