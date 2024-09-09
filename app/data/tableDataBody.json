@@ -2992,7 +2992,7 @@
     "commission": 6,
     "leverage": 50,
     "rating": "4.7",
-    "credits": "3",
+    "credits": 3,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -3058,7 +3058,7 @@
     "commission": 6,
     "leverage": 50,
     "rating": "4.7",
-    "credits": "5",
+    "credits": 5,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -3124,7 +3124,7 @@
     "commission": 6,
     "leverage": 50,
     "rating": "4.7",
-    "credits": "9",
+    "credits": 9,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -3190,7 +3190,7 @@
     "commission": 6,
     "leverage": 50,
     "rating": "4.7",
-    "credits": "2",
+    "credits": 2,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -3256,7 +3256,7 @@
     "commission": 6,
     "leverage": 50,
     "rating": "4.7",
-    "credits": "2",
+    "credits": 2,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -3322,7 +3322,7 @@
     "commission": 6,
     "leverage": 50,
     "rating": "4.7",
-    "credits": "3",
+    "credits": 3,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -3388,7 +3388,7 @@
     "commission": 6,
     "leverage": 50,
     "rating": "4.7",
-    "credits": "7",
+    "credits": 7,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -3454,7 +3454,7 @@
     "commission": 6,
     "leverage": 50,
     "rating": "4.7",
-    "credits": "11",
+    "credits": 11,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -3520,7 +3520,7 @@
     "commission": 6,
     "leverage": 50,
     "rating": "4.7",
-    "credits": "22",
+    "credits": 22,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -3586,7 +3586,7 @@
     "commission": 6,
     "leverage": 50,
     "rating": "4.7",
-    "credits": "45",
+    "credits": 45,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -3652,7 +3652,7 @@
     "commission": 6,
     "leverage": 50,
     "rating": "4.7",
-    "credits": "2",
+    "credits": 2,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -3718,7 +3718,7 @@
     "commission": 6,
     "leverage": 50,
     "rating": "4.7",
-    "credits": "6",
+    "credits": 6,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -3784,7 +3784,7 @@
     "commission": 6,
     "leverage": 50,
     "rating": "4.7",
-    "credits": "13",
+    "credits": 13,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -3850,7 +3850,7 @@
     "commission": 6,
     "leverage": 50,
     "rating": "4.7",
-    "credits": "67",
+    "credits": 67,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -3916,7 +3916,7 @@
     "commission": 7,
     "leverage": 30,
     "rating": "4.8",
-    "credits": "3",
+    "credits": 3,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -3982,7 +3982,7 @@
     "commission": 7,
     "leverage": 30,
     "rating": "4.8",
-    "credits": "4",
+    "credits": 4,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -4048,7 +4048,7 @@
     "commission": 7,
     "leverage": 30,
     "rating": "4.8",
-    "credits": "8",
+    "credits": 8,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -4114,7 +4114,7 @@
     "commission": 7,
     "leverage": 30,
     "rating": "4.8",
-    "credits": "11",
+    "credits": 11,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -4180,7 +4180,7 @@
     "commission": 7,
     "leverage": 30,
     "rating": "4.8",
-    "credits": "21",
+    "credits": 21,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -4246,7 +4246,7 @@
     "commission": 7,
     "leverage": 30,
     "rating": "4.8",
-    "credits": "6",
+    "credits": 6,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -4312,7 +4312,7 @@
     "commission": 7,
     "leverage": 30,
     "rating": "4.8",
-    "credits": "9",
+    "credits": 9,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -4378,7 +4378,7 @@
     "commission": 7,
     "leverage": 30,
     "rating": "4.8",
-    "credits": "12",
+    "credits": 12,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -4444,7 +4444,7 @@
     "commission": 7,
     "leverage": 30,
     "rating": "4.8",
-    "credits": "25",
+    "credits": 25,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -4510,7 +4510,7 @@
     "commission": 7,
     "leverage": 30,
     "rating": "4.8",
-    "credits": "4",
+    "credits": 4,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -4576,7 +4576,7 @@
     "commission": 7,
     "leverage": 30,
     "rating": "4.8",
-    "credits": "8",
+    "credits": 8,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -4642,7 +4642,7 @@
     "commission": 7,
     "leverage": 30,
     "rating": "4.8",
-    "credits": "11",
+    "credits": 11,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -4708,7 +4708,7 @@
     "commission": 7,
     "leverage": 30,
     "rating": "4.8",
-    "credits": "21",
+    "credits": 21,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -4774,7 +4774,7 @@
     "commission": 7,
     "leverage": 30,
     "rating": "4.8",
-    "credits": "5",
+    "credits": 5,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -4840,7 +4840,7 @@
     "commission": 7,
     "leverage": 30,
     "rating": "4.8",
-    "credits": "10",
+    "credits": 10,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -4906,7 +4906,7 @@
     "commission": 7,
     "leverage": 30,
     "rating": "4.8",
-    "credits": "25",
+    "credits": 25,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -4972,7 +4972,7 @@
     "commission": 7,
     "leverage": 30,
     "rating": "4.8",
-    "credits": "50",
+    "credits": 50,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -5038,7 +5038,7 @@
     "commission": 7,
     "leverage": 30,
     "rating": "4.8",
-    "credits": "101",
+    "credits": 101,
     "filterType": {
       "assetType": {
         "forex": true,
@@ -9444,9 +9444,9 @@
   },
   {
     "verified": true,
-    "firm": "BlueBerry Funded",
+    "firm": "Blueberry Funded",
     "logo": "/Images/brands/blueberryFunded.svg",
-    "buy": "#",
+    "buy": "https://fundingtraders.com/",
     "calcPrice": "",
     "price": 1100,
     "discount": "",
