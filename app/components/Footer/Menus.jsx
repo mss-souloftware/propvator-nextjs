@@ -53,7 +53,7 @@ export default function Menus() {
         <h5 className="font-bold mb-4">Social</h5>
         <ul className="p-0 m-0 text-sm text-[#A8A8A8] leading-10">
           <li>
-            <Link className="flex items-center" target="_blank" href="https://linktw.in/HhMIcH">
+            <Link className="flex items-center" target="_blank" href="https://x.com/propvator">
               <svg
                 className="mr-2"
                 viewBox="0 0 50 50"
@@ -67,7 +67,7 @@ export default function Menus() {
             </Link>
           </li>
           <li>
-            <Link target="_blank" href="https://linktw.in/BBQHNW" className="flex items-center">
+            <Link target="_blank" href="https://www.instagram.com/propvator/" className="flex items-center">
               <svg
                 className="mr-2"
                 viewBox="0 0 50 50"
@@ -81,7 +81,7 @@ export default function Menus() {
             </Link>
           </li>
           <li>
-            <Link target="_blank" href="https://linktw.in/LGmuMx" className="flex items-center">
+            <Link target="_blank" href="https://www.youtube.com/@propvator" className="flex items-center">
               <svg
                 className="mr-2"
                 viewBox="0 0 50 50"
@@ -97,7 +97,7 @@ export default function Menus() {
           <li>
             <Link target="_blank"
               className="flex items-center"
-              href="https://open.spotify.com/show/1uoJGqTgLdDwi3yRp9mHqT?si=a018aeeda5014ff5"
+              href="https://open.spotify.com/show/1uoJGqTgLdDwi3yRp9mHqT?si=60a6758892954f3d"
             >
               <svg
                 className="mr-2"
