@@ -2,14 +2,14 @@ import React from "react";
 import Header from "../components/Header/Header";
 import Footer from "../components/Footer/Footer";
 import FirmHero from "../components/Firms/FirmHero";
-import ContentData from "../components/Firms/ContentData/ContentData";
+import FirmContent from "../components/Firms/FirmContent";
 
 export default function firm() {
   return (
     <>
       <Header />
       <FirmHero />
-      <ContentData />
+      <FirmContent />
       <Footer />
     </>
   );
