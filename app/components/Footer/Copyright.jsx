@@ -15,7 +15,7 @@ export default function Copyright() {
               </Link>
             </li>
             <li>
-              <Link href="#" className="underline">
+              <Link href="/privacy-policy/" className="underline">
                 Privacy Policy
               </Link>
             </li>
