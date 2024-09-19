@@ -25,9 +25,9 @@ export default function FirmHero() {
   };
 
   return (
-    <section className="mt-44">
+    <section>
       <div className="container mx-auto">
-        <div className="border border-primary px-6 py-10 rounded bg-slate-900">
+        <div className="border border-primary px-6 py-10 rounded ">
           <div className="flex justify-between items-center">
             <div className="w-1/2">
               <div className="flex">
@@ -115,6 +115,9 @@ export default function FirmHero() {
                       <p className="text-white font-bold">4.5</p>
                     </div>
                   </div>
+                  <p className="text-white text-sm mt-2">
+                    Based on Trustpilot
+                  </p>
                 </div>
               </div>
             </div>
