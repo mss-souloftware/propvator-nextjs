@@ -7,11 +7,8 @@ export default function FirmContent() {
     <section className="mt-4">
       <div className="container mx-auto">
         <div className="flex">
-          <div className="w-2/3 pr-2">
+          <div className="w-full">
             <ContentData />
-          </div>
-          <div className="w-1/3 pl-2">
-            <CompanyDetails />
           </div>
         </div>
       </div>

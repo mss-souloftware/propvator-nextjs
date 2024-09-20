@@ -4,6 +4,7 @@ import styles from "./Tabs.module.css";
 import CompanyData from "@/app/components/Firms/CompanyData/CompanyData";
 import Rules from "@/app/components/Firms/Rules/Rules";
 import Conditions from "../Conditions/Conditions";
+import Restrictions from "../Restrictions/Restrictions";
 
 const Tabs = () => {
   const [activeTab, setActiveTab] = useState(0);
@@ -47,7 +48,9 @@ const Tabs = () => {
           </div>
         )}
         {activeTab === 3 && (
-          <div className="text-white text-center mt-5">Content for Tab 4</div>
+          <div className="text-white text-center mt-5">
+            <Restrictions />
+          </div>
         )}
       </div>
     </div>

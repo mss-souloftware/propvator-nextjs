@@ -1,5 +1,14 @@
 .wrapperSec {
   max-width: 1000px;
+  border-radius: 10px;
+  padding: 0 30px 30px;
+  background: rgb(125, 227, 250);
+  background: linear-gradient(
+    180deg,
+    #333aff27 16%,
+    #333aff1d 44%,
+    #333aff0b 74%
+  );
 }
 
 .boxCard {

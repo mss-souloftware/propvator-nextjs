@@ -4,9 +4,9 @@ import styles from "./CompanyData.module.css";
 export default function CompanyData() {
   return (
     <div className={`${styles.wrapperSec} mx-auto`}>
-      <div className="mt-12 border border-primary rounded p-4 ">
+      <div className="mt-12 p-4 ">
         <h2 className="text-white text-3xl">Company Overview</h2>
-        <p className="text-white mt-4 text-left">
+        <p className="text-white mt-4">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur
           quibusdam ipsum impedit perspiciatis similique. Accusantium,
           recusandae? Itaque voluptatibus fugiat fuga unde suscipit culpa ipsam
@@ -15,17 +15,6 @@ export default function CompanyData() {
           voluptatem reiciendis! Odit explicabo blanditiis quibusdam
           reprehenderit ipsum!
         </p>
-        <ul className="mt-4 text-left">
-          <li className="mt-2">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-          </li>
-          <li className="mt-2">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-          </li>
-          <li className="mt-2">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-          </li>
-        </ul>
         <div className="flex justify-between mt-8">
           <div className={`${styles.boxCard}`}>
             <span className="text-sm text-gray-300 uppercase bold mb-4 inline-block">

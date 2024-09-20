@@ -6,7 +6,7 @@ export default function CompanyDetails() {
     <>
       
 
-      <div className="mt-12 border border-primary rounded p-4">
+      <div className="mt-12 p-4">
         <h2 className="text-white text-2xl mb-4">Trading Conditions</h2>
 
         <ul className={`${styles.listFeatures} text-white`}>
