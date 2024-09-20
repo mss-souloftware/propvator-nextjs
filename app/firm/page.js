@@ -13,8 +13,8 @@ export default function firm() {
       <div className={`${styles.heroSection}`}>
         <FirmHero />
         <Tabs />
-        <FirmContent />
       </div>
+      <FirmContent />
       <Footer />
     </>
   );

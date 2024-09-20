@@ -38,7 +38,7 @@ export default function ContentData() {
       <section className="comparison--table--area">
         <div className="table--wrapper">
           <div className="table--inner">
-            <div className="data--table h-[700px]">
+            <div className="data--table">
               <table className="w-100" id="data-table">
                 <thead>
                   <tr>
