@@ -1,0 +1,25 @@
+.tableLayoutBox {
+  border: 1px solid #035cc1;
+  border-radius: 5px;
+  max-width: 500px;
+  margin: auto;
+  margin-top: 30px;
+}
+.tableLayoutBox h3 {
+    margin: 20px 0;
+}
+
+.tableLayoutBox ul{
+    margin-bottom: 20px;
+}
+.tableLayoutBox ul li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom:1px solid #035CC1;
+  padding: 10px 20px;
+}
+
+.tableLayoutBox ul li:last-child{
+    border-bottom:0;
+}

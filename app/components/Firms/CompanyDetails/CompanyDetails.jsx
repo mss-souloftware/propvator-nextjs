@@ -4,18 +4,7 @@ import styles from './CompanyDetails.module.css';
 export default function CompanyDetails() {
   return (
     <>
-      <div className="mt-12 border border-primary rounded p-4">
-        <h2 className="text-white text-2xl">Company Details</h2>
-        <p className="text-white text-sm mt-4">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur
-          quibusdam ipsum impedit perspiciatis similique. Accusantium,
-          recusandae? Itaque voluptatibus fugiat fuga unde suscipit culpa ipsam
-          illum amet iure porro necessitatibus doloribus dolor, ullam ducimus ab
-          eos nihil assumenda laborum, eveniet eligendi quae voluptate
-          voluptatem reiciendis! Odit explicabo blanditiis quibusdam
-          reprehenderit ipsum!
-        </p>
-      </div>
+      
 
       <div className="mt-12 border border-primary rounded p-4">
         <h2 className="text-white text-2xl mb-4">Trading Conditions</h2>

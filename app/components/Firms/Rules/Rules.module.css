@@ -1,0 +1,28 @@
+.wrapperSec {
+  max-width: 1000px;
+}
+
+.boxCard {
+  width: calc(33.33% - 10px);
+  padding: 20px;
+  border: 1px solid #3338d3;
+  border-radius: 5px;
+}
+
+.boxCard ul li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.boxCard ul li span {
+  border: 2px solid #d3d3d3;
+  border-radius: 4px;
+  padding: 2px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
