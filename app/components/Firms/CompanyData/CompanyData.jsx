@@ -113,10 +113,7 @@ export default function CompanyData() {
                 <h4>DX Trade</h4>
                 <span></span>
               </li>
-              <li>
-                <h4>Other</h4>
-                <span></span>
-              </li>
+            
             </ul>
           </div>
 

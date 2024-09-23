@@ -35,3 +35,7 @@
   align-items: center;
   justify-content: center;
 }
+
+ .tableLayoutBox-btn{
+  background: linear-gradient(133deg, #7de3fa 17.44%, #333bff 75.23%);
+}

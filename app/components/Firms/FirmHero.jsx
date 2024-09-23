@@ -40,7 +40,7 @@ export default function FirmHero() {
 
                 <div className="textData ml-4 sm:ml-10">
                   <h1 className="text-white text-md sm:text-2xl font-bold flex items-center">
-                  FXIFY{" "}
+                    FXIFY{" "}
                     <svg
                       fill="#0092F6"
                       width="20px"
@@ -115,9 +115,7 @@ export default function FirmHero() {
                       <p className="text-white font-bold">4.3</p>
                     </div>
                   </div>
-                  <p className="text-white text-sm mt-2">
-                    Based on Trustpilot
-                  </p>
+                  <p className="text-white text-sm mt-2">Based on Trustpilot</p>
                 </div>
               </div>
             </div>
@@ -159,24 +157,23 @@ export default function FirmHero() {
                 className={`bg-[linear-gradient(90deg,rgba(125,227,250,1)16%,rgba(89,146,252,1)44%,rgba(51,59,255,1)74%)] text-white border border-primary rounded flex flex-col py-2 px-9 mt-5`}
               >
                 <p className="flex items-center text-xl">
-                  <svg
-                    width="15px"
-                    height="15px"
-                    viewBox="0 0 18 18"
-                    className="mr-2"
+                  Visit Fxify
+                  <svg className="ms-2"
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="24"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    fill="none"
                   >
                     <path
-                      fill="#fff"
-                      d="M12.1.6a.944.944 0 0 0 .2 1.04l1.352 1.353L10.28 6.37a.956.956 0 0 0 1.35 1.35l3.382-3.38 1.352 1.352a.944.944 0 0 0 1.04.2.958.958 0 0 0 .596-.875V.96a.964.964 0 0 0-.96-.96h-4.057a.958.958 0 0 0-.883.6z"
-                    />
-                    <path
-                      fill="#fff"
-                      d="M14 11v5a2.006 2.006 0 0 1-2 2H2a2.006 2.006 0 0 1-2-2V6a2.006 2.006 0 0 1 2-2h5a1 1 0 0 1 0 2H2v10h10v-5a1 1 0 0 1 2 0z"
-                    />
+                      d="M2 3H3.35798C3.85767 3 4.29368 3.343 4.42301 3.835L4.79827 5.272M4.79827 5.272C10.2563 5.11589 15.7091 5.73515 21 7.112C20.1927 9.566 19.2334 11.95 18.1351 14.25H7.14387M4.79827 5.272L7.14387 14.25M7.14387 14.25C6.36431 14.25 5.61667 14.5661 5.06543 15.1287C4.5142 15.6913 4.20452 16.4544 4.20452 17.25H19.6361M5.6742 20.25C5.6742 20.4489 5.59678 20.6397 5.45897 20.7803C5.32116 20.921 5.13425 21 4.93936 21C4.74446 21 4.55756 20.921 4.41975 20.7803C4.28194 20.6397 4.20452 20.4489 4.20452 20.25C4.20452 20.0511 4.28194 19.8603 4.41975 19.7197C4.55756 19.579 4.74446 19.5 4.93936 19.5C5.13425 19.5 5.32116 19.579 5.45897 19.7197C5.59678 19.8603 5.6742 20.0511 5.6742 20.25ZM18.1665 20.25C18.1665 20.4489 18.089 20.6397 17.9512 20.7803C17.8134 20.921 17.6265 21 17.4316 21C17.2367 21 17.0498 20.921 16.912 20.7803C16.7742 20.6397 16.6968 20.4489 16.6968 20.25C16.6968 20.0511 16.7742 19.8603 16.912 19.7197C17.0498 19.579 17.2367 19.5 17.4316 19.5C17.6265 19.5 17.8134 19.579 17.9512 19.7197C18.089 19.8603 18.1665 20.0511 18.1665 20.25Z"
+                      stroke="white"
+                      stroke-width="2"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    ></path>
                   </svg>
-                  propvator.com
                 </p>
-                <span className="text-sm mt-2">Visit this website</span>
               </Link>
             </div>
           </div>

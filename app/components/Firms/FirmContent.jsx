@@ -10,7 +10,7 @@ export default function FirmContent() {
           <div className="w-full">
             <ContentData />
           </div>
-        </div>
+        </div>         
       </div>
     </section>
   );

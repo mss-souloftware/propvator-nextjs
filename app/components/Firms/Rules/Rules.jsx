@@ -9,7 +9,7 @@ export default function Rules() {
         <h2 className="text-white text-3xl">Rules</h2>
         <div className={`${tableStyle.tableLayoutBox}`}>
           <h3>Raw Spread Accounts</h3>
-          <ul>
+          <ul className={`${tableStyle.tableLayoutBoxs}`}>
             <li>
               <h4>Swaps</h4>
               <span>No</span>
