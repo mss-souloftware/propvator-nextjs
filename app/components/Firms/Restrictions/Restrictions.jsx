@@ -6,32 +6,15 @@ export default function Restrictions() {
   return (
     <div className={`${styles.wrapperSec} mx-auto`}>
       <div className="mt-12 p-4 ">
-        <h2 className="text-white text-3xl">Restrictions</h2>
-        <div className={`${tableStyle.tableLayoutBox}`}>
-          <h3>Trading Conditions</h3>
-          <ul>
-            <li>
-              <h4>Swaps</h4>
-              <span>No</span>
-            </li>
-            <li>
-              <h4>EAs Allowed</h4>
-              <span>Yes</span>
-            </li>
-            <li>
-              <h4>News Trading</h4>
-              <span>Yes</span>
-            </li>
-            <li>
-              <h4>Weekend Holding</h4>
-              <span>Yes</span>
-            </li>
-            <li>
-              <h4>MT5</h4>
-              <span>Yes</span>
-            </li>
-          </ul>
-        </div>
+        <h2 className="text-white text-3xl">Restricted Countries</h2>
+        <p className="text-white mt-4">
+          Afghanistan, Algeria, Burundi, Central African
+          Republic, Congo Republic, Crimea, Cuba, Democratic Republic of Congo,
+          Eritrea, Ghana, Guinea, Guinea-Bissau, Iran, Iraq, Ivory Coast, Kenya,
+          Liberia, Libya, Myanmar, Nicaragua, North Korea, Papua New Guinea,
+          Palestine, Russia, Somalia, South Sudan, Sudan, Syria, Vanuatu,
+          Venezuela, Vietnam, Yemen, Zimbabwe
+        </p>
       </div>
     </div>
   );

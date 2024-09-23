@@ -87,7 +87,7 @@ export default function ContentData() {
                 <tbody id="table-body">
                   {tableBodyData.length > 0 ? (
                     tableBodyData
-                      .filter((item) => item.firm === "Instant Funding")
+                      .filter((item) => item.firm === "FXIFY")
                       .map((item, index) => (
                         <tr data-brand={item.brand} key={index}>
                           <td>

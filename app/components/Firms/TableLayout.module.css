@@ -2,6 +2,7 @@
   border: 1px solid #035cc1;
   border-radius: 5px;
   max-width: 500px;
+  width: 100%;
   margin: auto;
   margin-top: 30px;
 }

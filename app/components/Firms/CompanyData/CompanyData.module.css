@@ -34,3 +34,10 @@
   align-items: center;
   justify-content: center;
 }
+
+@media (max-width: 600px) {
+  .boxCard {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+}

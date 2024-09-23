@@ -28,19 +28,19 @@ export default function FirmHero() {
     <section>
       <div className="container mx-auto">
         <div className="border border-primary px-6 py-10 rounded ">
-          <div className="flex justify-between items-center">
-            <div className="w-1/2">
+          <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center">
+            <div className="sm:w-1/2">
               <div className="flex">
                 <Image
-                  src="/Images/brands/instantFunding.svg"
+                  src="/Images/brands/FXIFY.svg"
                   width={80}
                   height={80}
-                  alt="Instant Funding"
+                  alt="FXIFY"
                 />
 
-                <div className="textData ml-10">
-                  <h1 className="text-white text-2xl font-bold flex items-center">
-                    Instant Funding{" "}
+                <div className="textData ml-4 sm:ml-10">
+                  <h1 className="text-white text-md sm:text-2xl font-bold flex items-center">
+                  FXIFY{" "}
                     <svg
                       fill="#0092F6"
                       width="20px"
@@ -112,7 +112,7 @@ export default function FirmHero() {
                         />
                       </svg>
 
-                      <p className="text-white font-bold">4.5</p>
+                      <p className="text-white font-bold">4.3</p>
                     </div>
                   </div>
                   <p className="text-white text-sm mt-2">
@@ -122,7 +122,7 @@ export default function FirmHero() {
               </div>
             </div>
 
-            <div className="w-1/2 flex items-end flex-col text-left">
+            <div className="sm:w-1/2 flex items-center sm:items-end flex-col text-center sm:text-left sm:mt-0 mt-6">
               <div className="relative inline-block">
                 {copiedDiscounts[0] && (
                   <span className="singleTooltip bg-black text-center text-white px-2 py-1 rounded">
@@ -156,7 +156,7 @@ export default function FirmHero() {
               </div>
               <Link
                 href="/"
-                className="text-white border border-primary rounded flex flex-col py-2 px-9 mt-5"
+                className={`bg-[linear-gradient(90deg,rgba(125,227,250,1)16%,rgba(89,146,252,1)44%,rgba(51,59,255,1)74%)] text-white border border-primary rounded flex flex-col py-2 px-9 mt-5`}
               >
                 <p className="flex items-center text-xl">
                   <svg
