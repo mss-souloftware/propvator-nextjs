@@ -4,24 +4,14 @@ import styles from "./CompanyData.module.css";
 export default function CompanyData() {
   return (
     <div className={`${styles.wrapperSec} mx-auto`}>
-      <div className="mt-12 p-4 ">
+      <div className="mt-8 p-4 ">
         <h2 className="text-white text-3xl">Company Overview</h2>
-        <p className="text-white mt-4">
-          FXIFY is a UK-based prop firm founded in 2023 by Yaniv Butel, offering
-          traders up to $400,000 in capital after passing a series of
-          challenges. With funding options from $10,000 to $400,000, traders can
-          scale their accounts to $4 million with profit splits up to 90%. FXIFY
-          stands out for its flexibility, allowing traders to customize their
-          experience by increasing profit splits, reducing commissions, and
-          more. Partnered with a liquidity provider for direct market access,
-          FXIFY empowers full-time traders with substantial capital and
-          professional support.
-        </p>
         <div className="flex flex-col sm:flex-row justify-between mt-8">
           <div className={`${styles.boxCard}`}>
             <span className="text-sm text-gray-300 uppercase bold mb-4 inline-block">
               Established
             </span>
+            <h4 className="mb-1">Yaniv Butel</h4>
             <h4>April 2023</h4>
             <h4>United Kingdom</h4>
 

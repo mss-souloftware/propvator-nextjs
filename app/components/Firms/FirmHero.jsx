@@ -122,6 +122,7 @@ export default function FirmHero() {
 
             <div className="sm:w-1/2 flex items-center sm:items-end flex-col text-center sm:text-left sm:mt-0 mt-6">
               <div className="relative inline-block">
+                <p className="text-white bold uppercase text-right mb-2">10% off all chanllenges</p>
                 {copiedDiscounts[0] && (
                   <span className="singleTooltip bg-black text-center text-white px-2 py-1 rounded">
                     Copied!
@@ -154,11 +155,12 @@ export default function FirmHero() {
               </div>
               <Link
                 href="/"
-                className={`bg-[linear-gradient(90deg,rgba(125,227,250,1)16%,rgba(89,146,252,1)44%,rgba(51,59,255,1)74%)] text-white border border-primary rounded flex flex-col py-2 px-9 mt-5`}
+                className={`bg-[linear-gradient(90deg,rgba(125,227,250,1)16%,rgba(89,146,252,1)44%,rgba(51,59,255,1)74%)] text-white border border-primary rounded flex flex-col items-center py-2 px-9 mt-5 w-[231px]`}
               >
                 <p className="flex items-center text-xl">
                   Visit Fxify
-                  <svg className="ms-2"
+                  <svg
+                    className="ms-2"
                     xmlns="http://www.w3.org/2000/svg"
                     width="24"
                     height="24"

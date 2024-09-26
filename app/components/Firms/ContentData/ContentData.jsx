@@ -11,6 +11,9 @@ import Link from "next/link";
 export default function ContentData() {
   const [copiedDiscounts, setCopiedDiscounts] = useState({});
 
+  const [currentPage, setCurrentPage] = useState(1);
+  const listingsPerPage = 4;
+
   const handleCopy = (discount, rowIndex) => {
     navigator.clipboard.writeText(discount);
 
@@ -32,6 +35,26 @@ export default function ContentData() {
   function formatPrice(price) {
     return numeral(price).format("0.[0]a");
   }
+
+  const handleNextPage = () => {
+    setCurrentPage((prevPage) => prevPage + 1);
+  };
+
+  const handlePreviousPage = () => {
+    setCurrentPage((prevPage) => prevPage - 1);
+  };
+
+  const handlePageClick = (pageNumber) => {
+    setCurrentPage(pageNumber);
+  };
+
+  const filteredData = tableBodyData.filter((item) => item.firm === "FXIFY");
+
+  const indexOfLastListing = currentPage * listingsPerPage;
+  const indexOfFirstListing = indexOfLastListing - listingsPerPage;
+  const currentListings = filteredData.slice(indexOfFirstListing, indexOfLastListing);
+
+  const totalPages = Math.ceil(filteredData.length / listingsPerPage);
 
   return (
     <div id="table" className="container mx-auto md:px-0 px-3">
@@ -85,8 +108,8 @@ export default function ContentData() {
                   </tr>
                 </thead>
                 <tbody id="table-body">
-                  {tableBodyData.length > 0 ? (
-                    tableBodyData
+                  {currentListings.length > 0 ? (
+                    currentListings
                       .filter((item) => item.firm === "FXIFY")
                       .map((item, index) => (
                         <tr data-brand={item.brand} key={index}>
@@ -252,6 +275,40 @@ export default function ContentData() {
                   )}
                 </tbody>
               </table>
+            </div>
+            <div className="text-center py-5 bg-[#1A1A1A] relative z-10">
+              <button
+                type="button"
+                className={`${styles.searchBtn} mx-auto mr-3 d-block`}
+                onClick={handlePreviousPage}
+                style={{ display: currentPage === 1 ? "none" : "inline-block" }}
+              >
+                Previous
+              </button>
+              <button
+                type="button"
+                className={`${styles.searchBtn} mx-auto d-block`}
+                onClick={handleNextPage}
+                style={{
+                  display:
+                    indexOfLastListing >= tableBodyData.length ? "none" : "inline-block",
+                }}
+              >
+                Next
+              </button>
+            </div>
+            <div className="pageCount relative">
+              <ul>
+                {[...Array(totalPages)].map((_, i) => (
+                  <li
+                    key={i}
+                    className={currentPage === i + 1 ? "current" : ""}
+                    onClick={() => handlePageClick(i + 1)}
+                  >
+                    {i + 1}
+                  </li>
+                ))}
+              </ul>
             </div>
           </div>
         </div>

@@ -6,7 +6,7 @@ import Link from "next/link";
 export default function Conditions() {
   return (
     <div className={`${styles.wrapperSec} mx-auto`}>
-      <div className="mt-12 p-4 ">
+      <div className="mt-8 p-4 ">
         <h2 className="text-white text-3xl">Conditions</h2>
         <div className="flex sm:flex-row flex-col gap-5">
           <div className={`${tableStyle.tableLayoutBox2}`}>

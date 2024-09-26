@@ -5,7 +5,7 @@ import tableStyle from "../TableLayout.module.css";
 export default function Restrictions() {
   return (
     <div className={`${styles.wrapperSec} mx-auto`}>
-      <div className="mt-12 p-4 ">
+      <div className="mt-8 p-4 ">
         <h2 className="text-white text-3xl">Restricted Countries</h2>
         <p className="text-white mt-4">
           Afghanistan, Algeria, Burundi, Central African
