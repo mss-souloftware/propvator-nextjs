@@ -2,6 +2,7 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import styles from "@/app/components/FeatureTable/FeatureTable.module.css";
+import filterStyle from "./Filters.module.css";
 import tableHeadData from "@/app/data/tableData.jsx";
 import tableBodyData from "@/app/data/tableDataBody.json";
 import numeral from "numeral";
@@ -10,7 +11,7 @@ import Link from "next/link";
 
 export default function ContentData() {
   const [copiedDiscounts, setCopiedDiscounts] = useState({});
-
+  const [selectedStep, setSelectedStep] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
   const listingsPerPage = 4;
 
@@ -48,17 +49,92 @@ export default function ContentData() {
     setCurrentPage(pageNumber);
   };
 
-  const filteredData = tableBodyData.filter((item) => item.firm === "FXIFY");
+  // Filter the table data based on firm and selected step
+  const filteredData = tableBodyData.filter((item) => {
+    const matchesFirm = item.firm === "FXIFY";
+    const matchesStep =
+      selectedStep.length === 0 || // No filter selected
+      selectedStep.includes(item.steps); // Check if the item's steps are in the selectedStep array
+    return matchesFirm && matchesStep;
+  });
 
   const indexOfLastListing = currentPage * listingsPerPage;
   const indexOfFirstListing = indexOfLastListing - listingsPerPage;
-  const currentListings = filteredData.slice(indexOfFirstListing, indexOfLastListing);
+  const currentListings = filteredData.slice(
+    indexOfFirstListing,
+    indexOfLastListing
+  );
 
   const totalPages = Math.ceil(filteredData.length / listingsPerPage);
 
   return (
     <div id="table" className="container mx-auto md:px-0 px-3">
       <section className="comparison--table--area">
+        {/* Filter Buttons */}
+        <h2 className="text-white text-center text-2xl font-bold mb-4">
+          Select number of step
+        </h2>
+        <div className={`${filterStyle.filterButtons} mb-4`}>
+          <button
+            onClick={() =>
+              setSelectedStep((prevStep) =>
+                prevStep.includes("1 Step")
+                  ? prevStep.filter((step) => step !== "1 Step")
+                  : [...prevStep, "1 Step"]
+              )
+            }
+            className={`${filterStyle.filterStepButton} ${
+              selectedStep.includes("1 Step") ? "bg-[#3338D3]" : ""
+            }`}
+          >
+            1 Step
+          </button>
+
+          <button
+            onClick={() =>
+              setSelectedStep((prevStep) =>
+                prevStep.includes("2 Steps")
+                  ? prevStep.filter((step) => step !== "2 Steps")
+                  : [...prevStep, "2 Steps"]
+              )
+            }
+            className={`${filterStyle.filterStepButton} ${
+              selectedStep.includes("2 Steps") ? "bg-[#3338D3]" : ""
+            }`}
+          >
+            2 Steps
+          </button>
+
+          <button
+            onClick={() =>
+              setSelectedStep((prevStep) =>
+                prevStep.includes("3 Steps")
+                  ? prevStep.filter((step) => step !== "3 Steps")
+                  : [...prevStep, "3 Steps"]
+              )
+            }
+            className={`${filterStyle.filterStepButton} ${
+              selectedStep.includes("3 Steps") ? "bg-[#3338D3]" : ""
+            }`}
+          >
+            3 Steps
+          </button>
+
+          <button
+            onClick={() =>
+              setSelectedStep((prevStep) =>
+                prevStep.includes("Instant")
+                  ? prevStep.filter((step) => step !== "Instant")
+                  : [...prevStep, "Instant"]
+              )
+            }
+            className={`${filterStyle.filterStepButton} ${
+              selectedStep.includes("Instant") ? "bg-[#3338D3]" : ""
+            }`}
+          >
+            Instant
+          </button>
+        </div>
         <div className="table--wrapper">
           <div className="table--inner">
             <div className="data--table">
@@ -291,7 +367,9 @@ export default function ContentData() {
                 onClick={handleNextPage}
                 style={{
                   display:
-                    indexOfLastListing >= tableBodyData.length ? "none" : "inline-block",
+                    indexOfLastListing >= tableBodyData.length
+                      ? "none"
+                      : "inline-block",
                 }}
               >
                 Next
