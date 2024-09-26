@@ -5,6 +5,7 @@ export default function AfterTable() {
   return (
     <div className={`${styles.wrapperSec} mx-auto`}>
       <div className="p-0 md:p-6">
+        <h6 className="text-white text-center text-2xl mb-3">Fxify Company Overview</h6>
         <p className="text-white text-center">
           FXIFY is a UK-based prop firm founded in 2023 by Yaniv Butel, offering
           traders up to $400,000 in capital after passing a series of

@@ -123,7 +123,7 @@ export default function FirmHero() {
             <div className="sm:w-1/2 flex items-center sm:items-end flex-col text-center sm:text-left sm:mt-0 mt-6">
               <div className="relative inline-block">
                 <p className="text-white bold uppercase text-right mb-2">
-                  10% off all chanllenges
+                  10% off all challenges
                 </p>
                 {copiedDiscounts[0] && (
                   <span className="singleTooltip bg-black text-center text-white px-2 py-1 rounded">

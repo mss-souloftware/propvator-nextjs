@@ -14,6 +14,8 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`overflow-x-hidden`}>
       <head>
+
+        
         <Script
           strategy="lazyOnload"
           src={`https://www.googletagmanager.com/gtag/js?id=G-4NZ0FFNZ1N`}
@@ -36,6 +38,8 @@ export default function RootLayout({ children }) {
           strategy="lazyOnload"
           src="https://accounts.livechat.com/join?access_token=dal:vhkV6BXUUHqh30v2Td0spRZgbo0"
         />
+
+        
       </head>
       <body className={`${inter.className} overflow-x-hidden`}>{children}</body>
     </html>
