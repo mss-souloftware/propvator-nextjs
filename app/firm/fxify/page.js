@@ -5,6 +5,9 @@ import FirmHero from "../../components/Firms/FirmHero";
 import FirmContent from "../../components/Firms/FirmContent";
 import styles from "./../FirmHero.module.css";
 import Tabs from "../../components/Firms/Tabs/Tabs";
+import AfterTable from "@/app/components/Firms/AfterTable/AfterTable";
+import AfterYT from "@/app/components/Firms/AfterYT/AfterYT";
+import VideoWrapper from "@/app/components/Firms/VideoWrapper/VideoWrapper";
 
 export default function firm() {
   return (
@@ -15,6 +18,9 @@ export default function firm() {
         <Tabs />
       </div>
       <FirmContent />
+      <AfterTable />
+      <VideoWrapper />
+      <AfterYT />
       <Footer />
     </>
   );

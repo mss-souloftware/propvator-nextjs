@@ -40,4 +40,8 @@
     width: 100%;
     margin-bottom: 15px;
   }
+
+  .wrapperSec {
+    margin: 0 12px;
+  }
 }

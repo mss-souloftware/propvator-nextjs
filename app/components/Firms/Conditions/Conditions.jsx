@@ -7,7 +7,7 @@ export default function Conditions() {
   return (
     <div className={`${styles.wrapperSec} mx-auto`}>
       <div className="mt-8 p-4 ">
-        <h2 className="text-white text-3xl">Conditions</h2>
+        <h2 className="text-white text-2xl md:text-3xl">Conditions</h2>
         <div className="flex sm:flex-row flex-col gap-5">
           <div className={`${tableStyle.tableLayoutBox2}`}>
           <div className={`${tableStyle.tableLayoutBox}`}>

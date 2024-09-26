@@ -36,6 +36,12 @@
   justify-content: center;
 }
 
- .tableLayoutBox-btn{
+.tableLayoutBox-btn {
   background: linear-gradient(133deg, #7de3fa 17.44%, #333bff 75.23%);
+}
+
+@media (max-width: 600px) {
+  .wrapperSec {
+    margin: 0 12px;
+  }
 }

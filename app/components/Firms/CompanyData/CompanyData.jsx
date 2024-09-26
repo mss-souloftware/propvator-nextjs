@@ -5,7 +5,7 @@ export default function CompanyData() {
   return (
     <div className={`${styles.wrapperSec} mx-auto`}>
       <div className="mt-8 p-4 ">
-        <h2 className="text-white text-3xl">Company Overview</h2>
+        <h2 className="text-white text-2xl md:text-3xl">Company Overview</h2>
         <div className="flex flex-col sm:flex-row justify-between mt-8">
           <div className={`${styles.boxCard}`}>
             <span className="text-sm text-gray-300 uppercase bold mb-4 inline-block">

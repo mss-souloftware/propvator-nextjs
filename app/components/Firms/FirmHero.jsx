@@ -26,11 +26,11 @@ export default function FirmHero() {
 
   return (
     <section>
-      <div className="container mx-auto">
+      <div className="container mx-auto px-3 md:px-0">
         <div className="border border-primary px-6 py-10 rounded ">
           <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center">
             <div className="sm:w-1/2">
-              <div className="flex">
+              <div className="flex justify-center md:justify-start">
                 <Image
                   src="/Images/brands/FXIFY.svg"
                   width={80}
@@ -122,7 +122,9 @@ export default function FirmHero() {
 
             <div className="sm:w-1/2 flex items-center sm:items-end flex-col text-center sm:text-left sm:mt-0 mt-6">
               <div className="relative inline-block">
-                <p className="text-white bold uppercase text-right mb-2">10% off all chanllenges</p>
+                <p className="text-white bold uppercase text-right mb-2">
+                  10% off all chanllenges
+                </p>
                 {copiedDiscounts[0] && (
                   <span className="singleTooltip bg-black text-center text-white px-2 py-1 rounded">
                     Copied!

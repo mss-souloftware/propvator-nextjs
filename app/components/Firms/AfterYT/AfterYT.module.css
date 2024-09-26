@@ -1,0 +1,14 @@
+.wrapperSec {
+  max-width: 1000px;
+  border-radius: 10px;
+  padding: 30px 30px;
+  border: 1px solid #3338d3;
+}
+
+@media (max-width: 600px) {
+  .wrapperSec {
+    padding: 15px;
+    margin: 0 12px;
+    margin-bottom: 30px;
+  }
+}
