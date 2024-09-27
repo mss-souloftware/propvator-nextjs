@@ -16,14 +16,14 @@ export default function FeatureTable({ filter, data, setData }) {
     // Show tooltip for the specific row
     setCopiedDiscounts((prev) => ({
       ...prev,
-      [rowIndex]: true
+      [rowIndex]: true,
     }));
 
     // Hide the tooltip for the specific row after a few seconds
     setTimeout(() => {
       setCopiedDiscounts((prev) => ({
         ...prev,
-        [rowIndex]: false
+        [rowIndex]: false,
       }));
     }, 2000);
   };
@@ -296,33 +296,65 @@ export default function FeatureTable({ filter, data, setData }) {
                     currentListings.map((item, index) => (
                       <tr data-brand={item.brand} key={index}>
                         <td>
-                          <div className="company">
-                            <Image
-                              className="mx-auto object-contain"
-                              width={20}
-                              height={20}
-                              src={item.logo}
-                              alt={item.firm}
-                            />
-                            <p>
-                              {item.firm}
-                              {item.verified ? (
-                                <svg
-                                  fill="#0092F6"
-                                  width="15px"
-                                  height="15px"
-                                  viewBox="0 0 512 512"
-                                  id="_x30_1"
-                                  version="1.1"
-                                  xmlns="http://www.w3.org/2000/svg"
-                                >
-                                  <path d="M434.068,46.758L314.607,9.034C295.648,3.047,275.883,0,256,0s-39.648,3.047-58.607,9.034L77.932,46.758  C52.97,54.641,36,77.796,36,103.973v207.39c0,38.129,18.12,73.989,48.816,96.607l117.032,86.234  C217.537,505.764,236.513,512,256,512s38.463-6.236,54.152-17.796l117.032-86.234C457.88,385.352,476,349.492,476,311.363v-207.39  C476,77.796,459.03,54.641,434.068,46.758z M347.924,227.716l-98.995,98.995c-11.716,11.716-30.711,11.716-42.426,0l-42.427-42.426  c-11.716-11.716-11.716-30.711,0-42.426l0,0c11.716-11.716,30.711-11.716,42.426,0l21.213,21.213l77.782-77.782  c11.716-11.716,30.711-11.716,42.426,0h0C359.64,197.005,359.64,216,347.924,227.716z" />
-                                </svg>
-                              ) : (
-                                ""
-                              )}
-                            </p>
-                          </div>
+                          {item.singleFirm ? (
+                            <Link href={`/firm/${item.firm.toLowerCase()}`}>
+                              <div className="company">
+                                <Image
+                                  className="mx-auto object-contain"
+                                  width={20}
+                                  height={20}
+                                  src={item.logo}
+                                  alt={item.firm}
+                                />
+                                <p>
+                                  {item.firm}
+                                  {item.verified ? (
+                                    <svg
+                                      fill="#0092F6"
+                                      width="15px"
+                                      height="15px"
+                                      viewBox="0 0 512 512"
+                                      id="_x30_1"
+                                      version="1.1"
+                                      xmlns="http://www.w3.org/2000/svg"
+                                    >
+                                      <path d="M434.068,46.758L314.607,9.034C295.648,3.047,275.883,0,256,0s-39.648,3.047-58.607,9.034L77.932,46.758  C52.97,54.641,36,77.796,36,103.973v207.39c0,38.129,18.12,73.989,48.816,96.607l117.032,86.234  C217.537,505.764,236.513,512,256,512s38.463-6.236,54.152-17.796l117.032-86.234C457.88,385.352,476,349.492,476,311.363v-207.39  C476,77.796,459.03,54.641,434.068,46.758z M347.924,227.716l-98.995,98.995c-11.716,11.716-30.711,11.716-42.426,0l-42.427-42.426  c-11.716-11.716-11.716-30.711,0-42.426l0,0c11.716-11.716,30.711-11.716,42.426,0l21.213,21.213l77.782-77.782  c11.716-11.716,30.711-11.716,42.426,0h0C359.64,197.005,359.64,216,347.924,227.716z" />
+                                    </svg>
+                                  ) : (
+                                    ""
+                                  )}
+                                </p>
+                              </div>
+                            </Link>
+                          ) : (
+                            <div className="company">
+                              <Image
+                                className="mx-auto object-contain"
+                                width={20}
+                                height={20}
+                                src={item.logo}
+                                alt={item.firm}
+                              />
+                              <p>
+                                {item.firm}
+                                {item.verified ? (
+                                  <svg
+                                    fill="#0092F6"
+                                    width="15px"
+                                    height="15px"
+                                    viewBox="0 0 512 512"
+                                    id="_x30_1"
+                                    version="1.1"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                  >
+                                    <path d="M434.068,46.758L314.607,9.034C295.648,3.047,275.883,0,256,0s-39.648,3.047-58.607,9.034L77.932,46.758  C52.97,54.641,36,77.796,36,103.973v207.39c0,38.129,18.12,73.989,48.816,96.607l117.032,86.234  C217.537,505.764,236.513,512,256,512s38.463-6.236,54.152-17.796l117.032-86.234C457.88,385.352,476,349.492,476,311.363v-207.39  C476,77.796,459.03,54.641,434.068,46.758z M347.924,227.716l-98.995,98.995c-11.716,11.716-30.711,11.716-42.426,0l-42.427-42.426  c-11.716-11.716-11.716-30.711,0-42.426l0,0c11.716-11.716,30.711-11.716,42.426,0l21.213,21.213l77.782-77.782  c11.716-11.716,30.711-11.716,42.426,0h0C359.64,197.005,359.64,216,347.924,227.716z" />
+                                  </svg>
+                                ) : (
+                                  ""
+                                )}
+                              </p>
+                            </div>
+                          )}
                         </td>
                         <td>
                           {item.salePrice ? (
@@ -348,14 +380,33 @@ export default function FeatureTable({ filter, data, setData }) {
                         <td className="relative">
                           {item.discount && (
                             <>
-                              <button onClick={() => handleCopy(item.discount, index)} className="copy-button flex items-center px-1">
+                              <button
+                                onClick={() => handleCopy(item.discount, index)}
+                                className="copy-button flex items-center px-1"
+                              >
                                 {item.discount}
-                                <svg width="15px" height="15px" viewBox="0 0 24 24" fill="none" className="ml-1">
-                                  <path d="M6 11C6 8.17157 6 6.75736 6.87868 5.87868C7.75736 5 9.17157 5 12 5H15C17.8284 5 19.2426 5 20.1213 5.87868C21 6.75736 21 8.17157 21 11V16C21 18.8284 21 20.2426 20.1213 21.1213C19.2426 22 17.8284 22 15 22H12C9.17157 22 7.75736 22 6.87868 21.1213C6 20.2426 6 18.8284 6 16V11Z" stroke="#fff" strokeWidth="1.5" />
-                                  <path d="M6 19C4.34315 19 3 17.6569 3 16V10C3 6.22876 3 4.34315 4.17157 3.17157C5.34315 2 7.22876 2 11 2H15C16.6569 2 18 3.34315 18 5" stroke="#fff" strokeWidth="1.5" />
+                                <svg
+                                  width="15px"
+                                  height="15px"
+                                  viewBox="0 0 24 24"
+                                  fill="none"
+                                  className="ml-1"
+                                >
+                                  <path
+                                    d="M6 11C6 8.17157 6 6.75736 6.87868 5.87868C7.75736 5 9.17157 5 12 5H15C17.8284 5 19.2426 5 20.1213 5.87868C21 6.75736 21 8.17157 21 11V16C21 18.8284 21 20.2426 20.1213 21.1213C19.2426 22 17.8284 22 15 22H12C9.17157 22 7.75736 22 6.87868 21.1213C6 20.2426 6 18.8284 6 16V11Z"
+                                    stroke="#fff"
+                                    strokeWidth="1.5"
+                                  />
+                                  <path
+                                    d="M6 19C4.34315 19 3 17.6569 3 16V10C3 6.22876 3 4.34315 4.17157 3.17157C5.34315 2 7.22876 2 11 2H15C16.6569 2 18 3.34315 18 5"
+                                    stroke="#fff"
+                                    strokeWidth="1.5"
+                                  />
                                 </svg>
                               </button>
-                              {copiedDiscounts[index] && <span className="tooltip">Copied!</span>}
+                              {copiedDiscounts[index] && (
+                                <span className="tooltip">Copied!</span>
+                              )}
                             </>
                           )}
                         </td>
