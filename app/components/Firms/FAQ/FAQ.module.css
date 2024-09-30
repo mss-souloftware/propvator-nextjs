@@ -1,0 +1,22 @@
+.innerSection {
+  max-width: 800px;
+  margin: auto;
+}
+
+.accordionTab {
+  background: linear-gradient(
+    177deg,
+    rgb(125 227 250 / 66%) 16%,
+    rgb(89 146 252 / 71%) 44%,
+    rgb(51 59 255 / 82%) 74%
+  );
+  color: #fff;
+}
+
+.accordionTabContent {
+  background: transparent;
+  border: 1px solid #006fee;
+  border-top: none;
+  padding: 30px 16px 16px;
+  color: #fff;
+}

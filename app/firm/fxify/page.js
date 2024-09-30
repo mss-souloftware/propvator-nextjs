@@ -8,6 +8,7 @@ import Tabs from "../../components/Firms/Tabs/Tabs";
 import AfterTable from "@/app/components/Firms/AfterTable/AfterTable";
 import AfterYT from "@/app/components/Firms/AfterYT/AfterYT";
 import VideoWrapper from "@/app/components/Firms/VideoWrapper/VideoWrapper";
+import FAQFirm from "@/app/components/Firms/FAQ/FAQ";
 
 export default function firm() {
   return (
@@ -21,6 +22,7 @@ export default function firm() {
       <AfterTable />
       <VideoWrapper />
       <AfterYT />
+      <FAQFirm />
       <Footer />
     </>
   );
