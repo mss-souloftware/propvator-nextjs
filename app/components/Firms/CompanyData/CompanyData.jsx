@@ -11,7 +11,7 @@ export default function CompanyData() {
             <span className="text-sm text-gray-300 uppercase bold mb-4 inline-block">
               Established
             </span>
-            <h4 className="mb-1">Yaniv Butel</h4>
+            <h4 className="mb-1">David Bhidey</h4>
             <h4>April 2023</h4>
             <h4>United Kingdom</h4>
 

@@ -7,7 +7,7 @@ export default function AfterTable() {
       <div className="p-0 md:p-6">
         <h6 className="text-white text-center text-2xl mb-3">Fxify Company Overview</h6>
         <p className="text-white text-center">
-          FXIFY is a UK-based prop firm founded in 2023 by Yaniv Butel, offering
+          FXIFY is a UK-based prop firm founded in 2023 by David Bhidey, offering
           traders up to $400,000 in capital after passing a series of
           challenges. With funding options from $10,000 to $400,000, traders can
           scale their accounts to $4 million with profit splits up to 90%. FXIFY
