@@ -297,7 +297,7 @@ export default function FeatureTable({ filter, data, setData }) {
                       <tr data-brand={item.brand} key={index}>
                         <td>
                           {item.singleFirm ? (
-                            <Link href={`/firm/${item.firm.toLowerCase()}`}>
+                            <Link href={`/${item.firm.toLowerCase()}`}>
                               <div className="company">
                                 <Image
                                   className="mx-auto object-contain"
