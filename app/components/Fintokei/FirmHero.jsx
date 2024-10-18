@@ -32,7 +32,7 @@ export default function FirmHero() {
             <div className="sm:w-1/2">
               <div className="flex justify-center md:justify-start">
                 <Image
-                  src="/Images/brands/Fintokei.svg"
+                  src="/Images/brands/fintokei.svg"
                   width={80}
                   height={80}
                   alt="Fintokei"
