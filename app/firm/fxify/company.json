@@ -1,0 +1,45 @@
+[
+  {
+    "ceo": "David Bhidey",
+    "date": "April 2023",
+    "country": "United Kingdom",
+    "dataTypes": {
+      "platforms": [
+        {
+          "name": "MT5",
+          "value": true
+        },
+        {
+          "name": "MT4",
+          "value": true
+        },
+        {
+          "name": "cTrader",
+          "value": false
+        },
+        {
+          "name": "DX Trade",
+          "value": false
+        }
+      ],
+      "accountTypes": [
+        {
+          "name": "Instant",
+          "value": false
+        },
+        {
+          "name": "1 Step",
+          "value": true
+        },
+        {
+          "name": "2 Step",
+          "value": true
+        },
+        {
+          "name": "3 Step",
+          "value": true
+        }
+      ]
+    }
+  }
+]

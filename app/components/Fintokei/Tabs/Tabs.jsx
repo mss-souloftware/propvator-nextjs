@@ -1,12 +1,12 @@
 "use client";
 import { useState } from "react";
 import styles from "./Tabs.module.css";
-import CompanyData from "@/app/components/Firms/CompanyData/CompanyData";
-import Rules from "@/app/components/Firms/Rules/Rules";
+import CompanyData from "@/app/components/Fintokei/CompanyData/CompanyData";
+import Rules from "@/app/components/Fintokei/Rules/Rules";
 import Conditions from "../Conditions/Conditions";
 import Restrictions from "../Restrictions/Restrictions";
 
-const Tabs = (ComanyData) => {
+const Tabs = () => {
   const [activeTab, setActiveTab] = useState(0);
 
   const tabs = ["Overview", "Rules", "Conditions", "Restrictions"];
@@ -34,7 +34,7 @@ const Tabs = (ComanyData) => {
       <div className="tab-content">
         {activeTab === 0 && (
           <div className="text-white text-center mt-5">
-            <CompanyData ComanyData={ComanyData} />{" "}
+            <CompanyData />{" "}
           </div>
         )}
         {activeTab === 1 && (

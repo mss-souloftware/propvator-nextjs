@@ -1,7 +1,9 @@
 import React from "react";
 import styles from "./CompanyData.module.css";
 
-export default function CompanyData() {
+export default function CompanyData(ComanyData) {
+  let cpData = ComanyData.ComanyData.ComanyData[0];
+
   return (
     <div className={`${styles.wrapperSec} mx-auto`}>
       <div className="mt-8 p-4 ">
@@ -11,9 +13,9 @@ export default function CompanyData() {
             <span className="text-sm text-gray-300 uppercase bold mb-4 inline-block">
               Established
             </span>
-            <h4 className="mb-1">David Bhidey</h4>
-            <h4>April 2023</h4>
-            <h4>United Kingdom</h4>
+            <h4 className="mb-1">{cpData.ceo}</h4>
+            <h4>{cpData.date}</h4>
+            <h4>{cpData.country}</h4>
 
             <svg
               className="mx-auto rounded-lg"
@@ -55,55 +57,32 @@ export default function CompanyData() {
               Platform
             </span>
             <ul>
-              <li>
-                <h4>MT5</h4>
-                <span>
-                  <svg
-                    width="20px"
-                    height="20px"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      d="M4 12.6111L8.92308 17.5L20 6.5"
-                      stroke="#006FEE"
-                      stroke-width="5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                  </svg>
-                </span>
-              </li>
-              <li>
-                <h4>MT4</h4>
-                <span>
-                  <svg
-                    width="20px"
-                    height="20px"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      d="M4 12.6111L8.92308 17.5L20 6.5"
-                      stroke="#006FEE"
-                      stroke-width="5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                  </svg>
-                </span>
-              </li>
-              <li>
-                <h4>cTrader</h4>
-                <span></span>
-              </li>
-              <li>
-                <h4>DX Trade</h4>
-                <span></span>
-              </li>
-            
+              {cpData.dataTypes.platforms.map((platform, index) => (
+                <li key={index}>
+                  <h4>{platform.name}</h4>
+                  <span>
+                    {platform.value ? (
+                      <svg
+                        width="20px"
+                        height="20px"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M4 12.6111L8.92308 17.5L20 6.5"
+                          stroke="#006FEE"
+                          stroke-width="5"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                        />
+                      </svg>
+                    ) : (
+                      ""
+                    )}
+                  </span>
+                </li>
+              ))}
             </ul>
           </div>
 
@@ -112,70 +91,32 @@ export default function CompanyData() {
               Account Types
             </span>
             <ul>
-              <li>
-                <h4>Instant</h4>
-                <span></span>
-              </li>
-              <li>
-                <h4>1 Step</h4>
-                <span>
-                  <svg
-                    width="20px"
-                    height="20px"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      d="M4 12.6111L8.92308 17.5L20 6.5"
-                      stroke="#006FEE"
-                      stroke-width="5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                  </svg>
-                </span>
-              </li>
-              <li>
-                <h4>2 Step</h4>
-                <span>
-                  <svg
-                    width="20px"
-                    height="20px"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      d="M4 12.6111L8.92308 17.5L20 6.5"
-                      stroke="#006FEE"
-                      stroke-width="5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                  </svg>
-                </span>
-              </li>
-              <li>
-                <h4>3 Step</h4>
-                <span>
-                  <svg
-                    width="20px"
-                    height="20px"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      d="M4 12.6111L8.92308 17.5L20 6.5"
-                      stroke="#006FEE"
-                      stroke-width="5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                  </svg>
-                </span>
-              </li>
+              {cpData.dataTypes.accountTypes.map((accountType, index) => (
+                <li key={index}>
+                  <h4>{accountType.name}</h4>
+                  <span>
+                    {accountType.value ? (
+                      <svg
+                        width="20px"
+                        height="20px"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M4 12.6111L8.92308 17.5L20 6.5"
+                          stroke="#006FEE"
+                          stroke-width="5"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                        />
+                      </svg>
+                    ) : (
+                      ""
+                    )}
+                  </span>
+                </li>
+              ))}
             </ul>
           </div>
         </div>

@@ -11,6 +11,10 @@ import AfterYT from "@/app/components/Firms/AfterYT/AfterYT";
 import VideoWrapper from "@/app/components/Firms/VideoWrapper/VideoWrapper";
 import FAQFirm from "@/app/components/Firms/FAQ/FAQ";
 
+// DataSet
+import HeroData from "@/app/firm/fxify/hero.json"
+import ComanyData from "@/app/firm/fxify/company.json"
+
 export const metadata = {
   title: "Fxify - Prop Firm Information & Discount Code",
   description:
@@ -22,8 +26,8 @@ export default function firm() {
     <>
       <Header />
       <div className={`${styles.heroSection}`}>
-        <FirmHero />
-        <Tabs />
+        <FirmHero dataSet={HeroData}/>
+        <Tabs ComanyData={ComanyData} />
       </div>
       <FirmContent />
       <AfterTable />

@@ -3,8 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import React, { useState, useEffect } from "react";
 
-export default function FirmHero(dataSet) {
-  let contentData = dataSet.dataSet[0];
+export default function FirmHero() {
   const [copiedDiscounts, setCopiedDiscounts] = useState({});
 
   const handleCopy = (discount, rowIndex) => {
@@ -33,15 +32,15 @@ export default function FirmHero(dataSet) {
             <div className="sm:w-1/2">
               <div className="flex justify-center md:justify-start">
                 <Image
-                  src="/Images/brands/FXIFY.svg"
+                  src="/Images/brands/Fintokei.svg"
                   width={80}
                   height={80}
-                  alt="FXIFY"
+                  alt="Fintokei"
                 />
 
                 <div className="textData ml-4 sm:ml-10">
                   <h1 className="text-white text-md sm:text-2xl font-bold flex items-center">
-                    {contentData.name}{" "}
+                    Fintokei{" "}
                     <svg
                       fill="#0092F6"
                       width="20px"
@@ -113,14 +112,10 @@ export default function FirmHero(dataSet) {
                         />
                       </svg>
 
-                      <p className="text-white font-bold">
-                        {contentData.rating}
-                      </p>
+                      <p className="text-white font-bold">4.8</p>
                     </div>
                   </div>
-                  <p className="text-white text-sm mt-2">
-                    {contentData.ratingHead}
-                  </p>
+                  <p className="text-white text-sm mt-2">Based on Trustpilot</p>
                 </div>
               </div>
             </div>
@@ -128,7 +123,7 @@ export default function FirmHero(dataSet) {
             <div className="sm:w-1/2 flex items-center sm:items-end flex-col text-center sm:text-left sm:mt-0 mt-6">
               <div className="relative inline-block">
                 <p className="text-white bold uppercase text-right mb-2">
-                  {contentData.discountText}
+                  12.5% off all Challenges
                 </p>
                 {copiedDiscounts[0] && (
                   <span className="singleTooltip bg-black text-center text-white px-2 py-1 rounded">
@@ -161,11 +156,11 @@ export default function FirmHero(dataSet) {
                 </button>
               </div>
               <Link
-                href={contentData.discountLink}
+                href="https://my.fintokei.com/affiliate/en/854"
                 className={`bg-[linear-gradient(90deg,rgba(125,227,250,1)16%,rgba(89,146,252,1)44%,rgba(51,59,255,1)74%)] text-white border border-primary rounded flex flex-col items-center py-2 px-9 mt-5 w-[231px]`}
               >
                 <p className="flex items-center text-xl">
-                  Visit {contentData.name}
+                  Visit Fintokei
                   <svg
                     className="ms-2"
                     xmlns="http://www.w3.org/2000/svg"
