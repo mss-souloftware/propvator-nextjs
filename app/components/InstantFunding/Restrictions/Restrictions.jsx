@@ -10,9 +10,11 @@ export default function Restrictions() {
           Restricted Countries
         </h2>
         <p className="text-white mt-4">
-          India, Russia, Belarus, North Korea, Iran, Myanmar, Syria, Yemen,
-          Cuba, Venezuela, Sudan, South Sudan, Afghanistan, Somalia, Iraq,
-          Vietnam, Pakistan, Bangladesh, China.
+          Afghanistan, Burundi, Central African Republic, Congo Republic, Cuba,
+          Crimea, Democratic Republic of Congo, Eritrea, Guinea, Guinea-Bissau,
+          Iran, Iraq, Liberia, Libya, Myanmar, North Korea, Papua New Guinea,
+          North Korea, Russia, Somalia, South Sudan, Sudan, Syria, Vanuatu,
+          Venezuela, Yemen and Zimbabwe.
         </p>
       </div>
     </div>
