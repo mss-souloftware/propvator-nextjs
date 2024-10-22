@@ -99,6 +99,51 @@ export default function AfterYT() {
             </p>
           </li>
         </ul>
+
+        <h4 className="text-white text-center text-xl my-5">
+          Instant Funding Prop Firm - Prohibited Practices
+        </h4>
+        <ul className="my-5">
+          <li>
+            <p className="text-white text-center">
+              Gambling: This refers to excessive leverage use, risking more than
+              50% of your margin on a single trade. Such actions can result in
+              account resets and significant losses
+            </p>
+          </li>
+          <li>
+            <p className="text-white text-center">
+              Major News Trading: This involves trading within an 8-minute
+              window before and after significant news events (4 minutes before
+              and 4 minutes after). Profits made during this window may be
+              deducted from your account, and in rare cases, the account may
+              need to be reset. This rule affects only instruments related to
+              the news event (e.g., EUR news doesn't restrict trading XAU/USD).
+            </p>
+          </li>
+          <li>
+            <p className="text-white text-center">
+              Copy Trading Between Accounts: Mirroring trades from one account
+              to another not owned by the same individual is prohibited.
+            </p>
+          </li>
+          <li>
+            <p className="text-white text-center">
+              Usage of Public Third-Party Expert Advisors (EAs): The use of
+              non-approved EAs is not permitted, as they can pose risks to
+              account integrity. Remember to check the EA you want to use with
+              Instant Funding support team before you start trading.
+            </p>
+          </li>
+          <li>
+            <p className="text-white text-center">
+              Exploiting Inefficiencies of Trading Platforms: This includes
+              practices such as latency arbitrage, reverse arbitrage, gap
+              trading, toxic order flow, account management, tick scalping, and
+              server execution.
+            </p>
+          </li>
+        </ul>
       </div>
     </div>
   );
