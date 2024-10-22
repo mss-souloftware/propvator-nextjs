@@ -11,8 +11,8 @@ export default function Rules() {
           <h3>Raw Spread Accounts</h3>
           <ul className={`${tableStyle.tableLayoutBoxs}`}>
             <li>
-              <h4>Swaps</h4>
-              <span>Yes</span>
+              <h4>Swap Free</h4>
+              <span>No</span>
             </li>
             <li>
               <h4>EAs Allowed</h4>
@@ -20,7 +20,7 @@ export default function Rules() {
             </li>
             <li>
               <h4>News Trading</h4>
-              <span>Yes</span>
+              <span>No</span>
             </li>
             <li>
               <h4>Weekend Holding</h4>

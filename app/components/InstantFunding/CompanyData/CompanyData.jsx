@@ -11,33 +11,42 @@ export default function CompanyData() {
             <span className="text-sm text-gray-300 uppercase bold mb-4 inline-block">
               Established
             </span>
-            <h4 className="mb-1">David Varga</h4>
-            <h4>December 2022</h4>
-            <h4>Czech Republic</h4>
+            <h4 className="mb-1">Lewis Mansbridge</h4>
+            <h4>June 2022</h4>
+            <h4>United Kingdom</h4>
 
             <svg
               className="mx-auto rounded-lg"
+              viewBox="0 0 60 30"
               width="50px"
               height="50px"
-              version="1.1"
-              id="Layer_1"
-              viewBox="0 0 512 512"
             >
-              <path
-                style={{ fill: "#41479B" }}
-                d="M13.7,97.251C5.326,104.286,0,114.829,0,126.621V385.38c0,11.791,5.326,22.335,13.7,29.369L256,256
-	L13.7,97.251z"
-              />
-              <path
-                style={{ fill: "#FF4B55" }}
-                d="M13.7,414.749c6.665,5.599,15.258,8.975,24.644,8.975h435.31c21.177,0,38.345-17.167,38.345-38.345
-	V256H256L13.7,414.749z"
-              />
-              <path
-                style={{ fill: "#F5F5F5" }}
-                d="M473.655,88.276H38.345c-9.386,0-17.98,3.378-24.644,8.975L256,256h256V126.621
-	C512,105.443,494.833,88.276,473.655,88.276z"
-              />
+              <clipPath id="s">
+                <path d="M0,0 v30 h60 v-30 z" />
+              </clipPath>
+              <clipPath id="t">
+                <path d="M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z" />
+              </clipPath>
+              <g clip-path="url(#s)">
+                <path d="M0,0 v30 h60 v-30 z" fill="#012169" />
+                <path
+                  d="M0,0 L60,30 M60,0 L0,30"
+                  stroke="#fff"
+                  stroke-width="6"
+                />
+                <path
+                  d="M0,0 L60,30 M60,0 L0,30"
+                  clip-path="url(#t)"
+                  stroke="#C8102E"
+                  stroke-width="4"
+                />
+                <path d="M30,0 v30 M0,15 h60" stroke="#fff" stroke-width="10" />
+                <path
+                  d="M30,0 v30 M0,15 h60"
+                  stroke="#C8102E"
+                  stroke-width="6"
+                />
+              </g>
             </svg>
           </div>
 
@@ -68,23 +77,7 @@ export default function CompanyData() {
               </li>
               <li>
                 <h4>MT4</h4>
-                <span>
-                  <svg
-                    width="20px"
-                    height="20px"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      d="M4 12.6111L8.92308 17.5L20 6.5"
-                      stroke="#006FEE"
-                      stroke-width="5"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                    />
-                  </svg>
-                </span>
+                <span></span>
               </li>
 
               <li>
@@ -110,7 +103,23 @@ export default function CompanyData() {
 
               <li>
                 <h4>DX Trade</h4>
-                <span></span>
+                <span>
+                  <svg
+                    width="20px"
+                    height="20px"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M4 12.6111L8.92308 17.5L20 6.5"
+                      stroke="#006FEE"
+                      stroke-width="5"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </span>
               </li>
             </ul>
           </div>
@@ -142,7 +151,23 @@ export default function CompanyData() {
               </li>
               <li>
                 <h4>1 Step</h4>
-                <span></span>
+                <span>
+                  <svg
+                    width="20px"
+                    height="20px"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M4 12.6111L8.92308 17.5L20 6.5"
+                      stroke="#006FEE"
+                      stroke-width="5"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </span>
               </li>
 
               <li>

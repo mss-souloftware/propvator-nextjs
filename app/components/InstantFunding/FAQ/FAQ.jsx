@@ -8,16 +8,16 @@ const FAQFirm = () => {
   // JSON data for the accordion
   const accordionData = [
     {
-      title: "FAQ 1",
-      content: "This is the content for the first FAQ.",
+      title: "1. Is Instant Funding Prop Firm legitimate?",
+      content: "Instant Funding has been active since June 2022 and has been stable, maintaining a good reputation on review websites. Traders are happy with their fair trading conditions, and the firm has a strong track record of issuing payouts. It also offers a diverse selection of account types and trading platforms.",
     },
     {
-      title: "FAQ 2",
-      content: "This is the content for the second FAQ.",
+      title: "2. What's the best Instant Funding Prop Firm coupon code?",
+      content: "The best coupon code for Instant Funding is 'PROPVATOR,' which can be applied at checkout for the highest discount available at the time of your purchase.",
     },
     {
-      title: "FAQ 3",
-      content: "This is the content for the third FAQ.",
+      title: "3. Does Instant Funding have MT5?",
+      content: "Instant Funding has three available platforms: MT5, cTrader, and DX Trade, giving you diverse options to select the platform that works for you.",
     },
   ];
 
