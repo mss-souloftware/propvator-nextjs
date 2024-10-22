@@ -78,6 +78,20 @@ export default function ContentData() {
           <button
             onClick={() =>
               setSelectedStep((prevStep) =>
+                prevStep.includes("Instant")
+                  ? prevStep.filter((step) => step !== "Instant")
+                  : [...prevStep, "Instant"]
+              )
+            }
+            className={`${filterStyle.filterStepButton} ${
+              selectedStep.includes("Instant") ? "bg-[#3338D3]" : ""
+            }`}
+          >
+            Instant
+          </button>
+          <button
+            onClick={() =>
+              setSelectedStep((prevStep) =>
                 prevStep.includes("1 Step")
                   ? prevStep.filter((step) => step !== "1 Step")
                   : [...prevStep, "1 Step"]
@@ -118,21 +132,6 @@ export default function ContentData() {
             }`}
           >
             3 Steps
-          </button>
-
-          <button
-            onClick={() =>
-              setSelectedStep((prevStep) =>
-                prevStep.includes("Instant")
-                  ? prevStep.filter((step) => step !== "Instant")
-                  : [...prevStep, "Instant"]
-              )
-            }
-            className={`${filterStyle.filterStepButton} ${
-              selectedStep.includes("Instant") ? "bg-[#3338D3]" : ""
-            }`}
-          >
-            Instant
           </button>
         </div>
         <div className="table--wrapper">

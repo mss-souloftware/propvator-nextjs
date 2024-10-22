@@ -165,7 +165,7 @@ export default function FirmHero(dataSet) {
                 className={`bg-[linear-gradient(90deg,rgba(125,227,250,1)16%,rgba(89,146,252,1)44%,rgba(51,59,255,1)74%)] text-white border border-primary rounded flex flex-col items-center py-2 px-9 mt-5 w-[231px]`}
               >
                 <p className="flex items-center text-xl">
-                  Visit {contentData.name}
+                  Visit Website
                   <svg
                     className="ms-2"
                     xmlns="http://www.w3.org/2000/svg"

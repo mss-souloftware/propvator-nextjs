@@ -11,19 +11,23 @@ export default function Conditions() {
         <div className="flex sm:flex-row flex-col gap-5">
           <div className={`${tableStyle.tableLayoutBox2}`}>
           <div className={`${tableStyle.tableLayoutBox}`}>
-            <h3>Commissions</h3>
+            <h3>Commissions (2 Step Challenge)</h3>
             <ul>
               <li>
                 <h4>Forex</h4>
-                <span>$6 ($0 Available)</span>
+                <span>$6</span>
               </li>
               <li>
-                <h4>Index CFDs</h4>
-                <span>$6 ($0 Available)</span>
+                <h4>Gold</h4>
+                <span>$6</span>
               </li>
               <li>
-                <h4>Metals</h4>
-                <span>$6 ($0 Available)</span>
+                <h4>Indices</h4>
+                <span>$6</span>
+              </li>
+              <li>
+                <h4>Commodities</h4>
+                <span>$6</span>
               </li>
             </ul>
 

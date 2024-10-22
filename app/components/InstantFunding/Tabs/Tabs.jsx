@@ -1,8 +1,8 @@
 "use client";
 import { useState } from "react";
 import styles from "./Tabs.module.css";
-import CompanyData from "@/app/components/Fintokei/CompanyData/CompanyData";
-import Rules from "@/app/components/Fintokei/Rules/Rules";
+import CompanyData from "@/app/components/InstantFunding/CompanyData/CompanyData";
+import Rules from "@/app/components/InstantFunding/Rules/Rules";
 import Conditions from "../Conditions/Conditions";
 import Restrictions from "../Restrictions/Restrictions";
 
