@@ -8,16 +8,19 @@ const FAQFirm = () => {
   // JSON data for the accordion
   const accordionData = [
     {
-      title: "FAQ 1",
-      content: "This is the content for the first FAQ.",
+      title: "What broker does Fxify Use?",
+      content:
+        "FXIFY has partnered with FXPIG (www.fxpig.com), an FX and CFD brokerage established in 2010. This collaboration provides FXIFY prop traders with true market access, along with fast execution and minimal slippage.",
     },
     {
-      title: "FAQ 2",
-      content: "This is the content for the second FAQ.",
+      title: "Where is Fxify located?",
+      content:
+        "FXIFY is located at New Broad Street House, 35 New Broad Street, London, United Kingdom, EC2M 1NH. The company was founded in April 2023 by David Bhidey",
     },
     {
-      title: "FAQ 3",
-      content: "This is the content for the third FAQ.",
+      title: "How many accounts can I have with Fxify?",
+      content:
+        "Fxify traders can purchase one account of each size: $10,000, $15,000, $25,000, $50,000, $100,000, $200,000, and $400,000. They cannot trade two accounts of the same size simultaneously; they must pass one before buying another. The maximum allocation can reach $800,000 if passed separately.",
     },
   ];
 
