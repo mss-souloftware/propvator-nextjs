@@ -1,0 +1,15 @@
+.iframeHeight {
+  height: 500px;
+}
+
+@media (max-width: 768px) {
+  .iframeHeight {
+    height: 330px;
+  }
+}
+
+@media (max-width: 500px) {
+  .iframeHeight {
+    height: 250px;
+  }
+}
