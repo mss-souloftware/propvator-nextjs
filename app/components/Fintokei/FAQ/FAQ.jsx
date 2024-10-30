@@ -8,16 +8,19 @@ const FAQFirm = () => {
   // JSON data for the accordion
   const accordionData = [
     {
-      title: "FAQ 1",
-      content: "This is the content for the first FAQ.",
+      title: "Is Fintokei similar to FTMO?",
+      content:
+        "Fintokei and FTMO are similar in their country of origin, the Czech Republic, which is known as a hub for prop firms. They also share similarities in terms of professionalism and flexibility.",
     },
     {
-      title: "FAQ 2",
-      content: "This is the content for the second FAQ.",
+      title: "Does Fintokei allow HFTs?",
+      content:
+        "Fintokei allows most types of Expert Advisors (EAs), but High-Frequency Trading (HFT) is prohibited.",
     },
     {
-      title: "FAQ 3",
-      content: "This is the content for the third FAQ.",
+      title: "Does Fintokei allow news trading?",
+      content:
+        "Yes, Fintokei offers full flexibility for news trading, allowing you to trade as usual during major news events without any restrictions.",
     },
   ];
 
