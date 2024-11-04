@@ -8,16 +8,19 @@ const FAQFirm = () => {
   // JSON data for the accordion
   const accordionData = [
     {
-      title: "FAQ 1",
-      content: "This is the content for the first FAQ.",
+      title: "What's the best Monevis discount code?",
+      content:
+        "The best discount code for Monevis is PROPVATOR, which you can use at checkout to receive the highest available discount.",
     },
     {
-      title: "FAQ 2",
-      content: "This is the content for the second FAQ.",
+      title: "What's the profit split at Monevis?",
+      content:
+        "Monevis offers a starting profit split of 75% for funded accounts. Upon purchase, traders can opt for an 85% split, and there's potential to scale up to a maximum profit split of 90%.",
     },
     {
-      title: "FAQ 3",
-      content: "This is the content for the third FAQ.",
+      title: "What platforms does Monevis have?",
+      content:
+        "Monevis provides access to MetaTrader 5 (MT5), which is known for its versatility and range of trading features.",
     },
   ];
 
