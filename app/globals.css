@@ -200,7 +200,7 @@ body {
   width: 62px;
   height: 66px;
   border-radius: 5px;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .comparison--table--area table td .company p {

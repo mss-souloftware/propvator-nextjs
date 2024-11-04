@@ -115,7 +115,7 @@ export default function FirmHero() {
                       <p className="text-white font-bold">4.6</p>
                     </div>
                   </div>
-                  <p className="text-white text-sm mt-2">Based on Trustpilot</p>
+                  <Link href="https://uk.trustpilot.com/review/instantfunding.io" className="text-white text-sm mt-2">Based on Trustpilot</Link>
                 </div>
               </div>
             </div>
@@ -156,7 +156,7 @@ export default function FirmHero() {
                 </button>
               </div>
               <Link
-                href="https://instantfunding.io/"
+                href="https://instantfunding.io?partner=102"
                 className={`bg-[linear-gradient(90deg,rgba(125,227,250,1)16%,rgba(89,146,252,1)44%,rgba(51,59,255,1)74%)] text-white border border-primary rounded flex flex-col items-center py-2 px-9 mt-5 w-[231px]`}
               >
                 <p className="flex items-center text-xl">

@@ -31,14 +31,9 @@ export default function Conditions() {
                 </li>
               </ul>
             </div>
-            <Link
-              href="/"
-              className={`bg-[linear-gradient(90deg,rgba(125,227,250,1)16%,rgba(89,146,252,1)44%,rgba(51,59,255,1)74%)] text-white border border-primary rounded flex flex-col py-2 px-9 mt-5`}
-            >
-              <p className="flex items-center text-xl">
-                Calculated per round lot
-              </p>
-            </Link>
+            <p className="flex items-center text-sm mt-3">
+              * Calculated per round lot
+            </p>
           </div>
 
           <div className={`${tableStyle.tableLayoutBox}`}>

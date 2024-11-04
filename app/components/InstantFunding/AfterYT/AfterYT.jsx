@@ -10,7 +10,7 @@ export default function AfterYT() {
         <h4 className="text-white text-3xl mb-3">
           Instant Funding Prop Firm - Information & Discount Code
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           Instant Funding has made a name for itself in the prop trading
           industry, boasting a rating of 4.6 on Trustpilot from over 1,900
           reviews. This UK-based instant funding prop firm stands out for its
@@ -32,7 +32,7 @@ export default function AfterYT() {
         </h4>
 
         <h4 className="text-white text-xl my-5">Swing Trading</h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           Swing trading is encouraged during the challenge phases, allowing
           traders to take advantage of market fluctuations over several days.
           Traders can benefit from the longer holding periods associated with
@@ -41,7 +41,7 @@ export default function AfterYT() {
         </p>
 
         <h4 className="text-white text-xl my-5">Scalping</h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           Scalping is a highly active trading style allowed in Instant Funding's
           models. It involves making numerous trades throughout the day, aiming
           to profit from small price movements. Scalpers must stay alert and
@@ -53,7 +53,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Position Trading
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           Position trading is another accepted style, focusing on long-term
           market trends. Traders can hold positions for weeks or even months,
           relying on fundamental analysis to guide their decisions. This style
@@ -64,7 +64,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Prohibited Strategies
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           While Instant Funding prop firm offers flexibility, there are specific
           strategies and practices that are strictly prohibited. Adhering to
           these rules is crucial for maintaining a funded account and avoiding
@@ -75,7 +75,7 @@ export default function AfterYT() {
 
         <ul className="my-5">
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               Martingale: This strategy involves increasing the size of a
               position after a loss, leading to potential over-leverage and
               significant losses. For example, you have bought 2 lots of EURUSD
@@ -85,14 +85,14 @@ export default function AfterYT() {
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               Grid Trading: This strategy involves placing multiple buy and sell
               orders at regular intervals, which can lead to increased risk
               exposure.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               High-frequency Trading (HFT): Defined as holding trades for 5
               seconds or less, HFT is prohibited due to the risks associated
               with rapid trading. HFT is mostly done with EAs, and this is what
@@ -106,14 +106,14 @@ export default function AfterYT() {
         </h4>
         <ul className="my-5">
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               Gambling: This refers to excessive leverage use, risking more than
               50% of your margin on a single trade. Such actions can result in
               account resets and significant losses
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               Major News Trading: This involves trading within an 8-minute
               window before and after significant news events (4 minutes before
               and 4 minutes after). Profits made during this window may be
@@ -123,13 +123,13 @@ export default function AfterYT() {
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               Copy Trading Between Accounts: Mirroring trades from one account
               to another not owned by the same individual is prohibited.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               Usage of Public Third-Party Expert Advisors (EAs): The use of
               non-approved EAs is not permitted, as they can pose risks to
               account integrity. Remember to check the EA you want to use with
@@ -137,7 +137,7 @@ export default function AfterYT() {
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               Exploiting Inefficiencies of Trading Platforms: This includes
               practices such as latency arbitrage, reverse arbitrage, gap
               trading, toxic order flow, account management, tick scalping, and
@@ -148,20 +148,20 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Instant Funding Prop Firm - Smart Drawdown Rules
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           Understanding the smart drawdown rules is essential for effective risk
           management within your trading account. Here’s how it works:
         </p>
-        <p className="text-white">Initial Drawdown</p>
-        <p className="text-white">
+        <p className="text-white mb-3">Initial Drawdown</p>
+        <p className="text-white mb-3">
           The initial drawdown starts at -10%.
         </p>
-        <p className="text-white">Drawdown Adjustment</p>
-        <p className="text-white">
+        <p className="text-white mb-3">Drawdown Adjustment</p>
+        <p className="text-white mb-3">
           Once you achieve a 5% balance gain, the drawdown adjusts to -5% of the
           starting balance.
         </p>
-        <p className="text-white">
+        <p className="text-white mb-3">
           You can learn more about Instant Funding's smart drawdown{" "}
           <Link
             className="text-primary"
@@ -173,14 +173,14 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Holding Positions
         </h4>
-        <p className="text-white">Overnight Trading</p>
-        <p className="text-white">
+        <p className="text-white mb-3">Overnight Trading</p>
+        <p className="text-white mb-3">
           Holding positions overnight is permissible. However, traders should
           remain cautious of market conditions that may affect their open
           positions during off-hours.
         </p>
-        <p className="text-white">Holding Over Weekends</p>
-        <p className="text-white">
+        <p className="text-white mb-3">Holding Over Weekends</p>
+        <p className="text-white mb-3">
           Holding positions over the weekend is enabled for phases one, two, and
           three of all challenges, as well as swing trading accounts. However,
           once you are funded, you cannot hold trades over the weekend.
@@ -188,7 +188,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Instant Funding Prop Firm - Trading Models
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           Instant Funding prop firm offers three main trading models: Instant
           Challenge, One-Step Challenge, and Two-Step Challenge. Each model is
           designed to cater to different trading styles and preferences,
@@ -197,67 +197,67 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Instant Challenge
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           The Instant Challenge is an excellent option for traders who want to
           start trading immediately without a lengthy evaluation process. This
           model features:
         </p>
         <ul className="my-5">
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Payouts:</b> Request your payout 14 days after your first
               trade, with subsequent payouts every 7 days thereafter.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Profit Target:</b> None.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Daily Drawdown:</b> N/A
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Max Drawdown:</b> 10%
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Baseline Profit Split:</b> 80%
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Scaling:</b> You can scale your account size up to $1.28
               million.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Scale Target:</b> 10% gain on your account.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Scaling Speed: </b> The account size doubles each time you
               scale.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Minimum Trading Days: </b>N/A.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Holding Overnight: </b>Permitted.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Holding Over Weekends: </b>Not Permitted.
             </p>
           </li>
@@ -265,71 +265,71 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           One-Step Challenge
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           The One-Step Challenge is designed for traders who prefer a slightly
           more structured approach while still benefiting from a quick start.
           Key features include:
         </p>
         <ul className="my-5">
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Payouts:</b> Request your payout 14 days after your first
               trade, with subsequent payouts available every 7 days.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Profit Target:</b> 10%.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Daily Drawdown:</b> 3%.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Max Drawdown:</b> 8%
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Baseline Profit Split:</b> 80%
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Scaled Profit Split:</b>90%.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Scaling:</b> Available for up to 100% of your starting balance.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Scale Target:</b> 10% gain on your account.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Scaling Speed: </b>You can increase your account size by 25%
               once every 90 days.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Minimum Trading Days: </b>3 days required.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Holding Overnight: </b>Allowed.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Holding Over Weekends: </b>Allowed for phase one.
             </p>
           </li>
@@ -338,72 +338,72 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Two-Step Challenge
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           The Two-Step Challenge offers a more comprehensive assessment for
           traders, allowing for a detailed evaluation of trading skills. This
           model features:
         </p>
         <ul className="my-5">
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Payouts:</b> Request your payout 14 days after your first
               trade, with weekly payouts thereafter
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Profit Target:</b> 10% in the first phase and 5% in the second
               phase.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Daily Drawdown:</b> 5%.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Max Drawdown:</b> 10%
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Baseline Profit Split:</b> 80%
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Scaled Profit Split:</b>90%.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Scaling:</b> Available for up to 100% of your starting balance.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Scale Target:</b> 10% gain on your account.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Scaling Speed: </b>You can increase your account size by 25%
               once every 90 days.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Minimum Trading Days: </b>3 days required.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Holding Overnight: </b>Allowed.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               <b>Holding Over Weekends: </b>Allowed for phases one and two.
             </p>
           </li>
@@ -413,7 +413,7 @@ export default function AfterYT() {
           Instant Funding Prop Firm
         </h4>
         <h4 className="text-white text-xl my-5">Scaling</h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           Scaling allows traders to increase their account size based on
           performance metrics. Here are the key points:
         </p>
@@ -422,23 +422,23 @@ export default function AfterYT() {
         </h4>
         <ul className="my-5">
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               Eligibility: Achieve a minimum 10% gain on the account.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               Method: Utilize 5% of the account’s starting balance for scaling.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               Scale Speed: Accounts scale at a speed of x2 (doubling your
               account size each time you scale).
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               Maximum Allocation: Up to $2,500,000 with options for increases
               via support requests.
             </p>
@@ -450,24 +450,24 @@ export default function AfterYT() {
         </h4>
         <ul className="my-5">
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               Eligibility: Achieve a minimum 10% gain on the account after 90
               days.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               Method: Contact support to scale your account after meeting the
               eligibility criteria.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               Scale Speed: Increase your account size by +25% once per 90 days.
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               Maximum Allocation: 100% of the starting balance.
             </p>
           </li>
@@ -476,19 +476,19 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Profit Split Scaling
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           The profit split is an essential feature that allows traders to retain
           a portion of their profits:
         </p>
         <ul className="my-5">
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               Rate: Achieve a 90% profit split for One-Phase, Two-Phase, and
               Three-Phase challenges
             </p>
           </li>
           <li>
-            <p className="text-white">
+            <p className="text-white mb-3">
               Condition: An overall gain of 10%, with the first trade placed at
               least 90 days after achieving a 10% gain on a static drawdown
               account.
@@ -499,7 +499,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Instant Funding Prop Firm - Payout Structure
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           The payout structure at Instant Funding prop firm is designed to
           reward traders effectively. Notable payouts have been issued, with
           many traders sharing their success stories. Overall, the firm has a
@@ -507,7 +507,7 @@ export default function AfterYT() {
         </p>
 
         <h4 className="text-white text-xl my-5">Payout Methods</h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           Payouts can be made via Direct Crypto and Rise, with a minimum payout
           threshold of $25.
         </p>
@@ -515,7 +515,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Instant Funding Review - Available Platforms
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           When trading with Instant Funding prop firm, you have access to
           several powerful platforms that provide flexibility for your trading
           style, whether you prefer to trade from a desktop or while on the go
@@ -532,7 +532,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           MetaTrader 5 (MT5)
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           MT5 is a highly advanced platform that supports multi-asset trading,
           allowing for complex charting and technical analysis. Traders benefit
           from a wide range of timeframes, numerous indicators, and the ability
@@ -542,7 +542,7 @@ export default function AfterYT() {
         </p>
 
         <h4 className="text-white text-xl my-5">cTrader (MT5)</h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           cTrader is renowned for its speed, clean interface, and user-friendly
           design, making it an excellent choice for traders focused on
           performance and precision. With advanced charting tools and
@@ -552,7 +552,7 @@ export default function AfterYT() {
         </p>
 
         <h4 className="text-white text-xl my-5">DX Trade</h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           DX Trade provides a streamlined and intuitive trading experience with
           a customizable interface that adapts to your trading style. It
           supports multiple asset classes and is equipped with advanced tools
@@ -569,7 +569,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Instant Funding Review - Leverage
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           Instant Funding prop firm offers competitive leverage options
           depending on the asset class. For forex trading, you can access
           leverage of 1:100, allowing you to control larger positions with a
@@ -584,7 +584,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Instant Funding Review - Commissions
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           Commissions are calculated per round lot, and they vary by asset
           class. For forex, the commission is $5 per round lot. Gold trades
           incur a commission of $2, while indices are also charged at $2 per
@@ -595,7 +595,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Instant Funding Review - Dashboard
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           Instant Funding's user-friendly and fully automated dashboard serves
           as the central hub for your trading operations. This comprehensive
           platform offers multiple functionalities designed to enhance your
@@ -614,7 +614,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Accounts Section
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           The Instant Funding Accounts section in the dashboard provides a clear
           overview of your active accounts, funding status, and trading metrics.
           Here, you can easily track your progress, review key performance
@@ -635,7 +635,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Challenges Section
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           The Challenges section allows you to seamlessly purchase additional
           challenges directly within the dashboard. Once selected, these
           challenges are automatically applied to your account, saving you time
@@ -655,7 +655,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Competitions Section
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           The Competitions section outlines various competitions offered at any
           given time. These competitions not only foster a sense of community
           among traders but also provide opportunities to earn additional
@@ -676,7 +676,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Downloads Section
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           The Downloads section showcases all the trading platforms available
           for you to download, including links for each application. Whether
           you’re using a MacBook, PC, iPhone, or Android device, you’ll find
@@ -696,7 +696,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Leaderboard Section
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           In the Leaderboard section, you can view the top-performing traders
           across each challenge type and account size, as well as overall
           standings. This feature not only highlights the success of others but
@@ -716,7 +716,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Economic Calendar
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           The Economic Calendar on the dashboard shows major news events that
           you can apply to your news trading strategies. This feature provides a
           streamlined access point to key economic indicators and announcements.
@@ -735,7 +735,7 @@ export default function AfterYT() {
         />
 
         <h4 className="text-white text-xl my-5">KYC Section</h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           The KYC section enables you to submit your KYC documents and check the
           status of your submission. This functionality simplifies the
           verification process, ensuring that your account is compliant with the
@@ -754,7 +754,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Withdrawal Section
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           In the Withdrawal section, you’ll find details about your available
           withdrawal amount, your account's profit, the portion of profit you
           keep, and your next withdrawal date. This section also outlines the
@@ -775,7 +775,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Certification Section
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           The Certification section allows you to view your certifications and
           share them on social media. This feature not only adds credibility to
           your trading profile but also helps you showcase your achievements to
@@ -794,7 +794,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Dashboard Conclusion
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           Keep in mind, when you first access the Instant Funding dashboard, the
           most important thing to look for is a consistent upward movement on
           your equity curve, indicating steady progress over time. Large, sudden
@@ -804,7 +804,7 @@ export default function AfterYT() {
           journaling, which is essential for growth as a trader.
         </p>
 
-        <p className="text-white">
+        <p className="text-white mb-3">
           Without effective journaling, you'll miss critical opportunities to
           evaluate your strengths and weaknesses, hindering your overall
           progress. Instant Funding’s overview offers a history of your trades,
@@ -814,7 +814,7 @@ export default function AfterYT() {
           Excel spreadsheet, where you can analyze your trades in more detail.
         </p>
 
-        <p className="text-white">
+        <p className="text-white mb-3">
           By doing so, you can better assess your performance, identify areas
           for improvement, and refine your strategies moving forward.
           Additionally, insights into your highest and lowest performing
@@ -826,7 +826,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Instant Funding Prop Firm - Restricted Countries
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           Instant Funding prop firm permits traders from most countries, but
           there are some restrictions. Traders from the following countries are
           not allowed to participate: Afghanistan, Burundi, Central African
@@ -842,7 +842,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Instant Funding Discount Code
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           Looking to start trading with Instant Funding? Make sure to apply code
           'PROPVATOR' at checkout for the highest available Instant Funding
           discount. <br />
@@ -860,7 +860,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Instant Funding Customer Service
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           Instant Funding prop firm places a strong emphasis on customer
           support, ensuring that traders receive the assistance they need when
           navigating their trading journey. Traders can easily reach out for
@@ -869,7 +869,7 @@ export default function AfterYT() {
           click on the “Company” menu and select “Contact Us.”
         </p>
 
-        <p className="text-white">
+        <p className="text-white mb-3">
           One of the standout features of Instant Funding's customer service is
           its availability in 14 different languages. This multilingual support
           caters to a diverse range of traders from various backgrounds,
@@ -881,7 +881,7 @@ export default function AfterYT() {
           fosters a more inclusive trading environment for everyone.
         </p>
 
-        <p className="text-white">
+        <p className="text-white mb-3">
           In addition to email and live chat, Instant Funding's customer service
           can also be accessed through their Discord channel and various social
           media platforms. However, for quick and efficient support, the best
@@ -897,14 +897,14 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Instant Funding Prop Firm - Updates and Innovations
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           Instant Funding prop firm is committed to enhancing the trading
           experience for its users by constantly improving and launching new
           features. As part of this commitment, three significant upcoming
           launches are worth highlighting.
         </p>
 
-        <p className="text-white">
+        <p className="text-white mb-3">
           First on the list are the integrations with Apple Pay and Google Pay.
           This development aims to streamline the funding process, making it
           easier for traders to deposit and withdraw funds swiftly. By using
@@ -914,7 +914,7 @@ export default function AfterYT() {
           but also enhances overall user satisfaction.
         </p>
 
-        <p className="text-white">
+        <p className="text-white mb-3">
           The trading education app is another significant product update that
           will be rolling out in 2024. This app will offer a wealth of
           resources, including tutorials, articles, and interactive courses
@@ -927,7 +927,7 @@ export default function AfterYT() {
           approach their trading strategies with confidence and clarity.
         </p>
 
-        <p className="text-white">
+        <p className="text-white mb-3">
           Lastly, Instant Funding is set to unveil the biggest product update in
           2024, which promises to bring significant enhancements to the existing
           platform. While specific details are still under wraps, traders can
@@ -940,7 +940,7 @@ export default function AfterYT() {
         <h4 className="text-white text-xl my-5">
           Instant Funding Prop Firm
         </h4>
-        <p className="text-white">
+        <p className="text-white mb-3">
           Instant Funding prop firm has positioned itself as a prominent player
           in the forex proprietary trading landscape. With its flexible trading
           styles, user-friendly interface, comprehensive funding models, and
@@ -949,7 +949,7 @@ export default function AfterYT() {
           enhances its credibility and appeal.
         </p>
 
-        <p className="text-white">
+        <p className="text-white mb-3">
           For traders looking for a reliable prop firm that prioritises user
           experience and offers quick access to funds, Instant Funding is
           undoubtedly a good choice. By leveraging the features and benefits it

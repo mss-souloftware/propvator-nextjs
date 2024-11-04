@@ -10,38 +10,32 @@ export default function Conditions() {
         <h2 className="text-white text-2xl md:text-3xl">Conditions</h2>
         <div className="flex sm:flex-row flex-col gap-5">
           <div className={`${tableStyle.tableLayoutBox2}`}>
-          <div className={`${tableStyle.tableLayoutBox}`}>
-            <h3>Commissions (2 Step Challenge)</h3>
-            <ul>
-              <li>
-                <h4>Forex</h4>
-                <span>$6</span>
-              </li>
-              <li>
-                <h4>Gold</h4>
-                <span>$6</span>
-              </li>
-              <li>
-                <h4>Indices</h4>
-                <span>$6</span>
-              </li>
-              <li>
-                <h4>Commodities</h4>
-                <span>$6</span>
-              </li>
-            </ul>
+            <div className={`${tableStyle.tableLayoutBox}`}>
+              <h3>Commissions (2 Step Challenge)</h3>
+              <ul>
+                <li>
+                  <h4>Forex</h4>
+                  <span>$6</span>
+                </li>
+                <li>
+                  <h4>Gold</h4>
+                  <span>$6</span>
+                </li>
+                <li>
+                  <h4>Indices</h4>
+                  <span>$6</span>
+                </li>
+                <li>
+                  <h4>Commodities</h4>
+                  <span>$6</span>
+                </li>
+              </ul>
 
-            
-          </div>
-          <Link
-                href="/"
-                className={`bg-[linear-gradient(90deg,rgba(125,227,250,1)16%,rgba(89,146,252,1)44%,rgba(51,59,255,1)74%)] text-white border border-primary rounded flex flex-col py-2 px-9 mt-5`}
-              >
-                <p className="flex items-center text-xl">
-                Calculated per round lot
-                 
-                </p>
-              </Link>
+
+            </div>
+            <p className="flex items-center text-sm mt-3">
+              * Calculated per round lot
+            </p>
           </div>
 
           <div className={`${tableStyle.tableLayoutBox}`}>

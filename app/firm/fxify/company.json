@@ -19,7 +19,7 @@
         },
         {
           "name": "DX Trade",
-          "value": false
+          "value": true
         }
       ],
       "accountTypes": [

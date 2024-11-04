@@ -118,9 +118,9 @@ export default function FirmHero(dataSet) {
                       </p>
                     </div>
                   </div>
-                  <p className="text-white text-sm mt-2">
+                  <Link href="https://uk.trustpilot.com/review/fxify.com" className="text-white text-sm mt-2">
                     {contentData.ratingHead}
-                  </p>
+                  </Link>
                 </div>
               </div>
             </div>
