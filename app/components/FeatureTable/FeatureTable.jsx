@@ -296,8 +296,8 @@ export default function FeatureTable({ filter, data, setData }) {
                     currentListings.map((item, index) => (
                       <tr data-brand={item.brand} key={index}>
                         <td>
-                          {item.singleFirm ? (
-                            <Link href={`/${item.firm.toLowerCase()}`}>
+                          {item.firmPath !== undefined ? (
+                            <Link href={`/${item.firmPath}`}>
                               <div className="company">
                                 <Image
                                   className="mx-auto object-contain"

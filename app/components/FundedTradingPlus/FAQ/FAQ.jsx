@@ -8,16 +8,20 @@ const FAQFirm = () => {
   // JSON data for the accordion
   const accordionData = [
     {
-      title: "FAQ 1",
-      content: "This is the content for the first FAQ.",
+      title: "What are the profit splits at Funded Trading Plus?",
+      content:
+        "The initial profit split is 70% for instant funding, increasing to 80% for standard accounts. Consistent performance can raise the profit split to 90%.",
     },
     {
-      title: "FAQ 2",
-      content: "This is the content for the second FAQ.",
+      title:
+        "Are there any restrictions on holding positions over the weekend?",
+      content:
+        "No, there are no restrictions on weekend holding with Funded Trading Plus. Traders can keep their positions open over the weekend, however, there are swap fees.",
     },
     {
-      title: "FAQ 3",
-      content: "This is the content for the third FAQ.",
+      title: "What trading platforms are supported by Funded Trading Plus?",
+      content:
+        "Funded Trading Plus supports multiple trading platforms, including MetaTrader 4 (MT4), MetaTrader 5 (MT5), and cTrader.",
     },
   ];
 
