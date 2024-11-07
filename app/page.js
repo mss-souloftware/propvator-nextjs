@@ -55,8 +55,8 @@ export default function Home() {
     accountTypes: {
       "instant": false,
       "1 step": false,
-      "2 steps": false,
-      "3 steps": false
+      "2 step": false,
+      "3 step": false
     },
     countries: {
       "usa": false,

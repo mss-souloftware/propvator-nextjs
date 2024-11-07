@@ -17,19 +17,23 @@ export default function CompareBox({ filter, setfilter }) {
       </div>
       <p>Select your account size</p>
       <div className={`flex gap-3 flex-wrap ${styles.slectionWrapper}`}>
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="5" tempTitle="5k" />
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="10" tempTitle="10k" />
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="25" tempTitle="25k" />
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="50" tempTitle="50k" />
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="100" tempTitle="100k" />
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="200" tempTitle="200k" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="5" tempTitle="5K" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="10" tempTitle="10K" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="15" tempTitle="15K" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="20" tempTitle="20K" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="25" tempTitle="25K" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="40" tempTitle="40K" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="50" tempTitle="50K" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="100" tempTitle="100K" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="200" tempTitle="200K" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="sizeType" title="400" tempTitle="400K" />
       </div>
       <p>Select number of step</p>
       <div className={`flex gap-3 flex-wrap ${styles.slectionWrapper}`}>
         <BTNClicks filter={filter} setfilter={setfilter} filterType="accountTypes" title="Instant" />
         <BTNClicks filter={filter} setfilter={setfilter} filterType="accountTypes" title="1 Step" />
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="accountTypes" title="2 Steps" />
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="accountTypes" title="3 Steps" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="accountTypes" title="2 Step" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="accountTypes" title="3 Step" />
       </div>
 
       <p>Select countries</p>
@@ -56,15 +60,15 @@ export default function CompareBox({ filter, setfilter }) {
       <div className={`flex gap-3 flex-wrap ${styles.slectionWrapper}`}>
         <BTNClicks filter={filter} setfilter={setfilter} filterType="broker" title="Think Markets" />
         <BTNClicks filter={filter} setfilter={setfilter} filterType="broker" title="Purple Trading" />
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="broker" title="Virtual Markets" />
+        {/* <BTNClicks filter={filter} setfilter={setfilter} filterType="broker" title="Virtual Markets" /> */}
         <BTNClicks filter={filter} setfilter={setfilter} filterType="broker" title="Capital Markets" />
         <BTNClicks filter={filter} setfilter={setfilter} filterType="broker" title="Match Trade" />
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="broker" title="Finesse FX" />
+        {/* <BTNClicks filter={filter} setfilter={setfilter} filterType="broker" title="Finesse FX" /> */}
         <BTNClicks filter={filter} setfilter={setfilter} filterType="broker" title="Taurex" />
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="broker" title="FXPig" />
+        {/* <BTNClicks filter={filter} setfilter={setfilter} filterType="broker" title="FXPig" />
         <BTNClicks filter={filter} setfilter={setfilter} filterType="broker" title="FXFlat" />
         <BTNClicks filter={filter} setfilter={setfilter} filterType="broker" title="GBE Brokers" />
-        <BTNClicks filter={filter} setfilter={setfilter} filterType="broker" title="CBT Limited" />
+        <BTNClicks filter={filter} setfilter={setfilter} filterType="broker" title="CBT Limited" /> */}
         <BTNClicks filter={filter} setfilter={setfilter} filterType="broker" title="Own Broker" />
       </div>
 
