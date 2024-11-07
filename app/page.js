@@ -19,6 +19,7 @@ export default function Home() {
     hasTempered: false,
     brands: {
       "alpha capital group": false,
+      "quant tekel": false,
       "aquafunded": false,
       "blue guardian": false,
       "breakout": false,
