@@ -16,6 +16,14 @@ body {
   margin-left: -60px;
 }
 
+.bgCoverFilter:hover {
+  background: linear-gradient(
+    135deg,
+    rgb(125, 227, 250) 16%,
+    rgb(51, 59, 255) 74%
+  ) !important;
+}
+
 .data--table {
   overflow: auto;
 }

@@ -20,7 +20,7 @@ export default function BTNClicks({ title, filterType, filter, setfilter, tempTi
 
     return (
         <div
-            className='py-2 px-3 rounded-md border border-[#3338D3] text-white text-sm'
+            className={`bgCoverFilter py-2 px-3 rounded-md border border-[#3338D3] text-white text-sm`}
             style={{ background: bgColor, cursor: 'pointer' }}
             onClick={handleClick}
         >
