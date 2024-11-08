@@ -24,7 +24,7 @@ export default function Header() {
           <div className="relative ml-5 pr-2">
             <button
               onClick={toggleDropdown}
-              className="relative px-4 py-2 bg-blue-500 text-white rounded-md flex items-center"
+              className="relative md:px-4 md:py-2 border border-[#fff] text-white rounded-md flex items-center"
             >
               Prop Firms{" "}
               <svg

@@ -19,7 +19,6 @@ export default function Home() {
     hasTempered: false,
     brands: {
       "alpha capital group": false,
-      "quant tekel": false,
       "aquafunded": false,
       "blue guardian": false,
       "breakout": false,
@@ -31,6 +30,7 @@ export default function Home() {
       "ftmo": false,
       "funded elite": false,
       "funded trading plus": false,
+      "quant tekel": false,
       "fundednext": false,
       "funding frontier": false,
       "funding pips": false,

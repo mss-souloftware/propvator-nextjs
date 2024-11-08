@@ -51,7 +51,7 @@ export default function ContentData() {
 
   // Filter the table data based on firm and selected step
   const filteredData = tableBodyData.filter((item) => {
-    const matchesFirm = item.firm === "Monevis";
+    const matchesFirm = item.firm === "Quant Tekel";
     const matchesStep =
       selectedStep.length === 0 || // No filter selected
       selectedStep.includes(item.steps); // Check if the item's steps are in the selectedStep array
@@ -186,7 +186,7 @@ export default function ContentData() {
                 <tbody id="table-body">
                   {currentListings.length > 0 ? (
                     currentListings
-                      .filter((item) => item.firm === "Monevis")
+                      .filter((item) => item.firm === "Quant Tekel")
                       .map((item, index) => (
                         <tr data-brand={item.brand} key={index}>
                           <td>

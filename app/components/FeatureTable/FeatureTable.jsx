@@ -75,26 +75,15 @@ export default function FeatureTable({ filter, data, setData }) {
       if (!hasTrueValue(filter)) {
         setData(tableBodyData);
       } else {
-        // let filteredData = tableBodyData.filter(item => {
-        //     for (const key in filter.assetType) {
-        //         if (filter.assetType[key] && item.filterType.assetType[key] !== filter.assetType[key]) {
-        //             return false;
-        //         }
-        //     }
-        //     return true;
-        // });
+        let filteredData = tableBodyData;
 
-        let filteredData = tableBodyData.filter((item) => {
-          let matchFound = false;
-          for (const key in filter.assetType) {
-            if (filter.assetType[key]) {
-              if (item.filterType.assetType[key] === filter.assetType[key]) {
-                matchFound = true;
-                break;
-              }
-            }
-          }
-
+        // Apply assetType filter
+        filteredData = filteredData.filter((item) => {
+          const matchFound = Object.keys(filter.assetType).some(
+            (key) =>
+              filter.assetType[key] &&
+              item.filterType?.assetType?.[key] === filter.assetType[key]
+          );
           return (
             matchFound ||
             Object.values(filter.assetType).every((value) => !value)
@@ -103,14 +92,12 @@ export default function FeatureTable({ filter, data, setData }) {
 
         // Apply brand filter
         filteredData = filteredData.filter((item) => {
-          const isAnySizeSelected = Object.values(filter.brands).some(
+          const isAnyBrandSelected = Object.values(filter.brands).some(
             (value) => value
           );
-          if (!isAnySizeSelected) return true;
-          return filter.brands[item.firm.toLowerCase()];
+          if (!isAnyBrandSelected) return true;
+          return filter.brands[item.firm?.toLowerCase()] ?? false;
         });
-
-        // console.log("filteredData", filteredData)
 
         // Apply sizeType filter
         filteredData = filteredData.filter((item) => {
@@ -118,79 +105,57 @@ export default function FeatureTable({ filter, data, setData }) {
             (value) => value
           );
           if (!isAnySizeSelected) return true;
-          return filter.sizeType[item.size];
-        });
-
-        // Apply sizeType filter
-        filteredData = filteredData.filter((item) => {
-          const isAnySizeSelected = Object.values(filter.accountTypes).some(
-            (value) => value
-          );
-          if (!isAnySizeSelected) return true;
-          return filter.accountTypes[item.steps.toLowerCase()];
+          return filter.sizeType[item.size] ?? false;
         });
 
         // Apply accountTypes filter
-        // filteredData = filteredData.filter(item => {
-        //     for (const key in filter.accountTypes) {
-        //         if (filter.accountTypes[key] && item.filterType.accountTypes[key] !== filter.accountTypes[key]) {
-        //             return false;
-        //         }
-        //     }
-        //     return true;
-        // });
-
         filteredData = filteredData.filter((item) => {
-          let matchFound = false;
+          const isAnyAccountTypeSelected = Object.values(
+            filter.accountTypes
+          ).some((value) => value);
+          if (!isAnyAccountTypeSelected) return true;
+          return filter.accountTypes[item.steps?.toLowerCase()] ?? false;
+        });
 
-          for (const key in filter.countries) {
-            if (filter.countries[key]) {
-              if (item.filterType.countries[key] === filter.countries[key]) {
-                matchFound = true;
-                break;
-              }
-            }
-          }
-
+        // Apply countries filter
+        filteredData = filteredData.filter((item) => {
+          const matchFound = Object.keys(filter.countries).some(
+            (key) =>
+              filter.countries[key] &&
+              item.filterType?.countries?.[key] === filter.countries[key]
+          );
           return (
             matchFound ||
             Object.values(filter.countries).every((value) => !value)
           );
         });
+
+        // Apply platforms filter
         filteredData = filteredData.filter((item) => {
-          let matchFound = false;
-
-          for (const key in filter.platforms) {
-            if (filter.platforms[key]) {
-              if (item.filterType.platforms[key] === filter.platforms[key]) {
-                matchFound = true;
-                break;
-              }
-            }
-          }
-
+          const matchFound = Object.keys(filter.platforms).some(
+            (key) =>
+              filter.platforms[key] &&
+              item.filterType?.platforms?.[key] === filter.platforms[key]
+          );
           return (
             matchFound ||
             Object.values(filter.platforms).every((value) => !value)
           );
         });
+
+        // Apply broker filter
         filteredData = filteredData.filter((item) => {
-          let matchFound = false;
-
-          for (const key in filter.broker) {
-            if (filter.broker[key]) {
-              if (item.filterType.broker[key] === filter.broker[key]) {
-                matchFound = true;
-                break;
-              }
-            }
-          }
-
+          const matchFound = Object.keys(filter.broker).some(
+            (key) =>
+              filter.broker[key] &&
+              item.filterType?.broker?.[key] === filter.broker[key]
+          );
           return (
             matchFound || Object.values(filter.broker).every((value) => !value)
           );
         });
 
+        // Apply range sliders
         filteredData = filteredData.filter(
           (item) =>
             item.price >= filter.rangeSlider.price[0] &&
@@ -212,9 +177,11 @@ export default function FeatureTable({ filter, data, setData }) {
             item.credits <= filter.rangeSlider.credits[1]
         );
 
+        console.log("filteredData", filteredData);
         setData(filteredData);
       }
     };
+
     filterData();
   }, [filter]);
 

@@ -25,7 +25,7 @@ export default function firm() {
         <FirmHero />
         <Tabs />
       </div>
-      {/* <FirmContent /> */}
+      <FirmContent />
       <AfterTable />
       <VideoWrapper />
       <AfterYT />

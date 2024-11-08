@@ -25,6 +25,11 @@
     "verified": true
   },
   {
+    "name": "Quant Tekel",
+    "logo": "/Images/brands/QuantTekel.svg",
+    "verified": true
+  },
+  {
     "name": "Alpha Capital Group",
     "logo": "/Images/brands/alpha.svg",
     "verified": false
