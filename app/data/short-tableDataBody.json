@@ -1,25 +1,23 @@
 [
   {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "Quant Tekel",
-    "firmPath": "quant-tekel",
-    "logo": "/Images/brands/QuantTekel.svg",
-    "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
-    "salePrice": 140,
-    "price": 70,
-    "discount": "PROPVATOR",
-    "size": 10,
-    "steps": "1 Step",
-    "profitSplit": "90%",
-    "profitTarget": "10%",
-    "maxDrawDown": "6%",
-    "dailyDrawDown": "3%",
-    "commission": 4,
-    "leverage": 100,
+    "verified": false,
+    "singleFirm": false,
+    "firm": "FundedNext",
+    "logo": "/Images/brands/fundedNext.svg",
+    "buy": "https://fundednext.com/",
+    "calcPrice": "",
+    "price": "",
+    "discount": "",
+    "size": "",
+    "steps": "",
+    "profitSplit": "",
+    "profitTarget": "",
+    "maxDrawDown": "",
+    "dailyDrawDown": "",
+    "commission": 3,
+    "leverage": "",
     "rating": "4.5",
-    "credits": 2,
+    "credits": "",
     "filterType": {
       "assetType": {
         "forex": true,
@@ -31,11 +29,11 @@
       },
       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
         "iran": true,
         "turkiye": true,
-        "dubai": true
+        "dubai": false
       },
       "accountTypes": {
         "instant": false,
@@ -44,10 +42,10 @@
         "3 Step": true
       },
       "platforms": {
-        "mt4": false,
+        "mt4": true,
         "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
+        "ctrader": true,
+        "dxtrade": false,
         "tradelocker": false,
         "match trader": false
       },
@@ -68,54 +66,184 @@
     }
   },
   {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "Quant Tekel",
-    "firmPath": "quant-tekel",
-    "logo": "/Images/brands/QuantTekel.svg",
-    "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
-    "salePrice": 298,
-    "price": 149,
-    "discount": "PROPVATOR",
+    "verified": false,
+    "singleFirm": false,
+    "firm": "Funded Elite",
+    "logo": "/Images/brands/fundedElite.svg",
+    "buy": "https://fundedelite.com/",
+    "calcPrice": "",
+    "price": 90,
+    "discount": "",
+    "size": 7,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "8%",
+    "dailyDrawDown": "3%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": "4.6",
+    "credits": "",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "iran": false,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "instant": true,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "virtual markets": false,
+        "capital markets": false,
+        "match trade": false,
+        "finesse fx": false,
+        "taurex": false,
+        "fxpig": false,
+        "fxflat": false,
+        "gbe brokers": false,
+        "cbt limited": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": false,
+    "singleFirm": false,
+    "firm": "Funded Elite",
+    "logo": "/Images/brands/fundedElite.svg",
+    "buy": "https://fundedelite.com/",
+    "calcPrice": "",
+    "price": 130,
+    "discount": "",
+    "size": 15,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "8%",
+    "dailyDrawDown": "3%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": "4.6",
+    "credits": "",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "iran": false,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "instant": true,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "virtual markets": false,
+        "capital markets": false,
+        "match trade": false,
+        "finesse fx": false,
+        "taurex": false,
+        "fxpig": false,
+        "fxflat": false,
+        "gbe brokers": false,
+        "cbt limited": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": false,
+    "singleFirm": false,
+    "firm": "Funded Elite",
+    "logo": "/Images/brands/fundedElite.svg",
+    "buy": "https://fundedelite.com/",
+    "calcPrice": "",
+    "price": 225,
+    "discount": "",
     "size": 25,
     "steps": "1 Step",
-    "profitSplit": "90%",
+    "profitSplit": "80%",
     "profitTarget": "10%",
-    "maxDrawDown": "6%",
+    "maxDrawDown": "8%",
     "dailyDrawDown": "3%",
-    "commission": 4,
+    "commission": 0,
     "leverage": 100,
-    "rating": "4.5",
-    "credits": 4,
+    "rating": "4.6",
+    "credits": "",
     "filterType": {
       "assetType": {
         "forex": true,
         "futures": false,
         "stocks": false,
-        "crypto": true,
+        "crypto": false,
         "indices": true,
-        "commodities": true
+        "commodities": false
       },
       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": true,
+        "iran": false,
         "turkiye": true,
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": true
+        "3 Step": false
       },
       "platforms": {
         "mt4": false,
-        "mt5": true,
+        "mt5": false,
         "ctrader": false,
-        "dxtrade": true,
+        "dxtrade": false,
         "tradelocker": false,
         "match trader": false
       },
@@ -131,59 +259,57 @@
         "fxflat": false,
         "gbe brokers": false,
         "cbt limited": false,
-        "own broker": true
+        "own broker": false
       }
     }
   },
   {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "Quant Tekel",
-    "firmPath": "quant-tekel",
-    "logo": "/Images/brands/QuantTekel.svg",
-    "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
-    "salePrice": 425,
-    "price": 212.5,
-    "discount": "PROPVATOR",
+    "verified": false,
+    "singleFirm": false,
+    "firm": "Funded Elite",
+    "logo": "/Images/brands/fundedElite.svg",
+    "buy": "https://fundedelite.com/",
+    "calcPrice": "",
+    "price": 339,
+    "discount": "",
     "size": 50,
     "steps": "1 Step",
-    "profitSplit": "90%",
+    "profitSplit": "80%",
     "profitTarget": "10%",
-    "maxDrawDown": "6%",
+    "maxDrawDown": "8%",
     "dailyDrawDown": "3%",
-    "commission": 4,
+    "commission": 0,
     "leverage": 100,
-    "rating": "4.5",
-    "credits": 5,
+    "rating": "4.6",
+    "credits": "",
     "filterType": {
       "assetType": {
         "forex": true,
         "futures": false,
         "stocks": false,
-        "crypto": true,
+        "crypto": false,
         "indices": true,
-        "commodities": true
+        "commodities": false
       },
       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": true,
+        "iran": false,
         "turkiye": true,
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": true
+        "3 Step": false
       },
       "platforms": {
         "mt4": false,
-        "mt5": true,
+        "mt5": false,
         "ctrader": false,
-        "dxtrade": true,
+        "dxtrade": false,
         "tradelocker": false,
         "match trader": false
       },
@@ -199,59 +325,57 @@
         "fxflat": false,
         "gbe brokers": false,
         "cbt limited": false,
-        "own broker": true
+        "own broker": false
       }
     }
   },
   {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "Quant Tekel",
-    "firmPath": "quant-tekel",
-    "logo": "/Images/brands/QuantTekel.svg",
-    "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
-    "salePrice": 720,
-    "price": 360,
-    "discount": "PROPVATOR",
+    "verified": false,
+    "singleFirm": false,
+    "firm": "Funded Elite",
+    "logo": "/Images/brands/fundedElite.svg",
+    "buy": "https://fundedelite.com/",
+    "calcPrice": "",
+    "price": 569,
+    "discount": "",
     "size": 100,
     "steps": "1 Step",
-    "profitSplit": "90%",
+    "profitSplit": "80%",
     "profitTarget": "10%",
-    "maxDrawDown": "6%",
+    "maxDrawDown": "8%",
     "dailyDrawDown": "3%",
-    "commission": 4,
+    "commission": 0,
     "leverage": 100,
-    "rating": "4.5",
-    "credits": 9,
+    "rating": "4.6",
+    "credits": "",
     "filterType": {
       "assetType": {
         "forex": true,
         "futures": false,
         "stocks": false,
-        "crypto": true,
+        "crypto": false,
         "indices": true,
-        "commodities": true
+        "commodities": false
       },
       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": true,
+        "iran": false,
         "turkiye": true,
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": true
+        "3 Step": false
       },
       "platforms": {
         "mt4": false,
-        "mt5": true,
+        "mt5": false,
         "ctrader": false,
-        "dxtrade": true,
+        "dxtrade": false,
         "tradelocker": false,
         "match trader": false
       },
@@ -267,59 +391,57 @@
         "fxflat": false,
         "gbe brokers": false,
         "cbt limited": false,
-        "own broker": true
+        "own broker": false
       }
     }
   },
   {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "Quant Tekel",
-    "firmPath": "quant-tekel",
-    "logo": "/Images/brands/QuantTekel.svg",
-    "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
-    "salePrice": 1341,
-    "price": 670.5,
-    "discount": "PROPVATOR",
+    "verified": false,
+    "singleFirm": false,
+    "firm": "Funded Elite",
+    "logo": "/Images/brands/fundedElite.svg",
+    "buy": "https://fundedelite.com/",
+    "calcPrice": "",
+    "price": 1085,
+    "discount": "",
     "size": 200,
     "steps": "1 Step",
-    "profitSplit": "90%",
+    "profitSplit": "80%",
     "profitTarget": "10%",
-    "maxDrawDown": "6%",
+    "maxDrawDown": "8%",
     "dailyDrawDown": "3%",
-    "commission": 4,
+    "commission": 0,
     "leverage": 100,
-    "rating": "4.5",
-    "credits": 16,
+    "rating": "4.6",
+    "credits": "",
     "filterType": {
       "assetType": {
         "forex": true,
         "futures": false,
         "stocks": false,
-        "crypto": true,
+        "crypto": false,
         "indices": true,
-        "commodities": true
+        "commodities": false
       },
       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": true,
+        "iran": false,
         "turkiye": true,
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": true
+        "3 Step": false
       },
       "platforms": {
         "mt4": false,
-        "mt5": true,
+        "mt5": false,
         "ctrader": false,
-        "dxtrade": true,
+        "dxtrade": false,
         "tradelocker": false,
         "match trader": false
       },
@@ -335,52 +457,57 @@
         "fxflat": false,
         "gbe brokers": false,
         "cbt limited": false,
-        "own broker": true
+        "own broker": false
       }
     }
   },
   {
-    "salePrice": 119,
-    "price": 59.5,
-    "discount": "PROPVATOR",
-    "size": 10,
+    "verified": false,
+    "singleFirm": false,
+    "firm": "Funded Elite",
+    "logo": "/Images/brands/fundedElite.svg",
+    "buy": "https://fundedelite.com/",
+    "calcPrice": "",
+    "price": 79,
+    "discount": "",
+    "size": 7,
     "steps": "2 Step",
-    "profitSplit": "90%",
-    "profitTarget": "7% | 5%",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
     "maxDrawDown": "10%",
-    "dailyDrawDown": "4%",
-    "commission": 4,
+    "dailyDrawDown": "5%",
+    "commission": 0,
     "leverage": 100,
-    "rating": "4.5",
-    "credits": 2,
+    "rating": "4.6",
+    "credits": "",
     "filterType": {
       "assetType": {
         "forex": true,
         "futures": false,
         "stocks": false,
-        "crypto": true,
+        "crypto": false,
         "indices": true,
-        "commodities": true
+        "commodities": false
       },
       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": true,
+        "iran": false,
         "turkiye": true,
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": true
+        "3 Step": false
       },
       "platforms": {
         "mt4": false,
-        "mt5": true,
+        "mt5": false,
         "ctrader": false,
-        "dxtrade": true,
+        "dxtrade": false,
         "tradelocker": false,
         "match trader": false
       },
@@ -396,59 +523,123 @@
         "fxflat": false,
         "gbe brokers": false,
         "cbt limited": false,
-        "own broker": true
+        "own broker": false
       }
     }
   },
   {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "Quant Tekel",
-    "firmPath": "quant-tekel",
-    "logo": "/Images/brands/QuantTekel.svg",
-    "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
-    "salePrice": 280,
-    "price": 140,
-    "discount": "PROPVATOR",
+    "verified": false,
+    "singleFirm": false,
+    "firm": "Funded Elite",
+    "logo": "/Images/brands/fundedElite.svg",
+    "buy": "https://fundedelite.com/",
+    "calcPrice": "",
+    "price": 115,
+    "discount": "",
+    "size": 15,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": "4.6",
+    "credits": "",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "iran": false,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "instant": true,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "virtual markets": false,
+        "capital markets": false,
+        "match trade": false,
+        "finesse fx": false,
+        "taurex": false,
+        "fxpig": false,
+        "fxflat": false,
+        "gbe brokers": false,
+        "cbt limited": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": false,
+    "singleFirm": false,
+    "firm": "Funded Elite",
+    "logo": "/Images/brands/fundedElite.svg",
+    "buy": "https://fundedelite.com/",
+    "calcPrice": "",
+    "price": 195,
+    "discount": "",
     "size": 25,
     "steps": "2 Step",
-    "profitSplit": "90%",
-    "profitTarget": "7% | 5%",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
     "maxDrawDown": "10%",
-    "dailyDrawDown": "4%",
-    "commission": 4,
+    "dailyDrawDown": "5%",
+    "commission": 0,
     "leverage": 100,
-    "rating": "4.5",
-    "credits": 4,
+    "rating": "4.6",
+    "credits": "",
     "filterType": {
       "assetType": {
         "forex": true,
         "futures": false,
         "stocks": false,
-        "crypto": true,
+        "crypto": false,
         "indices": true,
-        "commodities": true
+        "commodities": false
       },
       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": true,
+        "iran": false,
         "turkiye": true,
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": true
+        "3 Step": false
       },
       "platforms": {
         "mt4": false,
-        "mt5": true,
+        "mt5": false,
         "ctrader": false,
-        "dxtrade": true,
+        "dxtrade": false,
         "tradelocker": false,
         "match trader": false
       },
@@ -464,59 +655,57 @@
         "fxflat": false,
         "gbe brokers": false,
         "cbt limited": false,
-        "own broker": true
+        "own broker": false
       }
     }
   },
   {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "Quant Tekel",
-    "firmPath": "quant-tekel",
-    "logo": "/Images/brands/QuantTekel.svg",
-    "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
-    "salePrice": 400,
-    "price": 200,
-    "discount": "PROPVATOR",
+    "verified": false,
+    "singleFirm": false,
+    "firm": "Funded Elite",
+    "logo": "/Images/brands/fundedElite.svg",
+    "buy": "https://fundedelite.com/",
+    "calcPrice": "",
+    "price": 295,
+    "discount": "",
     "size": 50,
     "steps": "2 Step",
-    "profitSplit": "90%",
-    "profitTarget": "7% | 5%",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
     "maxDrawDown": "10%",
-    "dailyDrawDown": "4%",
-    "commission": 4,
+    "dailyDrawDown": "5%",
+    "commission": 0,
     "leverage": 100,
-    "rating": "4.5",
-    "credits": 5,
+    "rating": "4.6",
+    "credits": "",
     "filterType": {
       "assetType": {
         "forex": true,
         "futures": false,
         "stocks": false,
-        "crypto": true,
+        "crypto": false,
         "indices": true,
-        "commodities": true
+        "commodities": false
       },
       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": true,
+        "iran": false,
         "turkiye": true,
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": true
+        "3 Step": false
       },
       "platforms": {
         "mt4": false,
-        "mt5": true,
+        "mt5": false,
         "ctrader": false,
-        "dxtrade": true,
+        "dxtrade": false,
         "tradelocker": false,
         "match trader": false
       },
@@ -532,74 +721,123 @@
         "fxflat": false,
         "gbe brokers": false,
         "cbt limited": false,
-        "own broker": true
+        "own broker": false
       }
     }
   },
   {
-    "salePrice": 700,
-    "price": 350,
-    "discount": "PROPVATOR",
+    "verified": false,
+    "singleFirm": false,
+    "firm": "Funded Elite",
+    "logo": "/Images/brands/fundedElite.svg",
+    "buy": "https://fundedelite.com/",
+    "calcPrice": "",
+    "price": 495,
+    "discount": "",
     "size": 100,
     "steps": "2 Step",
-    "profitSplit": "90%",
-    "profitTarget": "7% | 5%",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
     "maxDrawDown": "10%",
-    "dailyDrawDown": "4%",
-    "commission": 4,
+    "dailyDrawDown": "5%",
+    "commission": 0,
     "leverage": 100,
-    "rating": "4.5",
-    "credits": 9
+    "rating": "4.6",
+    "credits": "",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "iran": false,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "instant": true,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "virtual markets": false,
+        "capital markets": false,
+        "match trade": false,
+        "finesse fx": false,
+        "taurex": false,
+        "fxpig": false,
+        "fxflat": false,
+        "gbe brokers": false,
+        "cbt limited": false,
+        "own broker": false
+      }
+    }
   },
   {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "Quant Tekel",
-    "firmPath": "quant-tekel",
-    "logo": "/Images/brands/QuantTekel.svg",
-    "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
-    "salePrice": 1200,
-    "price": 600,
-    "discount": "PROPVATOR",
+    "verified": false,
+    "singleFirm": false,
+    "firm": "Funded Elite",
+    "logo": "/Images/brands/fundedElite.svg",
+    "buy": "https://fundedelite.com/",
+    "calcPrice": "",
+    "price": 945,
+    "discount": "",
     "size": 200,
     "steps": "2 Step",
-    "profitSplit": "90%",
-    "profitTarget": "7% | 5%",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
     "maxDrawDown": "10%",
-    "dailyDrawDown": "4%",
-    "commission": 4,
+    "dailyDrawDown": "5%",
+    "commission": 0,
     "leverage": 100,
-    "rating": "4.5",
-    "credits": 15,
+    "rating": "4.6",
+    "credits": "",
     "filterType": {
       "assetType": {
         "forex": true,
         "futures": false,
         "stocks": false,
-        "crypto": true,
+        "crypto": false,
         "indices": true,
-        "commodities": true
+        "commodities": false
       },
       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": true,
+        "iran": false,
         "turkiye": true,
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": true
+        "3 Step": false
       },
       "platforms": {
         "mt4": false,
-        "mt5": true,
+        "mt5": false,
         "ctrader": false,
-        "dxtrade": true,
+        "dxtrade": false,
         "tradelocker": false,
         "match trader": false
       },
@@ -615,347 +853,7 @@
         "fxflat": false,
         "gbe brokers": false,
         "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "Quant Tekel",
-    "firmPath": "quant-tekel",
-    "logo": "/Images/brands/QuantTekel.svg",
-    "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
-    "salePrice": 101,
-    "price": 50.5,
-    "discount": "PROPVATOR",
-    "size": 10,
-    "steps": "3 Step",
-    "profitSplit": "90%",
-    "profitTarget": "6% | 6% | 6%",
-    "maxDrawDown": "8%",
-    "dailyDrawDown": "4%",
-    "commission": 4,
-    "leverage": 100,
-    "rating": "4.5",
-    "credits": 1,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": false,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": true,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": true,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": false,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": false,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "Quant Tekel",
-    "firmPath": "quant-tekel",
-    "logo": "/Images/brands/QuantTekel.svg",
-    "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
-    "salePrice": 226,
-    "price": 113,
-    "discount": "PROPVATOR",
-    "size": 25,
-    "steps": "3 Step",
-    "profitSplit": "90%",
-    "profitTarget": "6% | 6% | 6%",
-    "maxDrawDown": "8%",
-    "dailyDrawDown": "4%",
-    "commission": 4,
-    "leverage": 100,
-    "rating": "4.5",
-    "credits": 3,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": false,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": true,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": true,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": false,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": false,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "Quant Tekel",
-    "firmPath": "quant-tekel",
-    "logo": "/Images/brands/QuantTekel.svg",
-    "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
-    "salePrice": 345,
-    "price": 172.5,
-    "discount": "PROPVATOR",
-    "size": 50,
-    "steps": "3 Step",
-    "profitSplit": "90%",
-    "profitTarget": "6% | 6% | 6%",
-    "maxDrawDown": "8%",
-    "dailyDrawDown": "4%",
-    "commission": 4,
-    "leverage": 100,
-    "rating": "4.5",
-    "credits": 4,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": false,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": true,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": true,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": false,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": false,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "Quant Tekel",
-    "firmPath": "quant-tekel",
-    "logo": "/Images/brands/QuantTekel.svg",
-    "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
-    "salePrice": 564,
-    "price": 282,
-    "discount": "PROPVATOR",
-    "size": 100,
-    "steps": "3 Step",
-    "profitSplit": "90%",
-    "profitTarget": "6% | 6% | 6%",
-    "maxDrawDown": "8%",
-    "dailyDrawDown": "4%",
-    "commission": 4,
-    "leverage": 100,
-    "rating": "4.5",
-    "credits": 7,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": false,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": true,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": true,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": false,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": false,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "Quant Tekel",
-    "firmPath": "quant-tekel",
-    "logo": "/Images/brands/QuantTekel.svg",
-    "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
-    "salePrice": 995,
-    "price": 497.5,
-    "discount": "PROPVATOR",
-    "size": 200,
-    "steps": "3 Step",
-    "profitSplit": "90%",
-    "profitTarget": "6% | 6% | 6%",
-    "maxDrawDown": "8%",
-    "dailyDrawDown": "4%",
-    "commission": 4,
-    "leverage": 100,
-    "rating": "4.5",
-    "credits": 12,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": false,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": true,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": true,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": false,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": false,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
+        "own broker": false
       }
     }
   }
