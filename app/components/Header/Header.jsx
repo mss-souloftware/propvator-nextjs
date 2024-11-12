@@ -19,14 +19,15 @@ export default function Header() {
         <div
           className={`${styles.header} flex justify-start items-center rounded-xl relative`}
         >
+          
           <Logo demo={true} />
 
           <div className="relative ml-5 pr-2">
             <button
               onClick={toggleDropdown}
-              className="relative md:px-4 md:py-2 border border-[#fff] text-white rounded-md flex items-center"
+              className="relative px-2 py-1 md:px-4 md:text-[16px] text-[14px] md:py-2 border border-[#fff] text-white rounded-md flex items-center"
             >
-              Prop Firms{" "}
+              <span className="text-nowrap">Prop Firms</span>
               <svg
               className="ml-2"
                 fill="#fff"

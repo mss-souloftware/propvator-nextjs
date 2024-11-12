@@ -16,12 +16,12 @@ body {
   margin-left: -60px;
 }
 
-.bgCoverFilter:hover {
-  background: linear-gradient(
-    135deg,
-    rgb(125, 227, 250) 16%,
-    rgb(51, 59, 255) 74%
-  ) !important;
+@media(min-width:600px) {
+  .bgCoverFilter:hover {
+    background: linear-gradient(135deg,
+        rgb(125, 227, 250) 16%,
+        rgb(51, 59, 255) 74%) !important;
+  }
 }
 
 .data--table {
@@ -295,23 +295,17 @@ body {
   bottom: 0;
   width: 98px;
   height: 100%;
-  background: -o-linear-gradient(
-    right,
-    rgba(3, 59, 255, 0.75) -25.35%,
-    rgba(115, 115, 115, 0) 69.97%
-  );
-  background: -webkit-gradient(
-    linear,
-    right top,
-    left top,
-    color-stop(-25.35%, rgba(3, 59, 255, 0.75)),
-    color-stop(69.97%, rgba(115, 115, 115, 0))
-  );
-  background: linear-gradient(
-    270deg,
-    rgba(3, 59, 255, 0.75) -25.35%,
-    rgba(115, 115, 115, 0) 69.97%
-  );
+  background: -o-linear-gradient(right,
+      rgba(3, 59, 255, 0.75) -25.35%,
+      rgba(115, 115, 115, 0) 69.97%);
+  background: -webkit-gradient(linear,
+      right top,
+      left top,
+      color-stop(-25.35%, rgba(3, 59, 255, 0.75)),
+      color-stop(69.97%, rgba(115, 115, 115, 0)));
+  background: linear-gradient(270deg,
+      rgba(3, 59, 255, 0.75) -25.35%,
+      rgba(115, 115, 115, 0) 69.97%);
   z-index: 0;
 }
 
@@ -419,6 +413,7 @@ body {
 }
 
 @media (max-width: 991px) {
+
   /* the slides */
   .slick-slide {
     margin-left: 30px;
@@ -431,6 +426,7 @@ body {
 }
 
 @media (max-width: 991px) {
+
   /* the slides */
   .slick-slide {
     margin-left: 20px;

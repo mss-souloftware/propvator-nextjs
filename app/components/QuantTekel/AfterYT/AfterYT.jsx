@@ -128,7 +128,7 @@ export default function AfterYT() {
           offer the following account sizes for all these types: $10,000,
           $25,000, $50,000, $100,000, and $200,000.
         </p>
-
+        <br></br>
         <p className="text-white mb-3">
           <b>1 Step Account:</b>
         </p>
@@ -148,7 +148,7 @@ export default function AfterYT() {
         <p className="text-white mb-3">
           <b>Profit Split: </b> 90%
         </p>
-
+        <br></br>
         <p className="text-white mb-3">
           <b>2 Step Account:</b>
         </p>
@@ -168,7 +168,7 @@ export default function AfterYT() {
         <p className="text-white mb-3">
           <b>Max Drawdown: </b>10%
         </p>
-
+        <br></br>
         <p className="text-white mb-3">
           <b>3 Step Account:</b>
         </p>

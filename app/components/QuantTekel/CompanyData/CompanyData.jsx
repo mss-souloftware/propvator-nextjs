@@ -180,7 +180,7 @@ export default function CompanyData() {
                       stroke-linecap="round"
                       stroke-linejoin="round"
                     />
-                  </svg>s
+                  </svg>
                 </span>
               </li>
             </ul>

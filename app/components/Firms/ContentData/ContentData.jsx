@@ -107,31 +107,31 @@ export default function ContentData() {
           <button
             onClick={() =>
               setSelectedStep((prevStep) =>
-                prevStep.includes("2 Steps")
-                  ? prevStep.filter((step) => step !== "2 Steps")
-                  : [...prevStep, "2 Steps"]
+                prevStep.includes("2 Step")
+                  ? prevStep.filter((step) => step !== "2 Step")
+                  : [...prevStep, "2 Step"]
               )
             }
             className={`${filterStyle.filterStepButton} ${
-              selectedStep.includes("2 Steps") ? "bg-[#3338D3]" : ""
+              selectedStep.includes("2 Step") ? "bg-[#3338D3]" : ""
             }`}
           >
-            2 Steps
+            2 Step
           </button>
 
           <button
             onClick={() =>
               setSelectedStep((prevStep) =>
-                prevStep.includes("3 Steps")
-                  ? prevStep.filter((step) => step !== "3 Steps")
-                  : [...prevStep, "3 Steps"]
+                prevStep.includes("3 Step")
+                  ? prevStep.filter((step) => step !== "3 Step")
+                  : [...prevStep, "3 Step"]
               )
             }
             className={`${filterStyle.filterStepButton} ${
-              selectedStep.includes("3 Steps") ? "bg-[#3338D3]" : ""
+              selectedStep.includes("3 Step") ? "bg-[#3338D3]" : ""
             }`}
           >
-            3 Steps
+            3 Step
           </button>
         </div>
         <div className="table--wrapper">

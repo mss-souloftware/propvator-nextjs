@@ -38,10 +38,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -95,7 +95,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -109,13 +109,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -162,9 +162,9 @@
         "forex": true,
         "futures": false,
         "stocks": false,
-        "crypto": false,
-        "indices": false,
-        "commodities": false
+        "crypto": true,
+        "indices": true,
+        "commodities": true
       },
       "countries": {
         "usa": true,
@@ -232,7 +232,7 @@
         "stocks": false,
         "crypto": false,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": true,
@@ -249,8 +249,8 @@
         "3 Step": true
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": false,
         "tradelocker": false,
@@ -279,7 +279,7 @@
     "firmPath": "quant-tekel",
     "logo": "/Images/brands/QuantTekel.svg",
     "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
+    "calcPrice": "-50%",
     "salePrice": 226,
     "price": 113,
     "discount": "PROPVATOR",
@@ -379,10 +379,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -453,8 +453,8 @@
         "3 Step": false
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": true,
         "tradelocker": false,
@@ -515,10 +515,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -572,7 +572,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -586,13 +586,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -651,10 +651,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -708,7 +708,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -722,13 +722,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -787,10 +787,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -861,8 +861,8 @@
         "3 Step": false
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": true,
         "tradelocker": false,
@@ -912,7 +912,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -926,13 +926,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -991,10 +991,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -1065,8 +1065,8 @@
         "3 Step": false
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": true,
         "tradelocker": false,
@@ -1116,7 +1116,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -1130,13 +1130,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -1163,7 +1163,7 @@
     "firmPath": "quant-tekel",
     "logo": "/Images/brands/QuantTekel.svg",
     "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
+    "calcPrice": "-50%",
     "salePrice": 564,
     "price": 282,
     "discount": "PROPVATOR",
@@ -1252,7 +1252,7 @@
         "stocks": false,
         "crypto": false,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": true,
@@ -1269,8 +1269,8 @@
         "3 Step": true
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": false,
         "tradelocker": false,
@@ -1337,8 +1337,8 @@
         "3 Step": false
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": true,
         "tradelocker": false,
@@ -1387,9 +1387,9 @@
         "forex": true,
         "futures": false,
         "stocks": false,
-        "crypto": false,
-        "indices": false,
-        "commodities": false
+        "crypto": true,
+        "indices": true,
+        "commodities": true
       },
       "countries": {
         "usa": true,
@@ -1468,10 +1468,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -1525,7 +1525,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -1539,13 +1539,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -1593,7 +1593,7 @@
         "stocks": false,
         "crypto": false,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": true,
@@ -1610,8 +1610,8 @@
         "3 Step": true
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": false,
         "tradelocker": false,
@@ -1672,10 +1672,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -1746,8 +1746,8 @@
         "3 Step": false
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": true,
         "tradelocker": false,
@@ -1797,7 +1797,7 @@
         "stocks": false,
         "crypto": false,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": true,
@@ -1814,8 +1814,8 @@
         "3 Step": true
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": false,
         "tradelocker": false,
@@ -1876,10 +1876,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -1933,7 +1933,7 @@
         "stocks": false,
         "crypto": false,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": true,
@@ -1950,8 +1950,8 @@
         "3 Step": true
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": false,
         "tradelocker": false,
@@ -2012,10 +2012,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -2086,8 +2086,8 @@
         "3 Step": false
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": true,
         "tradelocker": false,
@@ -2137,7 +2137,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -2151,13 +2151,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -2205,7 +2205,7 @@
         "stocks": false,
         "crypto": false,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": true,
@@ -2222,8 +2222,8 @@
         "3 Step": true
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": false,
         "tradelocker": false,
@@ -2290,8 +2290,8 @@
         "3 Step": false
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": true,
         "tradelocker": false,
@@ -2320,7 +2320,7 @@
     "firmPath": "quant-tekel",
     "logo": "/Images/brands/QuantTekel.svg",
     "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
+    "calcPrice": "-50%",
     "salePrice": 280,
     "price": 140,
     "discount": "PROPVATOR",
@@ -2420,10 +2420,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -2477,7 +2477,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -2491,13 +2491,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -2556,10 +2556,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -2613,7 +2613,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -2627,13 +2627,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -2681,7 +2681,7 @@
         "stocks": false,
         "crypto": false,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": true,
@@ -2698,8 +2698,8 @@
         "3 Step": true
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": false,
         "tradelocker": false,
@@ -2821,10 +2821,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -2878,7 +2878,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -2892,13 +2892,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -2963,8 +2963,8 @@
         "3 Step": false
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": true,
         "tradelocker": false,
@@ -3014,7 +3014,7 @@
         "stocks": false,
         "crypto": false,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": true,
@@ -3031,8 +3031,8 @@
         "3 Step": true
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": false,
         "tradelocker": false,
@@ -3099,8 +3099,8 @@
         "3 Step": false
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": true,
         "tradelocker": false,
@@ -3149,9 +3149,9 @@
         "forex": true,
         "futures": false,
         "stocks": false,
-        "crypto": false,
-        "indices": false,
-        "commodities": false
+        "crypto": true,
+        "indices": true,
+        "commodities": true
       },
       "countries": {
         "usa": true,
@@ -3219,7 +3219,7 @@
         "stocks": false,
         "crypto": false,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": true,
@@ -3236,8 +3236,8 @@
         "3 Step": true
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": false,
         "tradelocker": false,
@@ -3287,7 +3287,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -3301,13 +3301,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -3366,10 +3366,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -3423,7 +3423,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -3437,13 +3437,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -3502,10 +3502,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -3538,7 +3538,7 @@
     "firmPath": "quant-tekel",
     "logo": "/Images/brands/QuantTekel.svg",
     "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
+    "calcPrice": "-50%",
     "salePrice": 425,
     "price": 212.5,
     "discount": "PROPVATOR",
@@ -3644,8 +3644,8 @@
         "3 Step": false
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": true,
         "tradelocker": false,
@@ -3695,7 +3695,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -3709,13 +3709,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -3742,7 +3742,7 @@
     "firmPath": "quant-tekel",
     "logo": "/Images/brands/QuantTekel.svg",
     "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
+    "calcPrice": "-50%",
     "salePrice": 140,
     "price": 70,
     "discount": "PROPVATOR",
@@ -3842,10 +3842,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -3878,7 +3878,7 @@
     "firmPath": "quant-tekel",
     "logo": "/Images/brands/QuantTekel.svg",
     "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
+    "calcPrice": "-50%",
     "salePrice": 345,
     "price": 172.5,
     "discount": "PROPVATOR",
@@ -3984,8 +3984,8 @@
         "3 Step": false
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": true,
         "tradelocker": false,
@@ -4035,7 +4035,7 @@
         "stocks": false,
         "crypto": false,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": true,
@@ -4052,8 +4052,8 @@
         "3 Step": true
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": false,
         "tradelocker": false,
@@ -4082,7 +4082,7 @@
     "firmPath": "quant-tekel",
     "logo": "/Images/brands/QuantTekel.svg",
     "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
+    "calcPrice": "-50%",
     "salePrice": 995,
     "price": 497.5,
     "discount": "PROPVATOR",
@@ -4188,8 +4188,8 @@
         "3 Step": false
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": true,
         "tradelocker": false,
@@ -4218,7 +4218,7 @@
     "firmPath": "quant-tekel",
     "logo": "/Images/brands/QuantTekel.svg",
     "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
+    "calcPrice": "-50%",
     "salePrice": 720,
     "price": 360,
     "discount": "PROPVATOR",
@@ -4318,10 +4318,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -4375,7 +4375,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -4389,13 +4389,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -4443,7 +4443,7 @@
         "stocks": false,
         "crypto": false,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": true,
@@ -4460,8 +4460,8 @@
         "3 Step": true
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": false,
         "tradelocker": false,
@@ -4528,8 +4528,8 @@
         "3 Step": false
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": true,
         "tradelocker": false,
@@ -4578,9 +4578,9 @@
         "forex": true,
         "futures": false,
         "stocks": false,
-        "crypto": false,
-        "indices": false,
-        "commodities": false
+        "crypto": true,
+        "indices": true,
+        "commodities": true
       },
       "countries": {
         "usa": true,
@@ -4665,8 +4665,8 @@
         "3 Step": false
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": true,
         "tradelocker": false,
@@ -4716,7 +4716,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -4730,13 +4730,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -4763,7 +4763,7 @@
     "firmPath": "quant-tekel",
     "logo": "/Images/brands/QuantTekel.svg",
     "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
+    "calcPrice": "-50%",
     "salePrice": 1341,
     "price": 670.5,
     "discount": "PROPVATOR",
@@ -4852,7 +4852,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -4866,13 +4866,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -4899,7 +4899,7 @@
     "firmPath": "quant-tekel",
     "logo": "/Images/brands/QuantTekel.svg",
     "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
+    "calcPrice": "-50%",
     "salePrice": 400,
     "price": 200,
     "discount": "PROPVATOR",
@@ -4988,7 +4988,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -5002,13 +5002,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -5056,7 +5056,7 @@
         "stocks": false,
         "crypto": false,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": true,
@@ -5073,8 +5073,8 @@
         "3 Step": true
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": false,
         "tradelocker": false,
@@ -5103,7 +5103,7 @@
     "firmPath": "quant-tekel",
     "logo": "/Images/brands/QuantTekel.svg",
     "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
+    "calcPrice": "-50%",
     "salePrice": 298,
     "price": 149,
     "discount": "PROPVATOR",
@@ -5209,8 +5209,8 @@
         "3 Step": false
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": true,
         "tradelocker": false,
@@ -5260,7 +5260,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -5274,13 +5274,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -5345,8 +5345,8 @@
         "3 Step": false
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": true,
         "tradelocker": false,
@@ -5396,7 +5396,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -5410,13 +5410,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -5463,9 +5463,9 @@
         "forex": true,
         "futures": false,
         "stocks": false,
-        "crypto": false,
-        "indices": false,
-        "commodities": false
+        "crypto": true,
+        "indices": true,
+        "commodities": true
       },
       "countries": {
         "usa": true,
@@ -5512,7 +5512,7 @@
     "firmPath": "quant-tekel",
     "logo": "/Images/brands/QuantTekel.svg",
     "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
+    "calcPrice": "-50%",
     "salePrice": 101,
     "price": 50.5,
     "discount": "PROPVATOR",
@@ -5618,8 +5618,8 @@
         "3 Step": false
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": true,
         "tradelocker": false,
@@ -5669,7 +5669,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -5683,13 +5683,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -5716,7 +5716,7 @@
     "firmPath": "quant-tekel",
     "logo": "/Images/brands/QuantTekel.svg",
     "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
+    "calcPrice": "-50%",
     "salePrice": 1200,
     "price": 600,
     "discount": "PROPVATOR",
@@ -5822,8 +5822,8 @@
         "3 Step": false
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": true,
         "tradelocker": false,
@@ -5852,7 +5852,7 @@
     "firmPath": "quant-tekel",
     "logo": "/Images/brands/QuantTekel.svg",
     "buy": "https://prop.quanttekel.com/sign-up?ref=VXV0Yit0WE9uQ1daQjRQNVVEV2xVZz09",
-    "calcPrice": "10%",
+    "calcPrice": "-50%",
     "salePrice": 700,
     "price": 350,
     "discount": "PROPVATOR",
@@ -5941,7 +5941,7 @@
         "stocks": false,
         "crypto": false,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": true,
@@ -5958,8 +5958,8 @@
         "3 Step": true
       },
       "platforms": {
-        "mt4": false,
-        "mt5": false,
+        "mt4": true,
+        "mt5": true,
         "ctrader": true,
         "dxtrade": false,
         "tradelocker": false,
@@ -6009,7 +6009,7 @@
         "stocks": true,
         "crypto": true,
         "indices": true,
-        "commodities": false
+        "commodities": true
       },
       "countries": {
         "usa": false,
@@ -6023,13 +6023,13 @@
         "instant": false,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": true,
         "mt5": true,
         "ctrader": false,
-        "dxtrade": false,
+        "dxtrade": true,
         "tradelocker": false,
         "match trader": false
       },
@@ -6088,10 +6088,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -6156,10 +6156,10 @@
         "dubai": true
       },
       "accountTypes": {
-        "instant": false,
+        "instant": true,
         "1 step": true,
         "2 Step": true,
-        "3 Step": false
+        "3 Step": true
       },
       "platforms": {
         "mt4": false,
@@ -6185,12 +6185,6 @@
       }
     }
   },
- 
-
-  
- 
-  
-
   {
     "verified": false,
     "singleFirm": false,

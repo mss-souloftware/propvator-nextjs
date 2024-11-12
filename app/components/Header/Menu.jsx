@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Menu() {
   return (
-    <div className="absolute top-full mt-2 w-56 bg-[#22108F] border border-[#5C96CF] shadow-md rounded-md">
+    <div className="absolute right-3 md:right-0 top-full mt-4 md:mt-2 w-56 bg-[#22108F] border border-[#5C96CF] shadow-md rounded-md">
       <ul className="py-2">
         <li className="px-4 py-2 hover:bg-[#3B82F6] text-white cursor-pointer">
           <Link className="flex items-center" href="/fxify/">
