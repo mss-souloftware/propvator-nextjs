@@ -67,74 +67,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 399,
-    "price": 359,
-    "discount": "PROPVATOR",
-    "size": 100,
-    "steps": "3 Step",
-    "profitSplit": "75%",
-    "profitTarget": "5%",
-    "maxDrawDown": "5%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 9,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": false,
@@ -544,74 +477,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 1999,
-    "price": 1799,
-    "discount": "PROPVATOR",
-    "size": 400,
-    "steps": "2 Step",
-    "profitSplit": "75%",
-    "profitTarget": "10%",
-    "maxDrawDown": "10%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 45,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": false,
@@ -680,74 +546,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 1999,
-    "price": 1799,
-    "discount": "PROPVATOR",
-    "size": 400,
-    "steps": "1 Step",
-    "profitSplit": "75%",
-    "profitTarget": "10%",
-    "maxDrawDown": "6%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 45,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": false,
@@ -884,74 +683,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 115,
-    "price": 104,
-    "discount": "PROPVATOR",
-    "size": 15,
-    "steps": "1 Step",
-    "profitSplit": "75%",
-    "profitTarget": "10%",
-    "maxDrawDown": "6%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 3,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": false,
@@ -1088,74 +820,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 85,
-    "price": 77,
-    "discount": "PROPVATOR",
-    "size": 10,
-    "steps": "1 Step",
-    "profitSplit": "75%",
-    "profitTarget": "10%",
-    "maxDrawDown": "6%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 2,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": true,
@@ -1497,74 +1162,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 85,
-    "price": 77,
-    "discount": "PROPVATOR",
-    "size": 10,
-    "steps": "2 Step",
-    "profitSplit": "75%",
-    "profitTarget": "10%",
-    "maxDrawDown": "10%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 2,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": false,
@@ -2109,74 +1707,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 1599,
-    "price": 1439,
-    "discount": "PROPVATOR",
-    "size": 400,
-    "steps": "3 Step",
-    "profitSplit": "75%",
-    "profitTarget": "5%",
-    "maxDrawDown": "5%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 36,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": false,
@@ -2449,74 +1980,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 115,
-    "price": 104,
-    "discount": "PROPVATOR",
-    "size": 15,
-    "steps": "2 Step",
-    "profitSplit": "75%",
-    "profitTarget": "10%",
-    "maxDrawDown": "10%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 3,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": false,
@@ -2585,74 +2049,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 79,
-    "price": 71,
-    "discount": "PROPVATOR",
-    "size": 15,
-    "steps": "3 Step",
-    "profitSplit": "75%",
-    "profitTarget": "5%",
-    "maxDrawDown": "5%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 2,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": false,
@@ -2850,74 +2247,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 199,
-    "price": 179,
-    "discount": "PROPVATOR",
-    "size": 25,
-    "steps": "1 Step",
-    "profitSplit": "75%",
-    "profitTarget": "10%",
-    "maxDrawDown": "6%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 4,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": false,
@@ -3259,74 +2589,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 799,
-    "price": 719,
-    "discount": "PROPVATOR",
-    "size": 200,
-    "steps": "3 Step",
-    "profitSplit": "75%",
-    "profitTarget": "5%",
-    "maxDrawDown": "5%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 18,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": false,
@@ -3395,74 +2658,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 149,
-    "price": 134,
-    "discount": "PROPVATOR",
-    "size": 25,
-    "steps": "3 Step",
-    "profitSplit": "75%",
-    "profitTarget": "5%",
-    "maxDrawDown": "5%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 3,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": false,
@@ -3667,74 +2863,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 249,
-    "price": 224,
-    "discount": "PROPVATOR",
-    "size": 50,
-    "steps": "3 Step",
-    "profitSplit": "75%",
-    "profitTarget": "5%",
-    "maxDrawDown": "5%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 6,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": true,
@@ -4347,74 +3476,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 499,
-    "price": 449,
-    "discount": "PROPVATOR",
-    "size": 100,
-    "steps": "1 Step",
-    "profitSplit": "75%",
-    "profitTarget": "10%",
-    "maxDrawDown": "6%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 11,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": false,
@@ -4688,74 +3750,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 375,
-    "price": 338,
-    "discount": "PROPVATOR",
-    "size": 50,
-    "steps": "1 Step",
-    "profitSplit": "75%",
-    "profitTarget": "10%",
-    "maxDrawDown": "6%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 8,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": true,
@@ -4824,74 +3819,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 999,
-    "price": 899,
-    "discount": "PROPVATOR",
-    "size": 200,
-    "steps": "1 Step",
-    "profitSplit": "75%",
-    "profitTarget": "10%",
-    "maxDrawDown": "6%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 22,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": true,
@@ -4960,74 +3888,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 999,
-    "price": 899,
-    "discount": "PROPVATOR",
-    "size": 200,
-    "steps": "2 Step",
-    "profitSplit": "75%",
-    "profitTarget": "10%",
-    "maxDrawDown": "10%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 22,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": false,
@@ -5232,74 +4093,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 499,
-    "price": 449,
-    "discount": "PROPVATOR",
-    "size": 100,
-    "steps": "2 Step",
-    "profitSplit": "75%",
-    "profitTarget": "10%",
-    "maxDrawDown": "10%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 11,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": false,
@@ -5368,74 +4162,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 375,
-    "price": 338,
-    "discount": "PROPVATOR",
-    "size": 50,
-    "steps": "2 Step",
-    "profitSplit": "75%",
-    "profitTarget": "10%",
-    "maxDrawDown": "10%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 8,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": false,
@@ -5641,74 +4368,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 59,
-    "price": 53,
-    "discount": "PROPVATOR",
-    "size": 10,
-    "steps": "3 Step",
-    "profitSplit": "75%",
-    "profitTarget": "5%",
-    "maxDrawDown": "5%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 1,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": true,
@@ -5981,74 +4641,7 @@
       }
     }
   },
-  {
-    "verified": true,
-    "singleFirm": true,
-    "firm": "FXIFY",
-    "firmPath": "fxify",
-    "logo": "/Images/brands/FXIFY.svg",
-    "buy": "https://trader.fxify.com/purchasechallenge?affiliateId=4387",
-    "calcPrice": "-10%",
-    "salePrice": 199,
-    "price": 179,
-    "discount": "PROPVATOR",
-    "size": 25,
-    "steps": "2 Step",
-    "profitSplit": "75%",
-    "profitTarget": "10%",
-    "maxDrawDown": "10%",
-    "dailyDrawDown": "5%",
-    "commission": 0,
-    "leverage": 30,
-    "rating": "4.4",
-    "credits": 4,
-    "filterType": {
-      "assetType": {
-        "forex": true,
-        "futures": false,
-        "stocks": true,
-        "crypto": true,
-        "indices": true,
-        "commodities": true
-      },
-      "countries": {
-        "usa": false,
-        "pakistan": false,
-        "nigeria": true,
-        "iran": false,
-        "turkiye": true,
-        "dubai": true
-      },
-      "accountTypes": {
-        "instant": false,
-        "1 step": true,
-        "2 Step": true,
-        "3 Step": true
-      },
-      "platforms": {
-        "mt4": true,
-        "mt5": true,
-        "ctrader": false,
-        "dxtrade": true,
-        "tradelocker": false,
-        "match trader": false
-      },
-      "broker": {
-        "think markets": false,
-        "purple trading": false,
-        "virtual markets": false,
-        "capital markets": false,
-        "match trade": false,
-        "finesse fx": false,
-        "taurex": false,
-        "fxpig": true,
-        "fxflat": false,
-        "gbe brokers": false,
-        "cbt limited": false,
-        "own broker": true
-      }
-    }
-  },
+  
   {
     "verified": true,
     "singleFirm": false,
