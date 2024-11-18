@@ -177,7 +177,7 @@ export default function FeatureTable({ filter, data, setData }) {
             item.credits <= filter.rangeSlider.credits[1]
         );
 
-        console.log("filteredData", filteredData);
+        // console.log("filteredData", filteredData);
         setData(filteredData);
       }
     };

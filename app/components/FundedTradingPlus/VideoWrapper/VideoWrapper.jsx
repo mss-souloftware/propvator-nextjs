@@ -7,7 +7,7 @@ export default function VideoWrapper() {
       <div className={`${styles.iframeHeight} w-full max-w-5xl mx-auto my-8`}>
         <iframe
           className="w-full h-full rounded-lg"
-          src="https://www.youtube.com/embed/UvIb9rq-eBo?si=QcVtyjJO33qp4M9L"
+          src="https://www.youtube.com/embed/IgHUCL_RYCg?si=5oD8b2BFOVAd2h_S"
           title="YouTube video player"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

@@ -33,7 +33,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -67,7 +67,73 @@
       }
     }
   },
-  
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Alpha Futures",
+    "logo": "/Images/brands/alphaFutures.svg",
+    "buy": "https://app.alpha-futures.com/signup/Amirabbas000572/",
+    "calcPrice": "-15%",
+    "salePrice": 139,
+    "price": 111.2,
+    "discount": "PROPVATOR",
+    "size": 50,
+    "steps": "1 Step",
+    "profitSplit": "90%",
+    "profitTarget": "8%",
+    "maxDrawDown": "3.50%",
+    "dailyDrawDown": "2%",
+    "commission": 0,
+    "leverage": "",
+    "rating": "4.6",
+    "credits": 3,
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": true,
+        "stocks": false,
+        "crypto": false,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": false,
+        "iran": false,
+        "turkiye": false,
+        "dubai": true
+      },
+      "accountTypes": {
+        "instant": false,
+        "1 step": true,
+        "2 Step": false,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "virtual markets": false,
+        "capital markets": false,
+        "match trade": false,
+        "finesse fx": false,
+        "taurex": false,
+        "fxpig": false,
+        "fxflat": false,
+        "gbe brokers": false,
+        "cbt limited": false,
+        "own broker": false
+      }
+    }
+  },
   {
     "verified": true,
     "singleFirm": false,
@@ -100,10 +166,10 @@
         "commodities": true
       },
       "countries": {
-        "usa": true,
+        "usa": false,
         "pakistan": true,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -167,11 +233,11 @@
         "indices": true,
         "commodities": true
       },
-      "countries": {
+       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -307,7 +373,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -344,6 +410,73 @@
   {
     "verified": true,
     "singleFirm": false,
+    "firm": "Alpha Futures",
+    "logo": "/Images/brands/alphaFutures.svg",
+    "buy": "https://app.alpha-futures.com/signup/Amirabbas000572/",
+    "calcPrice": "-15%",
+    "salePrice": 79,
+    "price": 63.2,
+    "discount": "PROPVATOR",
+    "size": 50,
+    "steps": "1 Step",
+    "profitSplit": "70%",
+    "profitTarget": "6%",
+    "maxDrawDown": "4%",
+    "dailyDrawDown": "2%",
+    "commission": 0,
+    "leverage": "",
+    "rating": "4.6",
+    "credits": 2,
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": true,
+        "stocks": false,
+        "crypto": false,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": false,
+        "iran": false,
+        "turkiye": false,
+        "dubai": true
+      },
+      "accountTypes": {
+        "instant": false,
+        "1 step": true,
+        "2 Step": false,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "virtual markets": false,
+        "capital markets": false,
+        "match trade": false,
+        "finesse fx": false,
+        "taurex": false,
+        "fxpig": false,
+        "fxflat": false,
+        "gbe brokers": false,
+        "cbt limited": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
     "firm": "Funded Trading Plus",
     "firmPath": "funded-trading-plus",
     "logo": "/Images/brands/fundedTradingPlus.svg",
@@ -372,7 +505,7 @@
         "commodities": true
       },
       "countries": {
-        "usa": false,
+        "usa": true,
         "pakistan": true,
         "nigeria": true,
         "iran": true,
@@ -443,7 +576,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -477,7 +610,6 @@
       }
     }
   },
-  
   {
     "verified": true,
     "singleFirm": false,
@@ -512,7 +644,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -546,7 +678,73 @@
       }
     }
   },
-  
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Alpha Futures",
+    "logo": "/Images/brands/alphaFutures.svg",
+    "buy": "https://app.alpha-futures.com/signup/Amirabbas000572/",
+    "calcPrice": "-15%",
+    "salePrice": 279,
+    "price": 223.2,
+    "discount": "PROPVATOR",
+    "size": 100,
+    "steps": "1 Step",
+    "profitSplit": "90%",
+    "profitTarget": "8%",
+    "maxDrawDown": "3.50%",
+    "dailyDrawDown": "2%",
+    "commission": 0,
+    "leverage": "",
+    "rating": "4.6",
+    "credits": 6,
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": true,
+        "stocks": false,
+        "crypto": false,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": false,
+        "iran": false,
+        "turkiye": false,
+        "dubai": true
+      },
+      "accountTypes": {
+        "instant": false,
+        "1 step": true,
+        "2 Step": false,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "virtual markets": false,
+        "capital markets": false,
+        "match trade": false,
+        "finesse fx": false,
+        "taurex": false,
+        "fxpig": false,
+        "fxflat": false,
+        "gbe brokers": false,
+        "cbt limited": false,
+        "own broker": false
+      }
+    }
+  },
   {
     "verified": true,
     "singleFirm": false,
@@ -581,7 +779,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -646,7 +844,7 @@
         "commodities": true
       },
       "countries": {
-        "usa": false,
+        "usa": true,
         "pakistan": true,
         "nigeria": true,
         "iran": true,
@@ -683,7 +881,7 @@
       }
     }
   },
-  
+
   {
     "verified": true,
     "singleFirm": false,
@@ -718,7 +916,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -749,6 +947,74 @@
         "gbe brokers": false,
         "cbt limited": false,
         "own broker": true
+      }
+    }
+  },
+
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Alpha Futures",
+    "logo": "/Images/brands/alphaFutures.svg",
+    "buy": "https://app.alpha-futures.com/signup/Amirabbas000572/",
+    "calcPrice": "-15%",
+    "salePrice": 239,
+    "price": 191.2,
+    "discount": "PROPVATOR",
+    "size": 150,
+    "steps": "1 Step",
+    "profitSplit": "70%",
+    "profitTarget": "6%",
+    "maxDrawDown": "4%",
+    "dailyDrawDown": "2%",
+    "commission": 0,
+    "leverage": "",
+    "rating": "4.6",
+    "credits": 5,
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": true,
+        "stocks": false,
+        "crypto": false,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": false,
+        "iran": false,
+        "turkiye": false,
+        "dubai": true
+      },
+      "accountTypes": {
+        "instant": false,
+        "1 step": true,
+        "2 Step": false,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "virtual markets": false,
+        "capital markets": false,
+        "match trade": false,
+        "finesse fx": false,
+        "taurex": false,
+        "fxpig": false,
+        "fxflat": false,
+        "gbe brokers": false,
+        "cbt limited": false,
+        "own broker": false
       }
     }
   },
@@ -783,7 +1049,7 @@
         "commodities": true
       },
       "countries": {
-        "usa": false,
+        "usa": true,
         "pakistan": true,
         "nigeria": true,
         "iran": true,
@@ -820,7 +1086,7 @@
       }
     }
   },
-  
+
   {
     "verified": true,
     "singleFirm": true,
@@ -892,6 +1158,73 @@
   {
     "verified": true,
     "singleFirm": false,
+    "firm": "Alpha Futures",
+    "logo": "/Images/brands/alphaFutures.svg",
+    "buy": "https://app.alpha-futures.com/signup/Amirabbas000572/",
+    "calcPrice": "-15%",
+    "salePrice": 419,
+    "price": 335.2,
+    "discount": "PROPVATOR",
+    "size": 150,
+    "steps": "1 Step",
+    "profitSplit": "90%",
+    "profitTarget": "8%",
+    "maxDrawDown": "3.50%",
+    "dailyDrawDown": "2%",
+    "commission": 0,
+    "leverage": "",
+    "rating": "4.6",
+    "credits": 8,
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": true,
+        "stocks": false,
+        "crypto": false,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": false,
+        "iran": false,
+        "turkiye": false,
+        "dubai": true
+      },
+      "accountTypes": {
+        "instant": false,
+        "1 step": true,
+        "2 Step": false,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "virtual markets": false,
+        "capital markets": false,
+        "match trade": false,
+        "finesse fx": false,
+        "taurex": false,
+        "fxpig": false,
+        "fxflat": false,
+        "gbe brokers": false,
+        "cbt limited": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
     "firm": "Fintokei",
     "firmPath": "fintokei",
     "logo": "/Images/brands/fintokei.svg",
@@ -919,11 +1252,11 @@
         "indices": true,
         "commodities": true
       },
-      "countries": {
+       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -988,7 +1321,7 @@
         "commodities": true
       },
       "countries": {
-        "usa": false,
+        "usa": true,
         "pakistan": true,
         "nigeria": true,
         "iran": true,
@@ -1057,10 +1390,10 @@
         "commodities": true
       },
       "countries": {
-        "usa": true,
+        "usa": false,
         "pakistan": true,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -1097,6 +1430,74 @@
   {
     "verified": true,
     "singleFirm": false,
+    "firm": "Alpha Futures",
+    "logo": "/Images/brands/alphaFutures.svg",
+    "buy": "https://app.alpha-futures.com/signup/Amirabbas000572/",
+    "calcPrice": "-15%",
+    "salePrice": 159,
+    "price": 127.2,
+    "discount": "PROPVATOR",
+    "size": 100,
+    "steps": "1 Step",
+    "profitSplit": "70%",
+    "profitTarget": "6%",
+    "maxDrawDown": "4%",
+    "dailyDrawDown": "2%",
+    "commission": 0,
+    "leverage": "",
+    "rating": "4.6",
+    "credits": 3,
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": true,
+        "stocks": false,
+        "crypto": false,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": false,
+        "iran": false,
+        "turkiye": false,
+        "dubai": true
+      },
+      "accountTypes": {
+        "instant": false,
+        "1 step": true,
+        "2 Step": false,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "virtual markets": false,
+        "capital markets": false,
+        "match trade": false,
+        "finesse fx": false,
+        "taurex": false,
+        "fxpig": false,
+        "fxflat": false,
+        "gbe brokers": false,
+        "cbt limited": false,
+        "own broker": false
+      }
+    }
+  },
+
+  {
+    "verified": true,
+    "singleFirm": false,
     "firm": "Instant Funding",
     "firmPath": "instant-funding",
     "logo": "/Images/brands/instantFunding.svg",
@@ -1128,7 +1529,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -1162,7 +1563,7 @@
       }
     }
   },
-  
+
   {
     "verified": true,
     "singleFirm": false,
@@ -1193,11 +1594,11 @@
         "indices": true,
         "commodities": true
       },
-      "countries": {
+       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -1265,7 +1666,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -1330,7 +1731,7 @@
         "commodities": true
       },
       "countries": {
-        "usa": false,
+        "usa": true,
         "pakistan": true,
         "nigeria": true,
         "iran": true,
@@ -1397,11 +1798,11 @@
         "indices": true,
         "commodities": true
       },
-      "countries": {
+       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -1469,7 +1870,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -1533,11 +1934,11 @@
         "indices": true,
         "commodities": true
       },
-      "countries": {
+       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -1605,7 +2006,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -1670,7 +2071,7 @@
         "commodities": true
       },
       "countries": {
-        "usa": false,
+        "usa": true,
         "pakistan": true,
         "nigeria": true,
         "iran": true,
@@ -1707,7 +2108,7 @@
       }
     }
   },
-  
+
   {
     "verified": true,
     "singleFirm": false,
@@ -1738,11 +2139,11 @@
         "indices": true,
         "commodities": true
       },
-      "countries": {
+       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -1807,7 +2208,7 @@
         "commodities": true
       },
       "countries": {
-        "usa": false,
+        "usa": true,
         "pakistan": true,
         "nigeria": true,
         "iran": true,
@@ -1946,7 +2347,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -1980,7 +2381,7 @@
       }
     }
   },
-  
+
   {
     "verified": true,
     "singleFirm": false,
@@ -2015,7 +2416,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -2049,7 +2450,7 @@
       }
     }
   },
-  
+
   {
     "verified": true,
     "singleFirm": false,
@@ -2080,11 +2481,11 @@
         "indices": true,
         "commodities": true
       },
-      "countries": {
+       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -2213,7 +2614,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -2247,7 +2648,7 @@
       }
     }
   },
-  
+
   {
     "verified": true,
     "singleFirm": false,
@@ -2279,7 +2680,7 @@
         "commodities": true
       },
       "countries": {
-        "usa": false,
+        "usa": true,
         "pakistan": true,
         "nigeria": true,
         "iran": true,
@@ -2346,11 +2747,11 @@
         "indices": true,
         "commodities": true
       },
-      "countries": {
+       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -2415,7 +2816,7 @@
         "commodities": true
       },
       "countries": {
-        "usa": false,
+        "usa": true,
         "pakistan": true,
         "nigeria": true,
         "iran": true,
@@ -2484,10 +2885,10 @@
         "commodities": true
       },
       "countries": {
-        "usa": true,
+        "usa": false,
         "pakistan": true,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -2551,11 +2952,11 @@
         "indices": true,
         "commodities": true
       },
-      "countries": {
+       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -2589,7 +2990,7 @@
       }
     }
   },
-  
+
   {
     "verified": true,
     "singleFirm": false,
@@ -2624,7 +3025,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -2658,7 +3059,7 @@
       }
     }
   },
-  
+
   {
     "verified": true,
     "singleFirm": false,
@@ -2693,7 +3094,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -2826,7 +3227,7 @@
         "commodities": true
       },
       "countries": {
-        "usa": false,
+        "usa": true,
         "pakistan": true,
         "nigeria": true,
         "iran": true,
@@ -2863,7 +3264,7 @@
       }
     }
   },
-  
+
   {
     "verified": true,
     "singleFirm": true,
@@ -2966,7 +3367,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -3099,7 +3500,7 @@
         "commodities": true
       },
       "countries": {
-        "usa": false,
+        "usa": true,
         "pakistan": true,
         "nigeria": true,
         "iran": true,
@@ -3166,11 +3567,11 @@
         "indices": true,
         "commodities": true
       },
-      "countries": {
+       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -3303,7 +3704,7 @@
         "commodities": true
       },
       "countries": {
-        "usa": false,
+        "usa": true,
         "pakistan": true,
         "nigeria": true,
         "iran": true,
@@ -3442,7 +3843,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -3476,7 +3877,7 @@
       }
     }
   },
-  
+
   {
     "verified": true,
     "singleFirm": false,
@@ -3507,11 +3908,11 @@
         "indices": true,
         "commodities": true
       },
-      "countries": {
+       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -3576,7 +3977,7 @@
         "commodities": true
       },
       "countries": {
-        "usa": false,
+        "usa": true,
         "pakistan": true,
         "nigeria": true,
         "iran": true,
@@ -3645,10 +4046,10 @@
         "commodities": true
       },
       "countries": {
-        "usa": true,
+        "usa": false,
         "pakistan": true,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -3713,7 +4114,7 @@
         "commodities": true
       },
       "countries": {
-        "usa": false,
+        "usa": true,
         "pakistan": true,
         "nigeria": true,
         "iran": true,
@@ -3750,7 +4151,7 @@
       }
     }
   },
-  
+
   {
     "verified": true,
     "singleFirm": true,
@@ -3819,7 +4220,7 @@
       }
     }
   },
-  
+
   {
     "verified": true,
     "singleFirm": true,
@@ -3888,7 +4289,7 @@
       }
     }
   },
-  
+
   {
     "verified": true,
     "singleFirm": false,
@@ -3919,11 +4320,11 @@
         "indices": true,
         "commodities": true
       },
-      "countries": {
+       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -4056,7 +4457,7 @@
         "commodities": true
       },
       "countries": {
-        "usa": false,
+        "usa": true,
         "pakistan": true,
         "nigeria": true,
         "iran": true,
@@ -4093,7 +4494,7 @@
       }
     }
   },
-  
+
   {
     "verified": true,
     "singleFirm": false,
@@ -4125,7 +4526,7 @@
         "commodities": true
       },
       "countries": {
-        "usa": false,
+        "usa": true,
         "pakistan": true,
         "nigeria": true,
         "iran": true,
@@ -4162,7 +4563,7 @@
       }
     }
   },
-  
+
   {
     "verified": true,
     "singleFirm": false,
@@ -4195,10 +4596,10 @@
         "commodities": true
       },
       "countries": {
-        "usa": true,
+        "usa": false,
         "pakistan": true,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -4331,7 +4732,7 @@
         "commodities": true
       },
       "countries": {
-        "usa": false,
+        "usa": true,
         "pakistan": true,
         "nigeria": true,
         "iran": true,
@@ -4368,7 +4769,7 @@
       }
     }
   },
-  
+
   {
     "verified": true,
     "singleFirm": true,
@@ -4468,7 +4869,7 @@
         "commodities": true
       },
       "countries": {
-        "usa": false,
+        "usa": true,
         "pakistan": true,
         "nigeria": true,
         "iran": true,
@@ -4603,11 +5004,11 @@
         "indices": true,
         "commodities": true
       },
-      "countries": {
+       "countries": {
         "usa": true,
-        "pakistan": false,
+        "pakistan": true,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -4641,7 +5042,7 @@
       }
     }
   },
-  
+
   {
     "verified": true,
     "singleFirm": false,
@@ -4676,7 +5077,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },
@@ -4744,7 +5145,7 @@
         "usa": true,
         "pakistan": false,
         "nigeria": true,
-        "iran": false,
+        "iran": true,
         "turkiye": true,
         "dubai": true
       },

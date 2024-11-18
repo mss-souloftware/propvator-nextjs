@@ -11,7 +11,7 @@ export default function CompanyData() {
             <span className="text-sm text-gray-300 uppercase bold mb-4 inline-block">
               Established
             </span>
-            <h4 className="mb-1">Scott Flook</h4>
+            <h4 className="mb-1">Sanswell Tassman</h4>
             <h4>October 2023</h4>
             <h4>South Africa</h4>
 

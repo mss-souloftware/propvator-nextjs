@@ -9,7 +9,7 @@ export default function AfterYT() {
           Quant Tekel - Information & Discount Code
         </h4>
         <p className="text-white mb-3">
-          The director of Quant Tekel is <b>Scott Flook</b>. Based in South
+          The director of Quant Tekel is <b>Sanswell Tassman</b>. Based in South
           Africa, the firm started operations in October 2023. It’s important to
           note that Quant Tekel was originally named <b>Ascendx Capital</b> and
           underwent a rebranding; now, it operates as both a prop firm and a

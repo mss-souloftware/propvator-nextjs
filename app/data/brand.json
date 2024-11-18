@@ -25,6 +25,11 @@
     "verified": true
   },
   {
+    "name": "Alpha Futures",
+    "logo": "/Images/brands/alphaFutures.svg",
+    "verified": true
+  },
+  {
     "name": "Alpha Capital Group",
     "logo": "/Images/brands/alpha.svg",
     "verified": false
