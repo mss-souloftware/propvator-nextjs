@@ -1,0 +1,20 @@
+.filterButtons {
+  display: flex;
+  justify-content: start;
+  margin: 50px 0;
+}
+
+.filterButtons .filterStepButton {
+  border: 1px solid #3338d3;
+  padding: 5px 20px;
+  border-radius: 5px;
+  margin: 0 5px;
+  color: #fff;
+}
+
+@media (max-width: 600px) {
+  .filterButtons {
+    flex-flow: column;
+    gap: 15px;
+  }
+}
